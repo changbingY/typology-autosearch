@@ -1,0 +1,67 @@
+1	first person
+2	second person
+3	third person
+ACC	accusative
+AFF	affirmative
+ALL	allative
+APPL	applicative
+CAUS	causative
+CAUS.I	indirect causative
+CER	certainty
+CL	final clause particle
+COLL	collective
+COND	conditional
+COP	copula
+DEF	definite article
+DESID	desiderative
+DEM	demonstrative
+DUB	dubitative
+DS	different subject
+DIST	distal
+EGO	egophoric
+EMPH	emphatic
+EP	epistemic
+EV	(auditory) evidential
+EXH	exhortative
+FILL	filler
+FUT	future
+GEN	genitive
+GER	gerundive
+IMP	imperative
+IMPF	imperfective
+INCH	inchoative
+INCL	inclusive
+INSTR	instrumental
+INT	intensifier
+IRR	irrealis
+LOC	locative
+MLTP	multiplicative/frequentative
+MOT	associated motion
+MOT.IMP	motion imperative
+MOV	movement
+MPASS	medio-passive
+NEG	negation
+NMLZ	nominalizer
+NOM	nominative
+PASS	passive
+PL	plural
+PLC	pluractional
+POSS	possessive
+POT	potential
+PROG	progressive
+PROH	prohibitive
+PROX	proximal
+PRS	present
+PST	past
+PTCP	participial
+PURP	purposive
+Q	question particle
+REP	reportative
+REV	reversive
+SG	singular
+SS	same subject
+SUB	subordinating morpheme
+SUPE	superessive
+TEMP	temporal
+TR	transitive
+VBLZ	verbalizer
