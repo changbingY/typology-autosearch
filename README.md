@@ -1,24 +1,51 @@
 # DeepLanguageResearchAgent
 
-**DeepLanguageResearchAgent** is a sophisticated autonomous research system designed to automate the discovery, verification, and analysis of typological linguistic features. 
+**DeepLanguageResearchAgent** is an autonomous research system designed to automate the discovery, verification, and structured analysis of typological linguistic features.
 
-Unlike standard RAG (Retrieval-Augmented Generation) systems, this agent emulates the workflow of a field linguist by synthesizing qualitative descriptions from reference grammars with quantitative evidence from Interlinear Glossed Text (IGT) corpora.
+Unlike standard RAG (Retrieval-Augmented Generation) systems, this agent emulates the workflow of a field linguist by synthesizing qualitative descriptions from reference grammars with quantitative evidence from Interlinear Glossed Text (IGT) corpora. Each conclusion is typed, weighted, and audited — not merely retrieved.
 
 ---
 
 ## 🌟 Key Features
 
-* **Dual-Engine Analysis**: Supports both a **Deep Agent** (Grammar + IGT integration) and an **IGT-Only Agent** (bottom-up discovery from raw corpora).
-* **Evidence Graph & Conflict Resolution**: Maintains a structured graph of "Claims". It automatically detects contradictions between authorial descriptions and empirical data, forcing the LLM to resolve discrepancies.
-* **Quantitative Grounding**: Calculates tag frequencies, positional profiles (e.g., preverbal vs. postverbal), and co-occurrence patterns to provide statistical weight to linguistic claims.
-* **Abbreviation Registry**: Injects human-readable meanings into LLM prompts (e.g., `PST` → `past`), significantly improving reasoning accuracy for low-resource languages.
-* **Multi-Hop Reasoning**: Capable of following cross-references across grammar chapters to synthesize complex features like TMA (Tense, Aspect, Mood) systems.
+- **Dual-Engine Analysis**: Supports a **Deep Agent** (Grammar + optional IGT) and an **IGT-Only Agent** (bottom-up discovery from raw corpora without a reference grammar).
+- **Structured Evidence Graph**: Every claim is typed (`GRAMMAR_STATEMENT`, `IGT_PATTERN`, `ABSENCE_EVIDENCE`, `INFERENCE`, `COUNTER_EVIDENCE`, `AUTHOR_CAVEAT`) and stored in a graph with automatic contradiction detection. Confidence is aggregated via log-odds weighting, with grammar prose outweighing raw IGT counts.
+- **Contradiction Resolution**: When a `GRAMMAR_STATEMENT` conflicts with an `IGT_PATTERN` (e.g., "no gender marking" vs. 50 attested FEM/MASC tags), the agent triggers an explicit resolution step before concluding.
+- **Adversarial Auditor**: After each conclusion is drafted, a separate auditor LLM call attempts to disprove it — downgrading `Yes` to `Partial` or flagging overconfident claims.
+- **Quantitative IGT Grounding**: Computes tag frequencies, linear positional profiles (preverbal / postverbal / flexible), co-occurrence PMI, construction bigrams/trigrams, and confirmed absence scores.
+- **Abbreviation Registry**: Injects human-readable gloss meanings into every LLM prompt (e.g., `PST` → `PST (past)`), improving reasoning accuracy for unfamiliar or low-resource language tags.
+- **Multi-Hop Cross-Reference Following**: Automatically follows `§`/`see`/`cf.` references across grammar chapters to gather distributed evidence for complex features such as TMA (Tense-Aspect-Mood) systems.
+- **Cross-Domain Deduplication**: After domain discovery, near-duplicate feature questions (Jaccard similarity ≥ 0.55 on content words) are detected and removed before investigation begins, preventing redundant LLM calls.
+- **Token Usage Tracking**: Records input tokens, output tokens, and LLM call count per feature or query, saved alongside each result for cost and complexity analysis.
 
 ---
+
+## 🛠️ Tool Set
+
+The agent selects from 12 tools per iteration:
+
+| Tool | Type | Purpose |
+|---|---|---|
+| `read_full_section` | Grammar | Complete text of a named section |
+| `follow_cross_references` | Grammar | Section + all linked sections (multi-hop) |
+| `extract_author_claims` | Grammar | Author's analytical statements only, no examples |
+| `search_text` | Grammar | BM25 + dense hybrid search across all chunks |
+| `analyse_tag` | IGT | Frequency, position, co-occurrence profile for a gloss tag |
+| `analyse_construction` | IGT | Find ordered tag sequences (e.g. `[NEG, V, PST]`) |
+| `analyse_absence` | IGT | Quantified negative evidence for a typological category |
+| `compare_tags` | IGT | PMI-based complementary distribution test |
+| `get_section_igt` | IGT | All examples from a matching section |
+| `search_translations` | IGT | Keyword search across translation lines |
+| `get_triline_examples` | IGT | Aligned morpheme / gloss / translation trilines |
+| `conclude` | Control | Triggered only when all evidence constraints are met |
+
+---
+
 ## 🚀 Usage
 
-### 1. Deep Research Mode (Grammar + IGT)
-To answer specific linguistic queries using both the reference grammar and the corpus:
+### 1. Full Typological Pipeline (Grammar + IGT)
+
+Automatically discovers domains, generates feature questions, and investigates each one:
 
 ```bash
 python deep_main.py \
@@ -26,43 +53,68 @@ python deep_main.py \
     --grammar data/choguita_raramuri_grammar.json \
     --igt data/choguita_raramuri_igt.json \
     --abbreviations data/abbreviations.txt \
-    --queries "Describe the future tense marking and its interaction with aspect."
+    --output results/
 ```
 
-### 2. Deep Research Mode (Grammar)
-To answer specific linguistic queries using only the reference grammar:
+### 2. Query Mode (Grammar + IGT)
+
+Answer specific research questions using both the grammar and the corpus:
 
 ```bash
 python deep_main.py \
     --language "Choguita Rarámuri" \
     --grammar data/choguita_raramuri_grammar.json \
-    --queries "Describe the future tense marking and its interaction with aspect."
+    --igt data/choguita_raramuri_igt.json \
+    --abbreviations data/abbreviations.txt \
+    --queries "Describe future tense marking and its interaction with aspect." \
+    --queries "Does the language have switch-reference morphology?"
 ```
 
-### 2. IGT-Only Mode
-To run a bottom-up discovery pipeline to infer the language's typological profile from raw IGT data:
+### 3. Query Mode (Grammar only)
+
+```bash
+python deep_main.py \
+    --language "Choguita Rarámuri" \
+    --grammar data/choguita_raramuri_grammar.json \
+    --queries "What is the basic word order?"
+```
+
+### 4. IGT-Only Pipeline
+
+Infer the language's typological profile bottom-up from raw IGT data, without a reference grammar:
 
 ```bash
 python deep_main.py \
     --language "Choguita Rarámuri" \
     --igt data/choguita_raramuri_igt.json \
-    --igt-only
+    --igt-only \
+    --abbreviations data/abbreviations.txt
 ```
 
----
+### 5. IGT-Only Query Mode
 
-## 🧠 Methodology: The Evidence Graph
+Answer specific questions from IGT data alone:
 
-The system doesn't just "summarize" text. It builds an **Evidence Graph** where each claim is typed:
-* **GRAMMAR_STATEMENT**: Explicit author claims from prose.
-* **IGT_PATTERN**: Derived from quantitative IGT analysis.
-* **ABSENCE_EVIDENCE**: Confirmed absence of features from the corpus.
-* **INFERENCE**: Derived by combining multiple data points.
+```bash
+python deep_main.py \
+    --language "Choguita Rarámuri" \
+    --igt data/choguita_raramuri_igt.json \
+    --igt-only \
+    --queries "What morphological markers appear in negative clauses?"
+```
 
-When a `GRAMMAR_STATEMENT` (e.g., "Language X has no gender") is contradicted by an `IGT_PATTERN` (e.g., "Found 50 instances of FEM/MASC tags"), the agent triggers a **Contradiction Resolution** step to evaluate the source of the error.
+### Optional flags
+
+| Flag | Default | Description |
+|---|---|---|
+| `--output` | `output/` | Directory for JSON results |
+| `--abbreviations` | *(none)* | Path to tab-separated gloss abbreviation file |
+| `--max-iterations` | `15` | ReAct loop budget per feature / query |
+| `--confidence-threshold` | `0.75` | Minimum confidence to classify a feature as confirmed |
+| `--use-vllm` | off | Use vLLM backend instead of Transformers (faster on GPU) |
 
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
