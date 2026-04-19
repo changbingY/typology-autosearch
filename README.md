@@ -15,36 +15,6 @@ Unlike standard RAG (Retrieval-Augmented Generation) systems, this agent emulate
 * **Multi-Hop Reasoning**: Capable of following cross-references across grammar chapters to synthesize complex features like TMA (Tense, Aspect, Mood) systems.
 
 ---
-
-## 📂 Project Structure
-
-| File | Description |
-| :--- | :--- |
-| `deep_main.py` | Main entry point for the pipeline. |
-| `deep_agent.py` | Core logic for the Grammar + IGT Research Agent. |
-| `igt_agent.py` | Logic for the Corpus-only (Bottom-up) Agent. |
-| `deep_tools.py` | Advanced toolkit (DeepGrammarToolkit) for LLM tool-use. |
-| `igt_analysis.py` | Quantitative statistical engine for IGT data. |
-| `evidence_graph.py` | Data structure for tracking claims and contradictions. |
-| `abbreviations.py` | Registry for glossing abbreviation expansion. |
-
----
-
-## 🛠️ Installation & Setup
-
-### Prerequisites
-* Python 3.9+
-* OpenAI or Qwen-compatible API Key.
-
-### Installation
-```bash
-git clone [https://github.com/yourusername/DeepLanguageResearchAgent.git](https://github.com/yourusername/DeepLanguageResearchAgent.git)
-cd DeepLanguageResearchAgent
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 Usage
 
 ### 1. Deep Research Mode (Grammar + IGT)
@@ -59,8 +29,18 @@ python deep_main.py \
     --queries "Describe the future tense marking and its interaction with aspect."
 ```
 
+### 2. Deep Research Mode (Grammar)
+To answer specific linguistic queries using only the reference grammar:
+
+```bash
+python deep_main.py \
+    --language "Choguita Rarámuri" \
+    --grammar data/choguita_raramuri_grammar.json \
+    --queries "Describe the future tense marking and its interaction with aspect."
+```
+
 ### 2. IGT-Only Mode
-If no reference grammar exists, run a bottom-up discovery pipeline to infer the language's typological profile from raw IGT data:
+To run a bottom-up discovery pipeline to infer the language's typological profile from raw IGT data:
 
 ```bash
 python deep_main.py \
@@ -80,15 +60,6 @@ The system doesn't just "summarize" text. It builds an **Evidence Graph** where 
 * **INFERENCE**: Derived by combining multiple data points.
 
 When a `GRAMMAR_STATEMENT` (e.g., "Language X has no gender") is contradicted by an `IGT_PATTERN` (e.g., "Found 50 instances of FEM/MASC tags"), the agent triggers a **Contradiction Resolution** step to evaluate the source of the error.
-
----
-
-## 🎓 Research Background
-
-This project was developed within the context of **Computational Linguistics** research at the **University of British Columbia (UBC)**. It draws inspiration from the award-winning work: 
-> *"LingGym: How Far Are LLMs from Thinking Like Field Linguists?"* (EMNLP 2025).
-
-**Author**: Changbing Yang
 
 ---
 
