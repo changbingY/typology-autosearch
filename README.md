@@ -108,10 +108,9 @@ python deep_main.py \
 | Flag | Default | Description |
 |---|---|---|
 | `--output` | `output/` | Directory for JSON results |
-| `--abbreviations` | *(none)* | Path to tab-separated gloss abbreviation file |
+| `--abbreviations` | *(none)* | Path to gloss abbreviation file |
 | `--max-iterations` | `15` | ReAct loop budget per feature / query |
 | `--confidence-threshold` | `0.75` | Minimum confidence to classify a feature as confirmed |
-| `--use-vllm` | off | Use vLLM backend instead of Transformers (faster on GPU) |
 
 ---
 
