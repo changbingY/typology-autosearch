@@ -1,4 +1,3 @@
-```markdown
 # DeepLanguageResearchAgent
 
 **DeepLanguageResearchAgent** is a sophisticated autonomous research system designed to automate the discovery, verification, and analysis of typological linguistic features. 
