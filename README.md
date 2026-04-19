@@ -1,6 +1,6 @@
-# DeepLanguageResearchAgent
+# Typology Autosearch 
 
-**DeepLanguageResearchAgent** is an autonomous research system designed to automate the discovery, verification, and structured analysis of typological linguistic features.
+**Typology Autosearch** is an autonomous research system designed to automate the discovery, verification, and structured analysis of typological linguistic features.
 
 Unlike standard RAG (Retrieval-Augmented Generation) systems, this agent emulates the workflow of a field linguist by synthesizing qualitative descriptions from reference grammars with quantitative evidence from Interlinear Glossed Text (IGT) corpora. Each conclusion is typed, weighted, and audited — not merely retrieved.
 
