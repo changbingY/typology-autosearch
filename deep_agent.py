@@ -1009,7 +1009,7 @@ class DeepLanguageResearchAgent:
                 if summary:
                     _print(f"       Summary: {summary[:200]}", indent=4)
 
-            chunk_ref = ", ".join(sr.chunk_ids[:4])
+            chunk_ref = ", ".join(str(c) for c in sr.chunk_ids[:4])
             if len(sr.chunk_ids) > 4:
                 chunk_ref += f"... (+{len(sr.chunk_ids)-4} more)"
             source = f"§{sr.section_path} [chunks: {chunk_ref}]" if sr.section_path else f"section:{section_ref}"
