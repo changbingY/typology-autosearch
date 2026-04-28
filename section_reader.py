@@ -176,7 +176,7 @@ class SectionReader:
         section_path = " > ".join(filter(None, [node.chapter, node.section, node.subsection, node.subsubsection]))
         header = f"[{node.section_id}] {section_path}"
         header += f"  label={node.label}  ({node.char_count} chars, {len(node.chunk_ids)} chunks)"
-        header += f"  chunks=[{', '.join(node.chunk_ids[:5])}{'...' if len(node.chunk_ids)>5 else ''}]"
+        header += f"  chunks=[{', '.join(str(c) for c in node.chunk_ids[:5])}{'...' if len(node.chunk_ids)>5 else ''}]"
 
         text = node.full_text
         truncated = ""
