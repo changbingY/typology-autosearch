@@ -26,6 +26,7 @@ Key difference from DeepLanguageResearchAgent:
 
 import json
 import re
+from collections import Counter   
 import logging
 from dataclasses import dataclass, field
 from pathlib import Path
