@@ -1,0 +1,22 @@
+{
+  "languages": [
+    {
+      "name": "Aguaruna",
+      "grammar": "data/Aguaruna_grammar.json",
+      "igt":     "data/Aguaruna_igt.json",
+      "abbreviations": "data/Aguaruna_abbreviations.txt"
+    },
+    {
+      "name": "Raramuri",
+      "grammar": "data/raramuri_grammar.json"
+    },
+    {
+      "name": "Yagua",
+      "igt":      "data/yagua_igt.json",
+      "igt_only": true
+    }
+  ],
+
+  "planning":  { "n_questions": 15 },
+  "synthesis": { "min_languages_per_cluster": 2, "focus_domains": [] }
+}
