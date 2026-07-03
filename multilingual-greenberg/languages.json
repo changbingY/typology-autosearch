@@ -1,0 +1,74 @@
+{
+  "languages": [
+    {
+      "name": "Aguaruna",
+      "grammar": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Aguaruna/Aguaruna_grammar.json",
+      "igt": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Aguaruna/Aguaruna_igt_processed.json",
+      "abbreviations": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Aguaruna/Aguaruna_abbreviations.txt",
+      "igt_only": false
+    },
+    {
+      "name": "Chácobo",
+      "grammar": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Chácobo/Chácobo_grammar.json",
+      "igt": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Chácobo/Chácobo_igt_processed.json",
+      "abbreviations": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Chácobo/Chácobo_abbreviations.txt",
+      "igt_only": false
+    },
+    {
+      "name": "Chakali",
+      "grammar": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Chakali/Chakali_grammar.json",
+      "igt": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Chakali/Chakali_igt_processed.json",
+      "abbreviations": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Chakali/Chakali_abbreviations.txt",
+      "igt_only": false
+    },
+    {
+      "name": "Moloko",
+      "grammar": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Moloko/Moloko_grammar.json",
+      "igt": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Moloko/Moloko_igt_processed.json",
+      "abbreviations": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Moloko/Moloko_abbreviations.txt",
+      "igt_only": false
+    },
+    {
+      "name": "Ik",
+      "grammar": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Ik/Ik_grammar.json",
+      "igt": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Ik/Ik_igt_processed.json",
+      "abbreviations": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Ik/Ik_abbreviations.txt",
+      "igt_only": false
+    },
+    {
+      "name": "Eastern_Geshiza",
+      "grammar": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Eastern_Geshiza/Eastern_Geshiza_grammar.json",
+      "igt": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Eastern_Geshiza/Eastern_Geshiza_igt_processed.json",
+      "abbreviations": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Eastern_Geshiza/Eastern_Geshiza_abbreviations.txt",
+      "igt_only": false
+    },
+    {
+      "name": "Papuan_Malay",
+      "grammar": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Papuan_Malay/Papuan_Malay_grammar.json",
+      "igt": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Papuan_Malay/Papuan_Malay_igt_processed.json",
+      "abbreviations": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Papuan_Malay/Papuan_Malay_abbreviations.txt",
+      "igt_only": false
+    },
+    {
+      "name": "Komnzo",
+      "grammar": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Komnzo/Komnzo_grammar.json",
+      "igt": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Komnzo/Komnzo_igt_processed.json",
+      "abbreviations": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Komnzo/Komnzo_abbreviations.txt",
+      "igt_only": false
+    },
+    {
+      "name": "Kalamang",
+      "grammar": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Kalamang/Kalamang_grammar.json",
+      "igt": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Kalamang/Kalamang_igt_processed.json",
+      "abbreviations": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Kalamang/Kalamang_abbreviations.txt",
+      "igt_only": false
+    },
+    {
+      "name": "Pite_Saami",
+      "grammar": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Pite_Saami/Pite_Saami_grammar.json",
+      "igt": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Pite_Saami/Pite_Saami_igt_processed.json",
+      "abbreviations": "/content/drive/MyDrive/Grammar_chunks_igt_grambank/Pite_Saami/Pite_Saami_abbreviations.txt",
+      "igt_only": false
+    }
+  ]
+}
