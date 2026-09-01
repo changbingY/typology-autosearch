@@ -51,7 +51,7 @@ The IGT-only agent additionally provides exploratory tools for tag inventories, 
 
 ## 🚀 Usage
 
-### 1. Full Typological Pipeline (Grammar + IGT)
+### 1. Automatic Typological Discovery Pipeline (Grammar + IGT)
 
 Automatically discovers typological domains, generates feature questions, and investigates each feature:
 
