@@ -1,43 +1,51 @@
-# Typology Autosearch 
+# AutoTypologist
 
-**Typology Autosearch** is an autonomous research system designed to automate the discovery, verification, and structured analysis of typological linguistic features.
+**AutoTypologist** is an LLM agent for automated, evidence-grounded typological research using reference grammars and Interlinear Glossed Text (IGT).
 
-Unlike standard RAG (Retrieval-Augmented Generation) systems, this agent emulates the workflow of a field linguist by synthesizing qualitative descriptions from reference grammars with quantitative evidence from Interlinear Glossed Text (IGT) corpora. Each conclusion is typed, weighted, and audited — not merely retrieved.
+Rather than treating typological analysis as simple retrieval, the agent follows a ReAct-style research workflow: it plans what evidence is needed, retrieves relevant grammar sections and IGT examples, analyzes the evidence with linguistically motivated tools, maintains a structured evidence graph, and produces an auditable typological judgment.
+
+The framework supports two main tasks:
+
+- **Typological Feature Coding** — predict typological feature values following coding schemes such as Grambank.
+- **Typological Hypothesis Testing** — evaluate cross-linguistic hypotheses by gathering supporting evidence and counterexamples across languages.
+
+> This repository currently provides the implementation based on **Qwen2.5-7B-Instruct**.
 
 ---
 
 ## 🌟 Key Features
 
-- **Dual-Engine Analysis**: Supports a **Deep Agent** (Grammar + optional IGT) and an **IGT-Only Agent** (bottom-up discovery from raw corpora without a reference grammar).
-- **Structured Evidence Graph**: Every claim is typed (`GRAMMAR_STATEMENT`, `IGT_PATTERN`, `ABSENCE_EVIDENCE`, `INFERENCE`, `COUNTER_EVIDENCE`, `AUTHOR_CAVEAT`) and stored in a graph with automatic contradiction detection. Confidence is aggregated via log-odds weighting, with grammar prose outweighing raw IGT counts.
-- **Contradiction Resolution**: When a `GRAMMAR_STATEMENT` conflicts with an `IGT_PATTERN` (e.g., "no gender marking" vs. 50 attested FEM/MASC tags), the agent triggers an explicit resolution step before concluding.
-- **Adversarial Auditor**: After each conclusion is drafted, a separate auditor LLM call attempts to disprove it — downgrading `Yes` to `Partial` or flagging overconfident claims.
-- **Quantitative IGT Grounding**: Computes tag frequencies, linear positional profiles (preverbal / postverbal / flexible), co-occurrence PMI, construction bigrams/trigrams, and confirmed absence scores.
-- **Abbreviation Registry**: Injects human-readable gloss meanings into every LLM prompt (e.g., `PST` → `PST (past)`), improving reasoning accuracy for unfamiliar or low-resource language tags.
-- **Multi-Hop Cross-Reference Following**: Automatically follows `§`/`see`/`cf.` references across grammar chapters to gather distributed evidence for complex features such as TMA (Tense-Aspect-Mood) systems.
-- **Cross-Domain Deduplication**: After domain discovery, near-duplicate feature questions (Jaccard similarity ≥ 0.55 on content words) are detected and removed before investigation begins, preventing redundant LLM calls.
-- **Token Usage Tracking**: Records input tokens, output tokens, and LLM call count per feature or query, saved alongside each result for cost and complexity analysis.
+- **Grammar + IGT Analysis**: Combines qualitative descriptions from reference grammars with quantitative evidence from IGT.
+- **IGT-Only Analysis**: Supports bottom-up typological analysis when no reference grammar is available.
+- **Structured Evidence Graph**: Stores supporting evidence, counter-evidence, uncertainty, contradictions, citations, and confidence scores.
+- **ReAct-style Investigation**: Iteratively selects linguistic tools based on the current evidence and remaining gaps.
+- **Contradiction Resolution**: Explicitly checks conflicting evidence before producing a conclusion.
+- **Adversarial Auditor**: Re-examines the final conclusion and can uphold, weaken, or overturn it.
+- **Quantitative IGT Analysis**: Supports tag frequencies, positional distributions, construction patterns, co-occurrence analysis, and absence checks.
+- **Traceable Outputs**: Saves the evidence, reasoning trace, confidence, audit result, and token usage for each analysis.
 
 ---
 
 ## 🛠️ Tool Set
 
-The agent selects from 12 tools per iteration:
+For grammar-grounded analysis, the agent can select from the following tools:
 
 | Tool | Type | Purpose |
 |---|---|---|
-| `read_full_section` | Grammar | Complete text of a named section |
-| `follow_cross_references` | Grammar | Section + all linked sections (multi-hop) |
-| `extract_author_claims` | Grammar | Author's analytical statements only, no examples |
-| `search_text` | Grammar | BM25 + dense hybrid search across all chunks |
-| `analyse_tag` | IGT | Frequency, position, co-occurrence profile for a gloss tag |
-| `analyse_construction` | IGT | Find ordered tag sequences (e.g. `[NEG, V, PST]`) |
-| `analyse_absence` | IGT | Quantified negative evidence for a typological category |
-| `compare_tags` | IGT | PMI-based complementary distribution test |
-| `get_section_igt` | IGT | All examples from a matching section |
-| `search_translations` | IGT | Keyword search across translation lines |
-| `get_triline_examples` | IGT | Aligned morpheme / gloss / translation trilines |
-| `conclude` | Control | Triggered only when all evidence constraints are met |
+| `read_full_section` | Grammar | Read a relevant grammar section |
+| `follow_cross_references` | Grammar | Follow references to related sections |
+| `extract_author_claims` | Grammar | Extract explicit analytical claims from grammar prose |
+| `search_text` | Grammar | Hybrid retrieval over grammar chunks |
+| `analyse_tag` | IGT | Analyze frequency, position, and co-occurrence of a gloss tag |
+| `analyse_construction` | IGT | Search for ordered gloss-tag sequences |
+| `analyse_absence` | IGT | Quantify evidence for the absence of a category |
+| `compare_tags` | IGT | Compare the distributions of two tags |
+| `get_section_igt` | IGT | Retrieve IGT examples from relevant sections |
+| `search_translations` | IGT | Search translation lines for semantic evidence |
+| `get_triline_examples` | IGT | Retrieve aligned morpheme / gloss / translation examples |
+| `conclude` | Control | Produce a conclusion once the required evidence is collected |
+
+The IGT-only agent additionally provides exploratory tools for tag inventories, construction discovery, morpheme position, surface forms, semantic context, and clause structure analysis.
 
 ---
 
@@ -45,7 +53,7 @@ The agent selects from 12 tools per iteration:
 
 ### 1. Full Typological Pipeline (Grammar + IGT)
 
-Automatically discovers domains, generates feature questions, and investigates each one:
+Automatically discovers typological domains, generates feature questions, and investigates each feature:
 
 ```bash
 python deep_main.py \
@@ -58,7 +66,7 @@ python deep_main.py \
 
 ### 2. Query Mode (Grammar + IGT)
 
-Answer specific research questions using both the grammar and the corpus:
+Answer specific typological questions using both grammar and IGT evidence:
 
 ```bash
 python deep_main.py \
@@ -66,22 +74,22 @@ python deep_main.py \
     --grammar data/choguita_raramuri_grammar.json \
     --igt data/choguita_raramuri_igt.json \
     --abbreviations data/abbreviations.txt \
-    --queries "Describe future tense marking and its interaction with aspect." \
-    --queries "Does the language have switch-reference morphology?"
+    --query "Describe future tense marking and its interaction with aspect." \
+    --query "Does the language have switch-reference morphology?"
 ```
 
-### 3. Query Mode (Grammar only)
+### 3. Query Mode (Grammar Only)
 
 ```bash
 python deep_main.py \
     --language "Choguita Rarámuri" \
     --grammar data/choguita_raramuri_grammar.json \
-    --queries "What is the basic word order?"
+    --query "What is the basic word order?"
 ```
 
 ### 4. IGT-Only Pipeline
 
-Infer the language's typological profile bottom-up from raw IGT data, without a reference grammar:
+Infer typological features directly from IGT without access to a reference grammar:
 
 ```bash
 python deep_main.py \
@@ -93,24 +101,40 @@ python deep_main.py \
 
 ### 5. IGT-Only Query Mode
 
-Answer specific questions from IGT data alone:
-
 ```bash
 python deep_main.py \
     --language "Choguita Rarámuri" \
     --igt data/choguita_raramuri_igt.json \
     --igt-only \
-    --queries "What morphological markers appear in negative clauses?"
+    --abbreviations data/abbreviations.txt \
+    --query "What morphological markers appear in negative clauses?"
 ```
 
-### Optional flags
+### Optional Flags
 
 | Flag | Default | Description |
 |---|---|---|
 | `--output` | `output/` | Directory for JSON results |
 | `--abbreviations` | *(none)* | Path to gloss abbreviation file |
-| `--max-iterations` | `15` | ReAct loop budget per feature / query |
-| `--confidence-threshold` | `0.75` | Minimum confidence to classify a feature as confirmed |
+| `--max-iterations` | `15` | Maximum ReAct iterations per feature/query |
+| `--confidence-threshold` | `0.75` | Confidence threshold for feature conclusions |
+| `--use-vllm` | off | Use vLLM for faster local inference |
+
+For reproducing the paper experiments, we use a maximum of **10 ReAct iterations**, a confidence threshold of **0.75**, temperature **0.1**, and bfloat16 inference.
+
+---
+
+## 📖 Paper
+
+**LLM Agents as Computational Typologists**  
+Changbing Yang, Christopher Hammerly, Freda Shi, and Jian Zhu
+
+Paper link and citation information to come.
+---
+
+## ⚠️ Note
+
+AutoTypologist is intended to **support linguistic research**. Agent outputs should be treated as evidence-grounded research assistance and should still be validated by linguistic experts.
 
 ---
 
