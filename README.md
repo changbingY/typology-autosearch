@@ -110,6 +110,55 @@ python deep_main.py \
     --query "What morphological markers appear in negative clauses?"
 ```
 
+### 6. Typological Hypothesis Testing (Greenberg Universals)
+
+The cross-linguistic hypothesis-testing code is located in `multilingual-greenberg/`. Before running it, update `languages.json` so that each language points to the correct local grammar, IGT, and abbreviation files.
+
+Test a single Greenberg universal:
+
+```bash
+cd multilingual-greenberg
+
+python greenberg_main.py \
+    --config languages.json \
+    --greenberg greenberg_universals.csv \
+    --ids U1 \
+    --output results/greenberg/ \
+    --use-vllm
+```
+
+Test multiple universals:
+
+```bash
+python greenberg_main.py \
+    --config languages.json \
+    --greenberg greenberg_universals.csv \
+    --ids U1 U8 U14 U18 \
+    --output results/greenberg/ \
+    --use-vllm
+```
+
+Test all universals in the file:
+
+```bash
+python greenberg_main.py \
+    --config languages.json \
+    --greenberg greenberg_universals.csv \
+    --all \
+    --output results/greenberg/ \
+    --use-vllm
+```
+
+The adversarial hypotheses used in the paper can be tested in the same way by replacing the CSV file:
+
+```bash
+python greenberg_main.py \
+    --config languages.json \
+    --greenberg greenberg_adversarial_rules_selected.csv \
+    --all \
+    --output results/greenberg_adversarial/ \
+    --use-vllm
+```
 ### Optional Flags
 
 | Flag | Default | Description |
