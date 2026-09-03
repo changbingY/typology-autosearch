@@ -1,0 +1,153 @@
+1	1st person
+2	2nd person
+3	3rd person
+ACL	accidental
+ADJCT	adjunct
+ADNOM	adnominal
+AdPoss.	adnominal possessive
+ADV	adverb
+ADV.T	adverb, temporal
+ADVS	adversative
+AFFR	affricate
+AFFX	affixation
+AG	agent
+AGT	agentive
+AL	alienable
+Alt.	alternative
+ALV	alveolar
+AN	animate
+APR	approximant
+A-P-ULT	antepenultimate
+ARGT	argument
+ASSCT	association
+ATTR	attributive
+AUG	augmentation
+BEN	beneficiary
+BW	base word
+C	consonant
+CAUS	causative
+CIRC	circumstance
+CL	clause
+CMPR	comparative
+CNJ	conjunction
+CST	contrastive
+D.DIST	demonstrative, distal
+D.PROX	demonstrative, proximal
+DEM	demonstrative
+DIM	diminution
+DIPH	diphthong
+DO	direct object
+DY	dynamic
+EDC	education
++EDC	better educated
+-EDC	less educated
+ELS	elision
+EMPH	emphasis, emphatic
+FRIC	fricative
+GLOT	glottal
+HUM	human
+ILCT	interlocutor
+INAL	inalienable
+INAN	inanimate
+INS	instrument
+INT	interrogative
+INTENS	intensity
+INTR	intransitive
+Is	Isirawa
+k.o.	kind of
+L.DIST	locative, distal
+L.MED	locative, medial
+L.PROX	locative, proximal
+LAB	labial
+LAT-APRX	lateral-approximant
+LIG	ligature
+lim.	limited
+LIQ	liquid
+LOC	locative
+LOCT	location
+marg.	marginal
+med.	medium
+MOD	modifier
+N	noun
+N.COM	noun, common
+N.LOC	noun, location
+N.TIME	noun, time-denoting
+NAS	nasal
+NEG	negation, negative
+NEG.IMP	negative imperative
+NMLZ	nominalizer
+NOM	nominal
+NP	noun phrase
+NUM	numeral
+O	object
+Obl.	oblique
+OBSTR	obstruent
+OMV	object of mental verb
+ORTH	orthography
+Orthogr.	orthography
+oSb	older sibling
+OUTSD	outsider
+PAL	palatal
+PAL-ALV	palato-alveolar
+PAT	patient
+PFX	prefix
+PHON	phoneme
+PL	plural
+PL-HOLD	placeholder
+PLOS	plosive
+PN	proper noun
+POL	politics
+POSS	possessive
+POSSM	possessum
+POSSR	possessor
+PP	prepositional phrase
+prec.	precedes
+PRED	predicate, predicative
+PRO	personal pronoun
+PROD	productivity
+PRONOM	pronominal
+P-ULT	penultimate
+QT	quantifier
+QUANT	quantity
+RC	relative clause
+RDP	reduplicant
+REC	recipient
+RECP	reciprocal
+REL	religion
+REL	relativizer
+RES	result
+RET	retention
+RHOT	rhotic
+S	subject
+s.o.	someone
+s.th.	something
+SG	singular
+SI	Standard Indonesian
+Sim.	similarity
+SPK	speaker
+SPM	speech mistake
+ST	stative
+STAT	status
++STAT	higher social status
+-STAT	lower social status
+STD	standard of comparison
+SUPL	superlative
+SYLB	syllable
+TOP	topic
+TRU	truncated
+ULT	ultimate
+UP	unclear pronunciation
+UV	undergoer voice
+V	vowel
+V	verb
+V.BI	verb, bivalent
+V.MO	verb, monovalent
+V.TRI	verb, trivalent
+VBLZ	verbalizer
+VDI	verb, ditransitive
+VEL	velar
+VOC	vocative
+VP	verb phrase
+VSI	verb, intransitive stative
+VTR	verb, transitive
+ySb	younger sibling

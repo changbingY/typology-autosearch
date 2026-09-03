@@ -1,0 +1,83 @@
+1	First person
+2	Second person
+3	Third person
+A	(Di-)Transitive subject
+ADNOM	Adnominal
+AN	Animate
+AUX	Auxiliary
+COLL	Collective
+COND	Conditional
+CP	Classificatory prefix
+CQ	(Content) Question
+DECL	Declarative
+DEM	Demonstrative
+DEONT	Deontic
+DET	Determiner
+DIST	Distal
+DS	Different subject
+EMPH	Emphatic
+EP	Epenthetic vowel
+EXCL	Exclusive
+EXCLAM	Exclamative
+EXPL	Expletive
+F	Feminine
+F_CL	F-class
+GPST	General past
+HAB	Habitual
+HORT	Hortative
+HPST	Hesternal past
+IMMACT	Immediate action
+INCH	Inchoative
+INCL	Inclusive
+INTERJ	Interjection
+IPFV	Imperfective
+IRR	Irrealis
+ITER	Iterative
+IU	Intonational unit
+M	Masculine
+M_CL	M-class
+Med-Cl	Medial clause
+MED	Medial
+N1	Neuter 1
+N2	Neuter 2
+NANPL	Not animate plural
+NRPST	Near past
+NEG	Negation
+NHODPST	Non-hodiernal past
+O	Object
+PST	Past
+PFV	Perfective
+PL	Plural
+PN	Proper name
+Q	Question
+POSS	Possessor
+PRD	Predicator
+PROX	Proximal
+QUOT	Quotative
+REAL	Realis
+RESID	Residue class
+REFL	Reflexive
+RECP	Reciprocal
+RPST	Remote past
+S	Intransitive subject
+sb	somebody
+SBJ	Subject
+SC	Sentential complement
+SG	Singular
+SI	Short interval
+SIM	Simultaneous
+SEQ	Sequential
+sp.	species
+SS	Same subject
+sth	something
+SURP	Surprise
+SVC	Serial verb construction
+TOP	Topic
+TP	Tok Pisin
+V	Verb
+VBLZ	Verbalizer
+VN	Verbal noun
+VOC	Vocative
+ω	Phonological word
+||	Intonational break
+()	Inherent feature

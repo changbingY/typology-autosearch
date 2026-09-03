@@ -1,0 +1,5845 @@
+[
+  {
+    "language": "Pite Saami",
+    "example_id": "bidumsaamegiella",
+    "source": "Bidumsáme giella",
+    "morpheme": "bidum+sáme giella",
+    "gloss": "Pite+Saami.SG language.SG",
+    "translation": "'the Pite Saami language'",
+    "gloss_tags": [
+      [
+        "Pite+Saami.SG"
+      ],
+      [
+        "language.SG"
+      ]
+    ],
+    "chapter": "Introduction",
+    "section": "The Pite Saami language and its speakers",
+    "subsection": "Names for",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "intonationDropEx",
+    "source": "da lä tjakktja ja gillgijmä sarvajd njuovvat",
+    "morpheme": "da lä tjakktja ja gillgi-jmä sarva-jd njuovva-t",
+    "gloss": "then be\\3SG.PRS autumn .SG and will-1PL.PST reindeer.bull-ACC.PL slaughter-INF",
+    "translation": "'It is autumn and we will slaughter the reindeer bulls.'",
+    "gloss_tags": [
+      [
+        "then"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "autumn"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "and"
+      ],
+      [
+        "will",
+        "1PL.PST"
+      ],
+      [
+        "reindeer.bull",
+        "ACC.PL"
+      ],
+      [
+        "slaughter",
+        "INF"
+      ]
+    ],
+    "chapter": "Prosody",
+    "section": "Utterance-level prosody",
+    "subsection": "Intonation in utterances",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "utteranceFinalDevoicing1",
+    "source": "da’l adnam buorak, buorak giesev",
+    "morpheme": "t-a=l at̚na-m pʊ͡ɔrakʰ pʊ͡ɔrak kɪ̥͡e̥se̥-v̥",
+    "gloss": "DEM-3PL.NOM=be\\3PL.PRS have-PRF good good summer-ACC.SG",
+    "translation": "'They have had a good summer.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "3PL.NOM",
+        "be\\3PL.PRS"
+      ],
+      [
+        "have",
+        "PRF"
+      ],
+      [
+        "good"
+      ],
+      [
+        "good"
+      ],
+      [
+        "summer",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Prosody",
+    "section": "Utterance-level prosody",
+    "subsection": "Utterance-final weakening",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "uncountableEx1",
+    "source": "dán ájten inimä jáfojd ja suhkurijd ja gárvojd ja iehtjá biebmojd",
+    "morpheme": "d-á-n ájte-n ini-mä jáfo-jd ja suhkuri-jd ja gárvo-jd ja iehtjá biebmo-jd",
+    "gloss": "DEM-PROX-INESS.SG shed-INESS.SG have-1PL.PST flour-ACC.PL and sugar-ACC.PL and clothing-ACC.PL and other food-ACC.PL",
+    "translation": "'In this shed we had flour and sugar and clothing and other food.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "PROX",
+        "INESS.SG"
+      ],
+      [
+        "shed",
+        "INESS.SG"
+      ],
+      [
+        "have",
+        "1PL.PST"
+      ],
+      [
+        "flour",
+        "ACC.PL"
+      ],
+      [
+        "and"
+      ],
+      [
+        "sugar",
+        "ACC.PL"
+      ],
+      [
+        "and"
+      ],
+      [
+        "clothing",
+        "ACC.PL"
+      ],
+      [
+        "and"
+      ],
+      [
+        "other"
+      ],
+      [
+        "food",
+        "ACC.PL"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "Number in nouns",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "uncountableEx2",
+    "source": "men vuästa, del káfan njallge",
+    "morpheme": "men vuästa del káfa-n njallge",
+    "gloss": "but cheese .SG definitely coffee-INESS.SG tasty",
+    "translation": "'But cheese, (it’s) definitely tasty in coffee.'",
+    "gloss_tags": [
+      [
+        "but"
+      ],
+      [
+        "cheese"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "definitely"
+      ],
+      [
+        "coffee",
+        "INESS.SG"
+      ],
+      [
+        "tasty"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "Number in nouns",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "nom1",
+    "source": "dä stuor sarves båhta",
+    "morpheme": "dä stuor sarves båhta",
+    "gloss": "then big moose .SG come\\3SG.PRS",
+    "translation": "'Then a big moose arrives.'",
+    "gloss_tags": [
+      [
+        "then"
+      ],
+      [
+        "big"
+      ],
+      [
+        "moose"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "come\\3SG.PRS"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Nominative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "nom2",
+    "source": "",
+    "morpheme": "ja dä dáhka almatj dålå-v",
+    "gloss": "and then make\\3SG.PRS person .SG fire-ACC.SG",
+    "translation": "'And then one makes a fire.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "then"
+      ],
+      [
+        "make\\3SG.PRS"
+      ],
+      [
+        "person"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "fire",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Nominative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "nom3",
+    "source": "",
+    "morpheme": "muvne lä bijjla",
+    "gloss": "1SG.INESS be\\3SG.PRS car .SG",
+    "translation": "'I have a car.' '(lit.: ‘at-me is car’)'",
+    "gloss_tags": [
+      [
+        "1SG.INESS"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "car"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Nominative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "gen1",
+    "source": "",
+    "morpheme": "gokt lä d-a-n almatj-a namma ma-jna ságasta",
+    "gloss": "how be\\3SG.PRS DEM-DIST-GEN.SG person-GEN.SG name .SG REL-COM.SG talk\\2SG.PRS",
+    "translation": "'What is the name of that person who you are talking with?'",
+    "gloss_tags": [
+      [
+        "how"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "GEN.SG"
+      ],
+      [
+        "person",
+        "GEN.SG"
+      ],
+      [
+        "name"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "REL",
+        "COM.SG"
+      ],
+      [
+        "talk\\2SG.PRS"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Genitive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "gen2",
+    "source": "",
+    "morpheme": "gåde sinne suovasti-t",
+    "gloss": "hut .SG in smoke-INF",
+    "translation": "'to smoke (something) inside a hut'",
+    "gloss_tags": [
+      [
+        "hut"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "in"
+      ],
+      [
+        "smoke",
+        "INF"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Genitive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "acc1",
+    "source": "",
+    "morpheme": "dä virti-v vállde-t giehpa-jd ja ribbre-v ja dagari-jd ulgos",
+    "gloss": "then must-1SG.PRS take-INF lung-ACC.PL and liver-ACC.SG and such-ACC.PL out",
+    "translation": "'Then I have to take out the lungs, the liver and such things.'",
+    "gloss_tags": [
+      [
+        "then"
+      ],
+      [
+        "must",
+        "1SG.PRS"
+      ],
+      [
+        "take",
+        "INF"
+      ],
+      [
+        "lung",
+        "ACC.PL"
+      ],
+      [
+        "and"
+      ],
+      [
+        "liver",
+        "ACC.SG"
+      ],
+      [
+        "and"
+      ],
+      [
+        "such",
+        "ACC.PL"
+      ],
+      [
+        "out"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Accusative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "acc2",
+    "source": "",
+    "morpheme": "mån vadda-v gajka buhtsu-jda biebmo-v",
+    "gloss": "1SG.NOM give-1SG.PRS all reindeer-ILL.PL food-ACC.SG",
+    "translation": "'I give food to all the reindeer.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "give",
+        "1SG.PRS"
+      ],
+      [
+        "all"
+      ],
+      [
+        "reindeer",
+        "ILL.PL"
+      ],
+      [
+        "food",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Accusative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "acc3",
+    "source": "",
+    "morpheme": "jo d-a-n vuolen ude-mä ija-v",
+    "gloss": "yes DEM-DIST-GEN.SG under sleep-1PL.PST night-ACC.SG",
+    "translation": "'Yes, and we slept under that for a night.'",
+    "gloss_tags": [
+      [
+        "yes"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "GEN.SG"
+      ],
+      [
+        "under"
+      ],
+      [
+        "sleep",
+        "1PL.PST"
+      ],
+      [
+        "night",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Accusative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ill1",
+    "source": "",
+    "morpheme": "muhten båtsoj ij både gärrdá-j",
+    "gloss": "",
+    "translation": "'Some reindeer don’t come into the corral.'",
+    "gloss_tags": [],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Illative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ill2",
+    "source": "muv áhttje hålloj såmes raddnáj…",
+    "morpheme": "muv áhttje hållo-j såmes raddná-j",
+    "gloss": "1SG.GEN father .SG say-3SG.PST some friend-ILL.SG",
+    "translation": "'My father said to some friend…'",
+    "gloss_tags": [
+      [
+        "1SG.GEN"
+      ],
+      [
+        "father"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "say",
+        "3SG.PST"
+      ],
+      [
+        "some"
+      ],
+      [
+        "friend",
+        "ILL.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Illative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ill4",
+    "source": "vadde Jåssjåj aj",
+    "morpheme": "",
+    "gloss": "",
+    "translation": "'Give (one) to Josh, too!'",
+    "gloss_tags": [],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Illative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ill5",
+    "source": "dån lä eddno munje",
+    "morpheme": "dån lä eddno munje",
+    "gloss": "",
+    "translation": "'You are my maternal uncle.' '(lit.: you are maternal uncle to me)'",
+    "gloss_tags": [],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Illative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "iness1",
+    "source": "nå, mav enabov dihki Áhkkabakten?",
+    "morpheme": "",
+    "gloss": "well what-ACC.SG more-ACC.SG do\\2SG.PST Ahkkabakte-INESS.SG",
+    "translation": "'Well, what more did you do in Áhkkabakkte?'",
+    "gloss_tags": [
+      [
+        "well"
+      ],
+      [
+        "what",
+        "ACC.SG"
+      ],
+      [
+        "more",
+        "ACC.SG"
+      ],
+      [
+        "do\\2SG.PST"
+      ],
+      [
+        "Ahkkabakte",
+        "INESS.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Inessive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "iness2",
+    "source": "vággen Sálvojåhkå'l",
+    "morpheme": "vágge-n Sálvo-jåhkå=l",
+    "gloss": "valley-INESS.SG Sálvo-creek .SG=be\\3SG.PRS",
+    "translation": "'Sálvo Creek is in the valley.'",
+    "gloss_tags": [
+      [
+        "valley",
+        "INESS.SG"
+      ],
+      [
+        "Sálvo",
+        "creek"
+      ],
+      [
+        ".SG",
+        "be\\3SG.PRS"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Inessive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "iness3",
+    "source": "sámen lä bena",
+    "morpheme": "sáme-n lä bena",
+    "gloss": "Saami-INESS.SG be\\3SG.PRS dog .SG",
+    "translation": "'The Saami man has a dog.' '(lit.: at Saami is dog)'",
+    "gloss_tags": [
+      [
+        "Saami",
+        "INESS.SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "dog"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Inessive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "elat1",
+    "source": "váldav tjåjvev ribrist luovas",
+    "morpheme": "válda-v tjåjve-v ribri-st luovas",
+    "gloss": "take-1SG.PRS stomach-ACC.SG liver-ELAT.SG loose",
+    "translation": "'I loosen the stomach from the liver.'",
+    "gloss_tags": [
+      [
+        "take",
+        "1SG.PRS"
+      ],
+      [
+        "stomach",
+        "ACC.SG"
+      ],
+      [
+        "liver",
+        "ELAT.SG"
+      ],
+      [
+        "loose"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Elative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "elat2a",
+    "source": "nå gåsse dija älgijdä Örnvikast vuodjet vadnásav?",
+    "morpheme": "",
+    "gloss": "well when 2PL.NOM begin-2PL.PST Örnvik-ELAT.SG drive-INF boat-ACC.SG",
+    "translation": "'Well when did you start taking the boat from Örnvik?'",
+    "gloss_tags": [
+      [
+        "well"
+      ],
+      [
+        "when"
+      ],
+      [
+        "2PL.NOM"
+      ],
+      [
+        "begin",
+        "2PL.PST"
+      ],
+      [
+        "Örnvik",
+        "ELAT.SG"
+      ],
+      [
+        "drive",
+        "INF"
+      ],
+      [
+        "boat",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Elative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "elat2b",
+    "source": "dån båda Amerigist",
+    "morpheme": "dån båda Amerig-ist",
+    "gloss": "2SG.NOM come\\2SG.PRS America-ELAT.SG",
+    "translation": "'You come from America.'",
+    "gloss_tags": [
+      [
+        "2SG.NOM"
+      ],
+      [
+        "come\\2SG.PRS"
+      ],
+      [
+        "America",
+        "ELAT.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Elative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "elat5",
+    "source": "Eddest galgav gatjadit",
+    "morpheme": "Edde-st galga-v gatjadi-t",
+    "gloss": "Edgar-ELAT.SG will-1SG.PRS ask-INF",
+    "translation": "'I will ask Edgar.'",
+    "gloss_tags": [
+      [
+        "Edgar",
+        "ELAT.SG"
+      ],
+      [
+        "will",
+        "1SG.PRS"
+      ],
+      [
+        "ask",
+        "INF"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Elative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "elat6",
+    "source": "mån lev åjvest",
+    "morpheme": "mån le-v åjve-st",
+    "gloss": "1SG.NOM be-1SG.PRS head-ELAT.SG",
+    "translation": "'I have a headache.' '(lit.: ‘I am from head’)'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "be",
+        "1SG.PRS"
+      ],
+      [
+        "head",
+        "ELAT.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Elative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "elat3",
+    "source": "",
+    "morpheme": "mån i-v tuhtje d-a-v färska mále-st",
+    "gloss": "1SG.NOM NEG-1SG.PRS like DEM-DIST-ACC.SG fresh blood-ELAT.SG",
+    "translation": "'I don’t like that (made) of fresh blood.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "NEG",
+        "1SG.PRS"
+      ],
+      [
+        "like"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "ACC.SG"
+      ],
+      [
+        "fresh"
+      ],
+      [
+        "blood",
+        "ELAT.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Elative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "elat4",
+    "source": "dá lä sasnest gårroduvum",
+    "morpheme": "d-á lä sasne-st gårro-duvu-m",
+    "gloss": "DEM-PROX .PL be\\3PL.PRS furless.leather-ELAT.SG sew-PASS-PRF",
+    "translation": "'These are sewn out of furless leather.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "PROX"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "be\\3PL.PRS"
+      ],
+      [
+        "furless.leather",
+        "ELAT.SG"
+      ],
+      [
+        "sew",
+        "PASS",
+        "PRF"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Elative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "elat7",
+    "source": "mån lev stuorab Svienast",
+    "morpheme": "mån le-v stuora-b Sviena-st",
+    "gloss": "",
+    "translation": "'I am bigger than Sven.'",
+    "gloss_tags": [],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Elative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "com1",
+    "source": "men ådtjo sáme gielav ságastit duv årbenij?",
+    "morpheme": "men ådtjo sáme giela-v ságasti-t duv årbeni-j",
+    "gloss": "but may\\2SG.PST Saami .SG language-ACC.SG speak-INF 2SG.GEN sibling-COM.PL",
+    "translation": "'But were you allowed to speak the Saami language with your siblings?'",
+    "gloss_tags": [
+      [
+        "but"
+      ],
+      [
+        "may\\2SG.PST"
+      ],
+      [
+        "Saami"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "language",
+        "ACC.SG"
+      ],
+      [
+        "speak",
+        "INF"
+      ],
+      [
+        "2SG.GEN"
+      ],
+      [
+        "sibling",
+        "COM.PL"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Comitative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "com1b",
+    "source": "válda káfav suhkorijn jala suhkorahta?",
+    "morpheme": "válda káfa-v suhkori-jn jala suhkor-ahta",
+    "gloss": "take\\2SG.PRS coffee-ACC.SG sugar-COM.SG or sugar-ABESS",
+    "translation": "'Do you take your coffee with sugar or without sugar?'",
+    "gloss_tags": [
+      [
+        "take\\2SG.PRS"
+      ],
+      [
+        "coffee",
+        "ACC.SG"
+      ],
+      [
+        "sugar",
+        "COM.SG"
+      ],
+      [
+        "or"
+      ],
+      [
+        "sugar",
+        "ABESS"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Comitative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "com2",
+    "source": "del vuodja bijlajn Örnvikaj ja dä vádnasijn Tjeggelvasa badjel",
+    "morpheme": "del vuodja bijla-jn Örnvika-j ja dä vádnasi-jn Tjeggelvas-a badjel",
+    "gloss": "now drive\\3SG.PRS car-COM.SG Örnvik-ILL.SG and then boat-COM.SG Tjeggelvas-GEN.SG over",
+    "translation": "'Now one drives to Örnvik by car, then by boat over Lake Tjeggelvas.'",
+    "gloss_tags": [
+      [
+        "now"
+      ],
+      [
+        "drive\\3SG.PRS"
+      ],
+      [
+        "car",
+        "COM.SG"
+      ],
+      [
+        "Örnvik",
+        "ILL.SG"
+      ],
+      [
+        "and"
+      ],
+      [
+        "then"
+      ],
+      [
+        "boat",
+        "COM.SG"
+      ],
+      [
+        "Tjeggelvas",
+        "GEN.SG"
+      ],
+      [
+        "over"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Comitative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "com3",
+    "source": "Svenna lä akta vuoras Ingerijn",
+    "morpheme": "Svenna lä akta vuoras Inger-ijn",
+    "gloss": "Sven .SG be\\3SG.PRS one old Inger-COM.SG",
+    "translation": "'Sven is as old as Inger.' '(lit.: Sven is one age with Inger)'",
+    "gloss_tags": [
+      [
+        "Sven"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "one"
+      ],
+      [
+        "old"
+      ],
+      [
+        "Inger",
+        "COM.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Comitative case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "abess1",
+    "source": "válda káfav suhkorijn jala suhkorahta?",
+    "morpheme": "válda káfa-v suhkori-jn jala suhkor-ahta",
+    "gloss": "take\\2SG.PRS coffee-ACC.SG sugar-COM.SG or sugar-ABESS",
+    "translation": "'Do you take your coffee with sugar or without sugar?'",
+    "gloss_tags": [
+      [
+        "take\\2SG.PRS"
+      ],
+      [
+        "coffee",
+        "ACC.SG"
+      ],
+      [
+        "sugar",
+        "COM.SG"
+      ],
+      [
+        "or"
+      ],
+      [
+        "sugar",
+        "ABESS"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Abessive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "abess2",
+    "source": "dån lä vájmodak dal",
+    "morpheme": "dån lä vájmo-dak dal",
+    "gloss": "2SG.NOM be\\2SG.PRS heart-ABESS now",
+    "translation": "'You are heartless now.'",
+    "gloss_tags": [
+      [
+        "2SG.NOM"
+      ],
+      [
+        "be\\2SG.PRS"
+      ],
+      [
+        "heart",
+        "ABESS"
+      ],
+      [
+        "now"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Abessive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ess1a",
+    "source": "bednan sjaddav",
+    "morpheme": "bedna-n sjadda-v",
+    "gloss": "dog-ESS become-1SG.PRS",
+    "translation": "'I become a dog.'",
+    "gloss_tags": [
+      [
+        "dog",
+        "ESS"
+      ],
+      [
+        "become",
+        "1SG.PRS"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Essive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ess1b",
+    "source": "jegŋa sjaddá tjáhtsen",
+    "morpheme": "jegŋa sjaddá tjáhtse-n",
+    "gloss": "ice .SG become\\3SG.PRS water-ESS",
+    "translation": "'Ice becomes water.'",
+    "gloss_tags": [
+      [
+        "ice"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "become\\3SG.PRS"
+      ],
+      [
+        "water",
+        "ESS"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Essive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ess2",
+    "source": "dut såhke vadnásan gåhtjoduvva",
+    "morpheme": "",
+    "gloss": "DEM-RMT-NOM.SG birch .SG boat-ESS call-PASS\\3SG.PRS",
+    "translation": "'Yonder birch is called a boat.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "RMT",
+        "NOM.SG"
+      ],
+      [
+        "birch"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "boat",
+        "ESS"
+      ],
+      [
+        "call",
+        "PASS\\3SG.PRS"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Essive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ess3",
+    "source": "dat vuodja dugu goullen",
+    "morpheme": "d-a-t vuodja dugu goulle-n",
+    "gloss": "DEM-DIST-NOM.SG swim\\3SG.PRS like fish-ESS",
+    "translation": "'He swims like a fish.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "DIST",
+        "NOM.SG"
+      ],
+      [
+        "swim\\3SG.PRS"
+      ],
+      [
+        "like"
+      ],
+      [
+        "fish",
+        "ESS"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Essive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ess4",
+    "source": "vuodja dugu goulle",
+    "morpheme": "vuodja dugu goulle",
+    "gloss": "swim\\3SG.PRS like fish .SG",
+    "translation": "'He swims like a fish.'",
+    "gloss_tags": [
+      [
+        "swim\\3SG.PRS"
+      ],
+      [
+        "like"
+      ],
+      [
+        "fish"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "The nominal case system",
+    "subsection": "Essive case",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "possSuffix5",
+    "source": "",
+    "morpheme": "",
+    "gloss": "",
+    "translation": "",
+    "gloss_tags": [],
+    "chapter": "Nominals I: Nouns",
+    "section": "Possessive suffixes",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "possSuffix5",
+    "source": "nå dä hulij, nå hälset del mammaset ja pahpaset",
+    "morpheme": "nå dä huli-j nå hälse-t del mamma-set ja pahpa-set",
+    "gloss": "well then say-3SG.PST well greet-PL.IMP then mother-2PL.POSS\\. ILL.SG and father-2PL.POSS\\. ILL.SG",
+    "translation": "'Well then she said “well, say hello to your mother and your father”.'",
+    "gloss_tags": [
+      [
+        "well"
+      ],
+      [
+        "then"
+      ],
+      [
+        "say",
+        "3SG.PST"
+      ],
+      [
+        "well"
+      ],
+      [
+        "greet",
+        "PL.IMP"
+      ],
+      [
+        "then"
+      ],
+      [
+        "mother",
+        "2PL.POSS\\."
+      ],
+      [
+        "ILL.SG"
+      ],
+      [
+        "and"
+      ],
+      [
+        "father",
+        "2PL.POSS\\."
+      ],
+      [
+        "ILL.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "Possessive suffixes",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "possSuffixParse1",
+    "source": "",
+    "morpheme": "áhttj-e-s",
+    "gloss": "father-Ie-1SG.POSS\\. NOM.SG",
+    "translation": "'my father'",
+    "gloss_tags": [
+      [
+        "father",
+        "Ie",
+        "1SG.POSS\\."
+      ],
+      [
+        "NOM.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "Possessive suffixes",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "possSuffixParse2",
+    "source": "",
+    "morpheme": "mamm-a-set",
+    "gloss": "mother-Ia-2PL.POSS\\. ILL.SG",
+    "translation": "'to your ( 'pl') mother'",
+    "gloss_tags": [
+      [
+        "mother",
+        "Ia",
+        "2PL.POSS\\."
+      ],
+      [
+        "ILL.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "Possessive suffixes",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "possSuffixParse3",
+    "source": "",
+    "morpheme": "pahp-a-set",
+    "gloss": "father-Ia-2PL.POSS\\. ILL.SG",
+    "translation": "'to your ( 'pl') father'",
+    "gloss_tags": [
+      [
+        "father",
+        "Ia",
+        "2PL.POSS\\."
+      ],
+      [
+        "ILL.SG"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "Possessive suffixes",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "noPossSuffix1",
+    "source": "ja dä lij mijan sessa Kärin",
+    "morpheme": "ja dä li-j mijan sessa Kärin",
+    "gloss": "and then be-3SG.PST 1PL.GEN paternal.aunt .SG Karin",
+    "translation": "'And then it was our paternal aunt Karin.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "then"
+      ],
+      [
+        "be",
+        "3SG.PST"
+      ],
+      [
+        "1PL.GEN"
+      ],
+      [
+        "paternal.aunt"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "Karin"
+      ]
+    ],
+    "chapter": "Nominals I: Nouns",
+    "section": "Possessive suffixes",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "demProWithHumanReferent1",
+    "source": "da lä jabmam, ber muv äddne'l viessomin dále",
+    "morpheme": "d-a lä jabma-m ber mu-v äddne=l viesso-min dále",
+    "gloss": "DEM-DIST .PL be\\3PL.PRS die-PRF only 1SG.GEN mother .SG=be\\3SG.PRS live-PROG now",
+    "translation": "'They have died, only my mother is living today.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "DIST"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "be\\3PL.PRS"
+      ],
+      [
+        "die",
+        "PRF"
+      ],
+      [
+        "only"
+      ],
+      [
+        "1SG.GEN"
+      ],
+      [
+        "mother"
+      ],
+      [
+        ".SG",
+        "be\\3SG.PRS"
+      ],
+      [
+        "live",
+        "PROG"
+      ],
+      [
+        "now"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Demonstrative pronouns",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "QpronounHUMex1",
+    "source": "nå, gejna dä tjuovo?",
+    "morpheme": "nå ge-jna dä tjuovo",
+    "gloss": "well who-COM.SG then accompany\\2SG.PST",
+    "translation": "'Well, who did you go with?'",
+    "gloss_tags": [
+      [
+        "well"
+      ],
+      [
+        "who",
+        "COM.SG"
+      ],
+      [
+        "then"
+      ],
+      [
+        "accompany\\2SG.PST"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Interrogative pronouns with human referents",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "QpronounHUMex2",
+    "source": "gen gabmaga lä dá?",
+    "morpheme": "ge-n gabmag-a lä d-á",
+    "gloss": "who-GEN.SG shoe-NOM.PL be\\3PL.PRS DEM-PROX .PL",
+    "translation": "'Whose shoes are these?'",
+    "gloss_tags": [
+      [
+        "who",
+        "GEN.SG"
+      ],
+      [
+        "shoe",
+        "NOM.PL"
+      ],
+      [
+        "be\\3PL.PRS"
+      ],
+      [
+        "DEM",
+        "PROX"
+      ],
+      [
+        ".PL"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Interrogative pronouns with human referents",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "QpronounNoHUMex",
+    "source": "mav dån sida?",
+    "morpheme": "ma-v dån sida",
+    "gloss": "what-ACC.SG 2SG.NOM want\\2SG.PRS",
+    "translation": "'What do you want?'",
+    "gloss_tags": [
+      [
+        "what",
+        "ACC.SG"
+      ],
+      [
+        "2SG.NOM"
+      ],
+      [
+        "want\\2SG.PRS"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Interrogative pronouns with non-human referents",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "QpronounDEMGeneralEx1",
+    "source": "mikkirist lä dat dágaduvvum?",
+    "morpheme": "mikkir-ist lä d-a-t dága-duvv-um",
+    "gloss": "which-ELAT.SG be\\3SG.PRS DEM-DIST-NOM.SG make-PASS-PRF",
+    "translation": "'What is that made of?'",
+    "gloss_tags": [
+      [
+        "which",
+        "ELAT.SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "NOM.SG"
+      ],
+      [
+        "make",
+        "PASS",
+        "PRF"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Interrogative pronouns concerning a selection",
+    "subsubsection": "General selection using mikkir-"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "QpronounDEMGeneralEx2",
+    "source": "nå, mikkira lidjin dan Ákabakten?",
+    "morpheme": "nå mikkir-a lidji-n d-a-n Ákabakte-n",
+    "gloss": "well which-NOM.PL be-3PL.PST DEM-DIST-INESS.SG Ákkabakkte-INESS.SG",
+    "translation": "'Well which (people) were in Ákkabakkte?'",
+    "gloss_tags": [
+      [
+        "well"
+      ],
+      [
+        "which",
+        "NOM.PL"
+      ],
+      [
+        "be",
+        "3PL.PST"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "INESS.SG"
+      ],
+      [
+        "Ákkabakkte",
+        "INESS.SG"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Interrogative pronouns concerning a selection",
+    "subsubsection": "General selection using mikkir-"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "QpronounDEMGeneralEx3",
+    "source": "mikkir málle lij?",
+    "morpheme": "mikkir málle li-j",
+    "gloss": "which blood .SG be-3SG.PST",
+    "translation": "'Which (kind of) blood was it?'",
+    "gloss_tags": [
+      [
+        "which"
+      ],
+      [
+        "blood"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "be",
+        "3SG.PST"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Interrogative pronouns concerning a selection",
+    "subsubsection": "General selection using mikkir-"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "QpronounDEMGeneralEx4",
+    "source": "mikkir gulijd åtjojde?",
+    "morpheme": "mikkir guli-jd åtjo-jde",
+    "gloss": "which fish-ACC.PL buy-2PL.PST",
+    "translation": "'Which (kinds of) fish did you buy?'",
+    "gloss_tags": [
+      [
+        "which"
+      ],
+      [
+        "fish",
+        "ACC.PL"
+      ],
+      [
+        "buy",
+        "2PL.PST"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Interrogative pronouns concerning a selection",
+    "subsubsection": "General selection using mikkir-"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "QpronounDEMGeneralEx5",
+    "source": "ja dä lä aj väha gähtjamin makkar sarvajd gilgin njuovat aj",
+    "morpheme": "ja dä lä aj väha gähtja-min makkar sarva-jd gilgi-n njuova-t aj",
+    "gloss": "and then be\\3SG.PRS also a.little look-PROG which reindeer.bull-ACC.PL will-3PL.PST slaughter-INF also",
+    "translation": "'And then he is also checking a bit which reindeer bulls they should also slaughter.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "then"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "also"
+      ],
+      [
+        "a.little"
+      ],
+      [
+        "look",
+        "PROG"
+      ],
+      [
+        "which"
+      ],
+      [
+        "reindeer.bull",
+        "ACC.PL"
+      ],
+      [
+        "will",
+        "3PL.PST"
+      ],
+      [
+        "slaughter",
+        "INF"
+      ],
+      [
+        "also"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Interrogative pronouns concerning a selection",
+    "subsubsection": "General selection using mikkir-"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "QpronounDEMLimitedEx1",
+    "source": "gåban sajen lä dån årrom?",
+    "morpheme": "gåba-n saje-n lä dån årro-m",
+    "gloss": "which-INESS.SG place-INESS.SG be\\2SG.PRS 2SG.NOM be-PRF",
+    "translation": "'At which of the two places have you been?'",
+    "gloss_tags": [
+      [
+        "which",
+        "INESS.SG"
+      ],
+      [
+        "place",
+        "INESS.SG"
+      ],
+      [
+        "be\\2SG.PRS"
+      ],
+      [
+        "2SG.NOM"
+      ],
+      [
+        "be",
+        "PRF"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Interrogative pronouns concerning a selection",
+    "subsubsection": "Limited selection using gåb-"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "QpronounDEMLimitedEx2",
+    "source": "gåbaj birra ságasta?",
+    "morpheme": "gåba-j birra ságasta",
+    "gloss": "which-GEN.PL about speak\\2SG.PRS",
+    "translation": "'Which two are you talking about?'",
+    "gloss_tags": [
+      [
+        "which",
+        "GEN.PL"
+      ],
+      [
+        "about"
+      ],
+      [
+        "speak\\2SG.PRS"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Interrogative pronouns concerning a selection",
+    "subsubsection": "Limited selection using gåb-"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "otherQpronounEx1",
+    "source": "gånne dajt tjogijdä?",
+    "morpheme": "gånne d-a-jt tjogi-jdä",
+    "gloss": "where DEM-DIST-ACC.PL pick-2PL.PST",
+    "translation": "'Where did you pick them?'",
+    "gloss_tags": [
+      [
+        "where"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "ACC.PL"
+      ],
+      [
+        "pick",
+        "2PL.PST"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Non-nominal interrogative pro-forms",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "otherQpronounEx2",
+    "source": "gukte almatj hålla ‘reta’?",
+    "morpheme": "gukte almatj hålla reta",
+    "gloss": "how person .SG say\\3SG.PRS ‘reta’",
+    "translation": "'How does one say ‘reta’?'",
+    "gloss_tags": [
+      [
+        "how"
+      ],
+      [
+        "person"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "say\\3SG.PRS"
+      ],
+      [
+        "‘reta’"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Non-nominal interrogative pro-forms",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "otherQpronounEx3",
+    "source": "man mälgat lij gu lij hiejman, iv mån diede",
+    "morpheme": "man mälgat li-j gu li-j hiejm-an, i-v mån diede",
+    "gloss": "how far be-3SG.PST when be-3SG.PST home-INESS.SG neg-1SG.PRS 1SG.NOM know",
+    "translation": "'How far it was, when one was home, I don’t know'",
+    "gloss_tags": [
+      [
+        "how"
+      ],
+      [
+        "far"
+      ],
+      [
+        "be",
+        "3SG.PST"
+      ],
+      [
+        "when"
+      ],
+      [
+        "be",
+        "3SG.PST"
+      ],
+      [
+        "home",
+        "INESS.SG"
+      ],
+      [
+        "neg",
+        "1SG.PRS"
+      ],
+      [
+        "1SG.NOM"
+      ],
+      [
+        "know"
+      ]
+    ],
+    "chapter": "Nominals II: Pronouns",
+    "section": "Interrogative pronouns",
+    "subsection": "Non-nominal interrogative pro-forms",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjEx1",
+    "source": "dat lä tjähppis båtsoj ja villges åjjve",
+    "morpheme": "d-a-t lä tjähppis båtsoj ja villges åjjve",
+    "gloss": "DEM-DIST-NOM.SG be\\3SG.PRS black reindeer .SG and white head .SG",
+    "translation": "'It is a black reindeer and a white head.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "DIST",
+        "NOM.SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "black"
+      ],
+      [
+        "reindeer"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "and"
+      ],
+      [
+        "white"
+      ],
+      [
+        "head"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Attributive adjectives",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjEx2",
+    "source": "guolle'l nåv njalga bäbbmo",
+    "morpheme": "guolle=l nåv njalga bäbbmo",
+    "gloss": "fish .SG=be\\3SG.PRS so tasty food .SG",
+    "translation": "'Fish is such tasty food.'",
+    "gloss_tags": [
+      [
+        "fish"
+      ],
+      [
+        ".SG",
+        "be\\3SG.PRS"
+      ],
+      [
+        "so"
+      ],
+      [
+        "tasty"
+      ],
+      [
+        "food"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Attributive adjectives",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjEx3",
+    "source": "dat villges båtsoj",
+    "morpheme": "d-a-t villges båtsoj",
+    "gloss": "DEM-DIST-NOM.SG white reindeer .SG",
+    "translation": "'that white reindeer'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "DIST",
+        "NOM.SG"
+      ],
+      [
+        "white"
+      ],
+      [
+        "reindeer"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Attributive adjectives",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjEx4",
+    "source": "ja dat lä årrom hoj buorak giesse",
+    "morpheme": "ja d-a-t lä årro-m hoj buorak giesse",
+    "gloss": "and DEM-DIST-NOM.SG be\\3SG.PRS be-PRF really good summer .SG",
+    "translation": "'And it has been a really good summer.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "NOM.SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "be",
+        "PRF"
+      ],
+      [
+        "really"
+      ],
+      [
+        "good"
+      ],
+      [
+        "summer"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Attributive adjectives",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjNPheadEx1",
+    "source": "båråv ruopsisav",
+    "morpheme": "bårå-v ruopsisa-v",
+    "gloss": "eat-1SG.PRS red-ACC.SG",
+    "translation": "'I eat the red one.'",
+    "gloss_tags": [
+      [
+        "eat",
+        "1SG.PRS"
+      ],
+      [
+        "red",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Attributive adjectives",
+    "subsection": "Attributive adjectives in elliptic constructions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjNPheadEx2",
+    "source": "tjähppisa lä njallge",
+    "morpheme": "tjähppis-a lä njallge",
+    "gloss": "black-NOM.PL be\\3PL.PRS tasty .SG",
+    "translation": "'The black ones are tasty.'",
+    "gloss_tags": [
+      [
+        "black",
+        "NOM.PL"
+      ],
+      [
+        "be\\3PL.PRS"
+      ],
+      [
+        "tasty"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Attributive adjectives",
+    "subsection": "Attributive adjectives in elliptic constructions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjNPheadEx3",
+    "source": "dat tjábba máhtta sáme gielav",
+    "morpheme": "d-a-t tjábba máhtta sáme giela-v",
+    "gloss": "DEM-DIST-NOM.SG beautiful .SG can\\3SG.PRS Saami .SG language-ACC.SG",
+    "translation": "'That beautiful one can (speak) the Saami language.' '(referring to a girl)'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "DIST",
+        "NOM.SG"
+      ],
+      [
+        "beautiful"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "can\\3SG.PRS"
+      ],
+      [
+        "Saami"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "language",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Attributive adjectives",
+    "subsection": "Attributive adjectives in elliptic constructions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjNPheadEx4",
+    "source": "lä huj tjábba, dat, dat lä jävvja",
+    "morpheme": "lä huj tjábba d-a-t d-a-t lä jävvja",
+    "gloss": "be\\3SG.PRS quite beautiful .SG DEM-DIST-NOM.SG DEM-DIST-NOM.SG be\\3SG.PRS white.reindeer .SG",
+    "translation": "'It is a quite beautiful one, it, it is a white reindeer.' '(referring to a reindeer)'",
+    "gloss_tags": [
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "quite"
+      ],
+      [
+        "beautiful"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "NOM.SG"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "NOM.SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "white.reindeer"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Attributive adjectives",
+    "subsection": "Attributive adjectives in elliptic constructions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjPredEx1",
+    "source": "fáhttsa lä tjáhpat",
+    "morpheme": "fáhttsa lä tjáhpat",
+    "gloss": "mitten .SG be\\3SG.PRS black",
+    "translation": "'The mitten is black.'",
+    "gloss_tags": [
+      [
+        "mitten"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "black"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Predicative adjectives",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjPredEx2",
+    "source": "fáhtsa lä tjáhpada",
+    "morpheme": "fáhtsa lä tjáhpad-a",
+    "gloss": "mitten .PL be\\3PL.PRS black-PL",
+    "translation": "'The mittens are black.'",
+    "gloss_tags": [
+      [
+        "mitten"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "be\\3PL.PRS"
+      ],
+      [
+        "black",
+        "PL"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Predicative adjectives",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjPredEx3",
+    "source": "buhtsu lä nav buojde ja tjábbe",
+    "morpheme": "buhtsu lä nav buojde ja tjábbe",
+    "gloss": "reindeer .PL be\\3PL.PRS so fat and beautiful",
+    "translation": "'The reindeer are so fat and beautiful.'",
+    "gloss_tags": [
+      [
+        "reindeer"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "be\\3PL.PRS"
+      ],
+      [
+        "so"
+      ],
+      [
+        "fat"
+      ],
+      [
+        "and"
+      ],
+      [
+        "beautiful"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Predicative adjectives",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "superlATTRADJex2",
+    "source": "buhtsu lin mälgadubmusin",
+    "morpheme": "buhtsu li-n mälgadu-bmus-in",
+    "gloss": "reindeer\\3PL.NOM be-3PL.PST far-SUPERL-INESS.SG",
+    "translation": "'The reindeer were farthest away.' '(lit.: in the farthest one (place))'",
+    "gloss_tags": [
+      [
+        "reindeer\\3PL.NOM"
+      ],
+      [
+        "be",
+        "3PL.PST"
+      ],
+      [
+        "far",
+        "SUPERL",
+        "INESS.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Comparatives and superlatives",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "comparingNPsEx1",
+    "source": "Svenna lä akta vuoras Ingerijn",
+    "morpheme": "Svenna lä akta vuoras Ingeri-jn",
+    "gloss": "Sven .SG be\\3SG.PRS one old Inger-COM.SG",
+    "translation": "'Sven is as old as Inger.' '(lit.: Sven is one old with Inger)'",
+    "gloss_tags": [
+      [
+        "Sven"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "one"
+      ],
+      [
+        "old"
+      ],
+      [
+        "Inger",
+        "COM.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Comparing NP referents",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "comparingNPsEx2",
+    "source": "måj lin akta vuorasa",
+    "morpheme": "måj li-n akta vuoras-a",
+    "gloss": "1DU.NOM be-1DU.PRS one old-PL",
+    "translation": "'We two are the same age.' '(lit.: we are one old)'",
+    "gloss_tags": [
+      [
+        "1DU.NOM"
+      ],
+      [
+        "be",
+        "1DU.PRS"
+      ],
+      [
+        "one"
+      ],
+      [
+        "old",
+        "PL"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Comparing NP referents",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "comparingNPsEx3",
+    "source": "Inger lä stuorap várest",
+    "morpheme": "Inger lä stuora-p váre-st",
+    "gloss": "Inger .SG be\\3SG.PRS big-COMP mountain-ELAT.SG",
+    "translation": "'Inger is bigger than a mountain.'",
+    "gloss_tags": [
+      [
+        "Inger"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "big",
+        "COMP"
+      ],
+      [
+        "mountain",
+        "ELAT.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Comparing NP referents",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "comparingNPsEx5",
+    "source": "dát lä vanj dä gajk vuorasumos dágaduvvum",
+    "morpheme": "d-á-t lä vanj dä gajk vuorasu-mos dága-duvvu-m",
+    "gloss": "DEM-PROX-NOM.SG be\\3SG.PRS probably then all old-SUPERL make-PASS-PRF",
+    "translation": "'This was probably the absolute oldest made.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "PROX",
+        "NOM.SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "probably"
+      ],
+      [
+        "then"
+      ],
+      [
+        "all"
+      ],
+      [
+        "old",
+        "SUPERL"
+      ],
+      [
+        "make",
+        "PASS",
+        "PRF"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Comparing NP referents",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "smallADJex1",
+    "source": "jå, månnå aj mujhtav gu liv unna mánátj",
+    "morpheme": "jå månnå aj mujhta-v gu li-v unna máná-tj",
+    "gloss": "yes 1SG.NOM also remember-1SG.PRS when be-1SG.PST small child-DIM .SG",
+    "translation": "'Yes, I also remember when I was a small child.'",
+    "gloss_tags": [
+      [
+        "yes"
+      ],
+      [
+        "1SG.NOM"
+      ],
+      [
+        "also"
+      ],
+      [
+        "remember",
+        "1SG.PRS"
+      ],
+      [
+        "when"
+      ],
+      [
+        "be",
+        "1SG.PST"
+      ],
+      [
+        "small"
+      ],
+      [
+        "child",
+        "DIM"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Restrictions on smáva and unna ‘small’",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "smallADJex2",
+    "source": "bena lä unne",
+    "morpheme": "bena lä unn-e",
+    "gloss": "dog .SG be\\3SG.PRS small",
+    "translation": "'The dog is small.'",
+    "gloss_tags": [
+      [
+        "dog"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "small"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Restrictions on smáva and unna ‘small’",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "smallADJex3",
+    "source": "ber akta bällge, ja smáva gisstá, dá",
+    "morpheme": "ber akta bällge ja smáva gisstá d-á",
+    "gloss": "only one thumb .SG and small glove .PL DEM-PROX .PL",
+    "translation": "'only one thumb, and small gloves, these here'",
+    "gloss_tags": [
+      [
+        "only"
+      ],
+      [
+        "one"
+      ],
+      [
+        "thumb"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "and"
+      ],
+      [
+        "small"
+      ],
+      [
+        "glove"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "DEM",
+        "PROX"
+      ],
+      [
+        ".PL"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Restrictions on smáva and unna ‘small’",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "smallADJex4",
+    "source": "bednaga lä smáve",
+    "morpheme": "bednag-a lä smáve",
+    "gloss": "dog-NOM.PL be\\3PL.PRS small",
+    "translation": "'Dogs are small.'",
+    "gloss_tags": [
+      [
+        "dog",
+        "NOM.PL"
+      ],
+      [
+        "be\\3PL.PRS"
+      ],
+      [
+        "small"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Restrictions on smáva and unna ‘small’",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "smallADJex5",
+    "source": "dát lä dåpe sin, unna dåpátja sin",
+    "morpheme": "d-á-t lä dåpe sin unna dåpá-tj-a sin",
+    "gloss": "DEM-PROX-NOM.SG be\\3SG.PRS house .SG in small house-DIM-GEN.SG in",
+    "translation": "'This is in the house, in the little house.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "PROX",
+        "NOM.SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "house"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "in"
+      ],
+      [
+        "small"
+      ],
+      [
+        "house",
+        "DIM",
+        "GEN.SG"
+      ],
+      [
+        "in"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Restrictions on smáva and unna ‘small’",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "smallADJex6",
+    "source": "ja danne vuojdniv unna jåŋåtjav",
+    "morpheme": "ja danne vuojdni-v unna jåŋå-tj-av",
+    "gloss": "and there see-1SG.PST small lingonberry-DIM-ACC.SG",
+    "translation": "'And I saw a little lingonberry there.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "there"
+      ],
+      [
+        "see",
+        "1SG.PST"
+      ],
+      [
+        "small"
+      ],
+      [
+        "lingonberry",
+        "DIM",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Restrictions on smáva and unna ‘small’",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "quantifierEx3",
+    "source": "mån vaddav gajka buhtsujda biebmov",
+    "morpheme": "mån vadda-v gajk-a buhtsu-jda biebmo-v",
+    "gloss": "1SG.NOM give-1SG.PRS all-PL reindeer-ILL.PL food-ACC.SG",
+    "translation": "'I give all the reindeer food.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "give",
+        "1SG.PRS"
+      ],
+      [
+        "all",
+        "PL"
+      ],
+      [
+        "reindeer",
+        "ILL.PL"
+      ],
+      [
+        "food",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Quantifiers",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "quantifierEx6",
+    "source": "galgav enabuv biejat?",
+    "morpheme": "galga-v ena-b-uv bieja-t",
+    "gloss": "shall-1SG.PRS much-COMP-ACC.SG put-INF",
+    "translation": "'Shall I put in more?'",
+    "gloss_tags": [
+      [
+        "shall",
+        "1SG.PRS"
+      ],
+      [
+        "much",
+        "COMP",
+        "ACC.SG"
+      ],
+      [
+        "put",
+        "INF"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Quantifiers",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "quantifierEx7",
+    "source": "mana tjasskit dajd åjvijd ja gajkajd duhku",
+    "morpheme": "mana tjasski-t d-a-jd åjvi-jd ja gajk-ajd duhku",
+    "gloss": "go\\2SG.IMP throw-INF DEM-DIST-ACC.PL head-ACC.PL and all-ACC.PL over.there",
+    "translation": "'Go throw those heads and all that over there.'",
+    "gloss_tags": [
+      [
+        "go\\2SG.IMP"
+      ],
+      [
+        "throw",
+        "INF"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "ACC.PL"
+      ],
+      [
+        "head",
+        "ACC.PL"
+      ],
+      [
+        "and"
+      ],
+      [
+        "all",
+        "ACC.PL"
+      ],
+      [
+        "over.there"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Quantifiers",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "quantifierEx8",
+    "source": "hålå naginav mav galgav hållåt",
+    "morpheme": "hålå nagina-v ma-v galga-v hållå-t",
+    "gloss": "say\\2SG.IMP some-ACC.SG REL-ACC.SG shall-1SG.PRS say-INF",
+    "translation": "'Say something that I should say.'",
+    "gloss_tags": [
+      [
+        "say\\2SG.IMP"
+      ],
+      [
+        "some",
+        "ACC.SG"
+      ],
+      [
+        "REL",
+        "ACC.SG"
+      ],
+      [
+        "shall",
+        "1SG.PRS"
+      ],
+      [
+        "say",
+        "INF"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Quantifiers",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "noneEx1",
+    "source": "muvne ij lä aktak vuopta",
+    "morpheme": "muvne ij lä aktak vuopta",
+    "gloss": "1SG.INESS NEG\\3SG.PRS be none hair .PL",
+    "translation": "'I don’t have any hair.' '(lit.: on me isn’t a single hair)'",
+    "gloss_tags": [
+      [
+        "1SG.INESS"
+      ],
+      [
+        "NEG\\3SG.PRS"
+      ],
+      [
+        "be"
+      ],
+      [
+        "none"
+      ],
+      [
+        "hair"
+      ],
+      [
+        ".PL"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Quantifiers",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "noneEx2",
+    "source": "gu itjij almatj dåbdå aktak almatjid",
+    "morpheme": "gu itji-j almatj dåbdå aktak almatji-jd",
+    "gloss": "when NEG-3SG.PST person .SG know none person-ACC.PL",
+    "translation": "'if one didn’t know any people'",
+    "gloss_tags": [
+      [
+        "when"
+      ],
+      [
+        "NEG",
+        "3SG.PST"
+      ],
+      [
+        "person"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "know"
+      ],
+      [
+        "none"
+      ],
+      [
+        "person",
+        "ACC.PL"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Quantifiers",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "noneEx3",
+    "source": "itjij almatj åbbå hålå aktagav",
+    "morpheme": "itji-j almatj åbbå hålå aktag-av",
+    "gloss": "NEG-3SG.PST person .SG at.all say none-ACC.SG",
+    "translation": "'One didn’t say anything at all.'",
+    "gloss_tags": [
+      [
+        "NEG",
+        "3SG.PST"
+      ],
+      [
+        "person"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "at.all"
+      ],
+      [
+        "say"
+      ],
+      [
+        "none",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Quantifiers",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "demonstrativeAdjectivesEx2",
+    "source": "gu lijmä vuodjam dajna traktorijna ‘Grållåjn’",
+    "morpheme": "gu li-jmä vuodja-m d-a-jna traktor-ijna Grållå-jn",
+    "gloss": "when be-1PL.PST drive-PRF DEM-DIST-COM.SG tractor-COM.SG Grålle-COM.SG",
+    "translation": "'when we had driven that ‘Grålle’ tractor'",
+    "gloss_tags": [
+      [
+        "when"
+      ],
+      [
+        "be",
+        "1PL.PST"
+      ],
+      [
+        "drive",
+        "PRF"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "COM.SG"
+      ],
+      [
+        "tractor",
+        "COM.SG"
+      ],
+      [
+        "Grålle",
+        "COM.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Demonstratives",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "demonstrativeAdjectivesEx1",
+    "source": "dajd gulijd giesijmä tjielkajn dik",
+    "morpheme": "d-a-jd guli-jd giesi-jmä tjielka-jn dik",
+    "gloss": "DEM-DIST-ACC.PL fish-ACC.PL pull-1PL.PST sled-COM.SG to.here",
+    "translation": "'We pulled those fish here with a sled.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "DIST",
+        "ACC.PL"
+      ],
+      [
+        "fish",
+        "ACC.PL"
+      ],
+      [
+        "pull",
+        "1PL.PST"
+      ],
+      [
+        "sled",
+        "COM.SG"
+      ],
+      [
+        "to.here"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Demonstratives",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "demonstrativeAdjectivesEx3",
+    "source": "men dut biehtse, men ånekatj ja gassak",
+    "morpheme": "men d-u-t biehtse men åneka-tj ja gassa-k",
+    "gloss": "but DEM-RMT-NOM.SG pine .SG but short-DIM and thick-NMLZ",
+    "translation": "'But that pine tree over there, how short and thick!'",
+    "gloss_tags": [
+      [
+        "but"
+      ],
+      [
+        "DEM",
+        "RMT",
+        "NOM.SG"
+      ],
+      [
+        "pine"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "but"
+      ],
+      [
+        "short",
+        "DIM"
+      ],
+      [
+        "and"
+      ],
+      [
+        "thick",
+        "NMLZ"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Demonstratives",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "complexNumEx1",
+    "source": "… gokt lij dánne giehtjavlåk jage maŋŋus",
+    "morpheme": "gokt li-j dánne giehtjav-låk jage maŋŋus",
+    "gloss": "how be-3SG.PST here seven-ten year .PL ago",
+    "translation": "'… how it was here seventy years ago.'",
+    "gloss_tags": [
+      [
+        "how"
+      ],
+      [
+        "be",
+        "3SG.PST"
+      ],
+      [
+        "here"
+      ],
+      [
+        "seven",
+        "ten"
+      ],
+      [
+        "year"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "ago"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Numerals",
+    "subsection": "Complex numerals",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "complexNumEx3",
+    "source": "sån lä gakktselåkgiehtjav jage",
+    "morpheme": "sån lä gakktse-låk-giehtjav jage",
+    "gloss": "3SG.NOM be\\3SG.PRS eight-ten-seven year .PL",
+    "translation": "'She is eighty-seven years old.'",
+    "gloss_tags": [
+      [
+        "3SG.NOM"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "eight",
+        "ten",
+        "seven"
+      ],
+      [
+        "year"
+      ],
+      [
+        ".PL"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Numerals",
+    "subsection": "Complex numerals",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "complexNumEx2",
+    "source": "dä lij del tjuojgadam ja gåddam nälljalåkgakktse stalpe sájtejna",
+    "morpheme": "dä li-j del tjuojgada-m ja gådda-m nällja-låk-gakktse stalpe sájte-jna",
+    "gloss": "then be-3SG.PST then ski-PRF and slay-PRF four-ten-eight wolf .PL spear-COM.SG",
+    "translation": "'Then he skied and slew forty-eight wolves with a spear.'",
+    "gloss_tags": [
+      [
+        "then"
+      ],
+      [
+        "be",
+        "3SG.PST"
+      ],
+      [
+        "then"
+      ],
+      [
+        "ski",
+        "PRF"
+      ],
+      [
+        "and"
+      ],
+      [
+        "slay",
+        "PRF"
+      ],
+      [
+        "four",
+        "ten",
+        "eight"
+      ],
+      [
+        "wolf"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "spear",
+        "COM.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Numerals",
+    "subsection": "Complex numerals",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "complexNumEx4",
+    "source": "nittonhundratálan álgon ja dä viesoj",
+    "morpheme": "nitton-hundra-tála-n álgo-n ja dä vieso-j",
+    "gloss": "nineteen-hundred-century-INESS.SG beginning-INESS.SG and then live-3SG.PST",
+    "translation": "'He lived in the nineteen-hundreds, at the beginning.'",
+    "gloss_tags": [
+      [
+        "nineteen",
+        "hundred",
+        "century",
+        "INESS.SG"
+      ],
+      [
+        "beginning",
+        "INESS.SG"
+      ],
+      [
+        "and"
+      ],
+      [
+        "then"
+      ],
+      [
+        "live",
+        "3SG.PST"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Numerals",
+    "subsection": "Complex numerals",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "numOneEx1",
+    "source": "åtjåjmen aktav guolev",
+    "morpheme": "åtjå-jmen akta-v guole-v",
+    "gloss": "get-1DU.PST one-ACC.SG fish-ACC.SG",
+    "translation": "'We got one fish.'",
+    "gloss_tags": [
+      [
+        "get",
+        "1DU.PST"
+      ],
+      [
+        "one",
+        "ACC.SG"
+      ],
+      [
+        "fish",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Numerals",
+    "subsection": "Numerals and morphosyntax",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "numOneEx2",
+    "source": "men vuotjiv mån aktav",
+    "morpheme": "men vuotji-v mån akta-v",
+    "gloss": "but shoot-1SG.PST 1SG.NOM one-ACC.SG",
+    "translation": "'But I shot one.'",
+    "gloss_tags": [
+      [
+        "but"
+      ],
+      [
+        "shoot",
+        "1SG.PST"
+      ],
+      [
+        "1SG.NOM"
+      ],
+      [
+        "one",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Adjectivals",
+    "section": "Numerals",
+    "subsection": "Numerals and morphosyntax",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "potentialEx1",
+    "source": "nå hålåv, vuolgetjip del",
+    "morpheme": "nå hålå-v vuolge-tji-p del",
+    "gloss": "well say-1SG.PRS go-POT-1PL obviously",
+    "translation": "'Well then I say we should obviously go.'",
+    "gloss_tags": [
+      [
+        "well"
+      ],
+      [
+        "say",
+        "1SG.PRS"
+      ],
+      [
+        "go",
+        "POT",
+        "1PL"
+      ],
+      [
+        "obviously"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "Finite verbs and inflectional categories",
+    "subsection": "Mood",
+    "subsubsection": "Potential mood"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "potentialEx2",
+    "source": "nä, virtitjav nuollat",
+    "morpheme": "nä virti-tja-v nuolla-t",
+    "gloss": "no must-POT-1SG undress-INF",
+    "translation": "'Oh no, I’ll probably have to take off some clothes.'",
+    "gloss_tags": [
+      [
+        "no"
+      ],
+      [
+        "must",
+        "POT",
+        "1SG"
+      ],
+      [
+        "undress",
+        "INF"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "Finite verbs and inflectional categories",
+    "subsection": "Mood",
+    "subsubsection": "Potential mood"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "potentialEx3",
+    "source": "ikeb dat vuosjatja káfav",
+    "morpheme": "ikeb d-a-t vuosja-tj-a káfa-v",
+    "gloss": "maybe DEM-DIST-NOM.SG prepare.coffee-POT-3SG coffee-ACC.SG",
+    "translation": "'Perhaps he’ll make some coffee.'",
+    "gloss_tags": [
+      [
+        "maybe"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "NOM.SG"
+      ],
+      [
+        "prepare.coffee",
+        "POT",
+        "3SG"
+      ],
+      [
+        "coffee",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "Finite verbs and inflectional categories",
+    "subsection": "Mood",
+    "subsubsection": "Potential mood"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "cliticBE",
+    "source": "duvne'l aj ‘svála’ båkså",
+    "morpheme": "duvne=l aj svála båkså",
+    "gloss": "2SG.INESS=be\\3PL.PRS also arctic.fox .SG pant .PL",
+    "translation": "'You also have 'Fjällräven' \\ pants on.'",
+    "gloss_tags": [
+      [
+        "2SG.INESS",
+        "be\\3PL.PRS"
+      ],
+      [
+        "also"
+      ],
+      [
+        "arctic.fox"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "pant"
+      ],
+      [
+        ".PL"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "Inflectional classes for verbs",
+    "subsection": "The verb årrot ‘be’",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "beVerbPRFex2",
+    "source": "men iv lam dä månnå del skålån giesen",
+    "morpheme": "men i-v l-am dä månnå del skålå-n giese-n",
+    "gloss": "but NEG-1SG.PRS be-PRF then 1SG.NOM then school-INESS.SG summer-INESS.SG",
+    "translation": "'But I haven’t been in school during the summer.'",
+    "gloss_tags": [
+      [
+        "but"
+      ],
+      [
+        "NEG",
+        "1SG.PRS"
+      ],
+      [
+        "be",
+        "PRF"
+      ],
+      [
+        "then"
+      ],
+      [
+        "1SG.NOM"
+      ],
+      [
+        "then"
+      ],
+      [
+        "school",
+        "INESS.SG"
+      ],
+      [
+        "summer",
+        "INESS.SG"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "Inflectional classes for verbs",
+    "subsection": "The verb årrot ‘be’",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "derivedADVsEx1",
+    "source": "dån virte várogit válldet",
+    "morpheme": "dån virte várogi-t vállde-t",
+    "gloss": "2SG.NOM must\\2SG.PRS careful-ADVZ take-INF",
+    "translation": "'You have to take it carefully.'",
+    "gloss_tags": [
+      [
+        "2SG.NOM"
+      ],
+      [
+        "must\\2SG.PRS"
+      ],
+      [
+        "careful",
+        "ADVZ"
+      ],
+      [
+        "take",
+        "INF"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Adverbs",
+    "subsection": "Derived adverbs",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "derivedADVsEx2",
+    "source": "viesojmä vanj ganska buoragit dajna guollemijn aj",
+    "morpheme": "vieso-jmä vanj ganska \\- buoragi-t d-a-jna guollemi-jn aj",
+    "gloss": "live-1PL.PST definitely quite good-ADVZ DEM-DIST-COM.SG fishing-COM.SG also",
+    "translation": "'We definitely lived pretty well with the fishing, too.'",
+    "gloss_tags": [
+      [
+        "live",
+        "1PL.PST"
+      ],
+      [
+        "definitely"
+      ],
+      [
+        "quite"
+      ],
+      [
+        "good",
+        "ADVZ"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "COM.SG"
+      ],
+      [
+        "fishing",
+        "COM.SG"
+      ],
+      [
+        "also"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Adverbs",
+    "subsection": "Derived adverbs",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ADVsEx5",
+    "source": "gajk vuorasumos saddje'l vanj dát urrum dulutjist",
+    "morpheme": "gajk vuoras-umos saddje=l vanj d-á-t urru-m dulutji-st",
+    "gloss": "all old-SUPERL place .SG=be\\3SG.PRS definitely DEM-PROX-NOM.SG be-PRF old.days-ELAT.SG",
+    "translation": "'This was definitely the absolute oldest place from the old days.'",
+    "gloss_tags": [
+      [
+        "all"
+      ],
+      [
+        "old",
+        "SUPERL"
+      ],
+      [
+        "place"
+      ],
+      [
+        ".SG",
+        "be\\3SG.PRS"
+      ],
+      [
+        "definitely"
+      ],
+      [
+        "DEM",
+        "PROX",
+        "NOM.SG"
+      ],
+      [
+        "be",
+        "PRF"
+      ],
+      [
+        "old.days",
+        "ELAT.SG"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Adverbs",
+    "subsection": "Lexical adverbs",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "particleEx6",
+    "source": "A: udtju sáme gielav danne sagastit?",
+    "morpheme": "udtju sáme giela-v danne sagasti-t",
+    "gloss": "be.allowed\\2SG.PST Saami .SG language-ACC.SG there speak-INF",
+    "translation": "'We were too young.'",
+    "gloss_tags": [
+      [
+        "be.allowed\\2SG.PST"
+      ],
+      [
+        "Saami"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "language",
+        "ACC.SG"
+      ],
+      [
+        "there"
+      ],
+      [
+        "speak",
+        "INF"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Adverbs",
+    "subsection": "Lexical adverbs",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "Qpart1",
+    "source": "lä gu nällgomin?",
+    "morpheme": "lä gu nällgo-min",
+    "gloss": "be\\2SG.PRS Q hunger-PROG",
+    "translation": "'Are you hungry?' '(lit.: are you hungering)'",
+    "gloss_tags": [
+      [
+        "be\\2SG.PRS"
+      ],
+      [
+        "Q"
+      ],
+      [
+        "hunger",
+        "PROG"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Adverbs",
+    "subsection": "Lexical adverbs",
+    "subsubsection": "The question marker gu"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "Qpart2",
+    "source": "aná gus dån naginav, mujtojd?",
+    "morpheme": "aná gus dån nagina-v mujt-o-jd",
+    "gloss": "have\\2SG.PRS Q 2SG.NOM something-ACC.SG remember-NMLZ1-ACC.PL",
+    "translation": "'Do you have something, memories?'",
+    "gloss_tags": [
+      [
+        "have\\2SG.PRS"
+      ],
+      [
+        "Q"
+      ],
+      [
+        "2SG.NOM"
+      ],
+      [
+        "something",
+        "ACC.SG"
+      ],
+      [
+        "remember",
+        "NMLZ1",
+        "ACC.PL"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Adverbs",
+    "subsection": "Lexical adverbs",
+    "subsubsection": "The question marker gu"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "Qpart3",
+    "source": "nå, juga gu guäsmagav?",
+    "morpheme": "nå juga gu guäsmaga-v",
+    "gloss": "well drink\\2SG.PRS Q coffee-ACC.SG",
+    "translation": "'Well, do you drink coffee?'",
+    "gloss_tags": [
+      [
+        "well"
+      ],
+      [
+        "drink\\2SG.PRS"
+      ],
+      [
+        "Q"
+      ],
+      [
+        "coffee",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Adverbs",
+    "subsection": "Lexical adverbs",
+    "subsubsection": "The question marker gu"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "conjunctionEx2",
+    "source": "buhtsu lä nav buojde ja tjábbe",
+    "morpheme": "buhtsu lä nav buojde ja tjábbe",
+    "gloss": "reindeer .PL be\\3PL.PRS so fat and beautiful",
+    "translation": "'The reindeer are so fat and beautiful.'",
+    "gloss_tags": [
+      [
+        "reindeer"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "be\\3PL.PRS"
+      ],
+      [
+        "so"
+      ],
+      [
+        "fat"
+      ],
+      [
+        "and"
+      ],
+      [
+        "beautiful"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Conjunctions",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "particleEx3",
+    "source": "A: nå buris, Henning",
+    "morpheme": "nå buris Henning",
+    "gloss": "well hello Henning",
+    "translation": "",
+    "gloss_tags": [
+      [
+        "well"
+      ],
+      [
+        "hello"
+      ],
+      [
+        "Henning"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Interjections",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "particleEx4",
+    "source": "A: ja dä muv bena Rahka",
+    "morpheme": "ja dä muv bena Rahka",
+    "gloss": "and then 1SG.GEN dog .SG Rahka",
+    "translation": "",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "then"
+      ],
+      [
+        "1SG.GEN"
+      ],
+      [
+        "dog"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "Rahka"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Interjections",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "noEx1",
+    "source": "A: så dä måj mähtijmen, måj Jåsjåjn mähtijmen 14ptdä tjuäjjgat dán Stuornjárga nalá.",
+    "morpheme": "så dä måj mähti-jmen måj Jåsjå-jn mähti-jmen 14ptdä tjuäjjga-t d-á-n Stuor-njárga nalá",
+    "gloss": "so then 1DU.NOM can-1DU.PST 1DU.NOM Josh-COM.SG can-1DU.PST 14ptthen ski-INF DEM-PROX-GEN.SG big-point .SG onto",
+    "translation": "",
+    "gloss_tags": [
+      [
+        "so"
+      ],
+      [
+        "then"
+      ],
+      [
+        "1DU.NOM"
+      ],
+      [
+        "can",
+        "1DU.PST"
+      ],
+      [
+        "1DU.NOM"
+      ],
+      [
+        "Josh",
+        "COM.SG"
+      ],
+      [
+        "can",
+        "1DU.PST"
+      ],
+      [
+        "14ptthen"
+      ],
+      [
+        "ski",
+        "INF"
+      ],
+      [
+        "DEM",
+        "PROX",
+        "GEN.SG"
+      ],
+      [
+        "big",
+        "point"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "onto"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Interjections",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "particleEx7",
+    "source": "A: ‘tjåddjåk’, nä, ij lä ‘tjåddjåk’",
+    "morpheme": "tjåddjåk nä ij lä tjåddjåk",
+    "gloss": "esophagus .SG no NEG\\3SG.PRS be esophagus .SG",
+    "translation": "",
+    "gloss_tags": [
+      [
+        "esophagus"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "no"
+      ],
+      [
+        "NEG\\3SG.PRS"
+      ],
+      [
+        "be"
+      ],
+      [
+        "esophagus"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Other word classes",
+    "section": "Interjections",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "NMLZ2ex1",
+    "source": "vuojdne edna guhkajuolgagijd?",
+    "morpheme": "vuojdne edna guhka-juolga-g-ijd",
+    "gloss": "see\\2SG.PST some long-leg-NMLZ-ACC.PL",
+    "translation": "'Did you see some moose?'",
+    "gloss_tags": [
+      [
+        "see\\2SG.PST"
+      ],
+      [
+        "some"
+      ],
+      [
+        "long",
+        "leg",
+        "NMLZ",
+        "ACC.PL"
+      ]
+    ],
+    "chapter": "Derivational morphology",
+    "section": "Nominal derivation",
+    "subsection": "The general nominalizer suffix -k",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "nominalizerEx1",
+    "source": "jut almatj adna jáhkov",
+    "morpheme": "jut almatj adna jáhk-o-v",
+    "gloss": "if person .SG have\\3SG.PRS believe-NMLZ1-ACC.SG",
+    "translation": "'if one has faith'",
+    "gloss_tags": [
+      [
+        "if"
+      ],
+      [
+        "person"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "have\\3SG.PRS"
+      ],
+      [
+        "believe",
+        "NMLZ1",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Derivational morphology",
+    "section": "Nominal derivation",
+    "subsection": "The action nominalizer suffix -o",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "derivADJex1",
+    "source": "dat almatj lä bahá",
+    "morpheme": "d-a-t almatj lä bahá",
+    "gloss": "DEM-DIST-NOM.SG person .SG be\\3SG.PRS evil .SG",
+    "translation": "'That person is evil.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "DIST",
+        "NOM.SG"
+      ],
+      [
+        "person"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "evil"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Derivational morphology",
+    "section": "Adjectival derivation",
+    "subsection": "Adjective derivation",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "derivADJex2",
+    "source": "bahás almatj",
+    "morpheme": "bahá-s almatj",
+    "gloss": "evil-ADJZ person .SG",
+    "translation": "'evil person'",
+    "gloss_tags": [
+      [
+        "evil",
+        "ADJZ"
+      ],
+      [
+        "person"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Derivational morphology",
+    "section": "Adjectival derivation",
+    "subsection": "Adjective derivation",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "VCex1",
+    "source": "vietja pahparav!",
+    "morpheme": "[vietja] pahpara-v",
+    "gloss": "fetch .IMP paper-ACC.SG",
+    "translation": "'Get some paper!'",
+    "gloss_tags": [
+      [
+        "fetch"
+      ],
+      [
+        ".IMP"
+      ],
+      [
+        "paper",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Verb complex",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "VCex2",
+    "source": "dun váre namma'l Sállvo",
+    "morpheme": "d-u-n váre namma=[l] Sállvo",
+    "gloss": "DEM-RMT-GEN.SG mountain .SG name .SG=be\\3SG.PRS Sállvo .SG",
+    "translation": "'The name of that mountain is Sállvo.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "RMT",
+        "GEN.SG"
+      ],
+      [
+        "mountain"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "name"
+      ],
+      [
+        ".SG",
+        "be\\3SG.PRS"
+      ],
+      [
+        "Sállvo"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Verb complex",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "VCex3",
+    "source": "ij dä aktagav dága, mån viehtjav dav maŋŋel",
+    "morpheme": "[i-j] 1 dä aktaga-v [dága] 1 mån [viehtja-v] 2 d-a-v maŋŋel",
+    "gloss": "NEG-3SG.PRS then nothing-ACC.SG make 1SG.NOM fetch-1SG.PRS DEM-DIST-ACC.SG after",
+    "translation": "'It doesn’t matter, I’ll get that later.'",
+    "gloss_tags": [
+      [
+        "NEG",
+        "3SG.PRS"
+      ],
+      [
+        "then"
+      ],
+      [
+        "nothing",
+        "ACC.SG"
+      ],
+      [
+        "make"
+      ],
+      [
+        "1SG.NOM"
+      ],
+      [
+        "fetch",
+        "1SG.PRS"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "ACC.SG"
+      ],
+      [
+        "after"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Verb complex",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "VCex4",
+    "source": "jus stalpe lin båhtam elo sissa, dä vuolgin ja vitjin davva",
+    "morpheme": "jus stalpe [li-n båhta-m] 1 elo sissa dä [vuolgi-n] 2 ja [vitji-n] 3 d-a-vva",
+    "gloss": "if wolf .PL be-3PL.PST come-PRF reindeer.herd .SG into then drive-3PL.PST and fetch-3PL.PST DEM-DIST-ACC.SG",
+    "translation": "'If wolves had entered the reindeer herd, they went and got him.'",
+    "gloss_tags": [
+      [
+        "if"
+      ],
+      [
+        "wolf"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "be",
+        "3PL.PST"
+      ],
+      [
+        "come",
+        "PRF"
+      ],
+      [
+        "reindeer.herd"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "into"
+      ],
+      [
+        "then"
+      ],
+      [
+        "drive",
+        "3PL.PST"
+      ],
+      [
+        "and"
+      ],
+      [
+        "fetch",
+        "3PL.PST"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Verb complex",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "VCex5",
+    "source": "båtsoj máhtta duv nala båhtet",
+    "morpheme": "båtsoj [máhtta] duv nala [båhte-t]",
+    "gloss": "reindeer .SG can\\3SG.PRS 2SG.GEN upon come-INF",
+    "translation": "'The reindeer can attack you.' '(lit: ‘come upon you’)'",
+    "gloss_tags": [
+      [
+        "reindeer"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "can\\3SG.PRS"
+      ],
+      [
+        "2SG.GEN"
+      ],
+      [
+        "upon"
+      ],
+      [
+        "come",
+        "INF"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Verb complex",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "VCex5a",
+    "source": "dä virrten märrket dajt miesijd dále tjaktjan",
+    "morpheme": "dä [virrte-n märrke-t] d-a-jt miesi-jd dále tjaktja-n",
+    "gloss": "then must-1DU.PRS mark-INF DEM-DIST-ACC.PL calf-ACC.PL now autumn-INESS.SG",
+    "translation": "'Then we have to mark those calves now in the autumn.'",
+    "gloss_tags": [
+      [
+        "then"
+      ],
+      [
+        "must",
+        "1DU.PRS"
+      ],
+      [
+        "mark",
+        "INF"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "ACC.PL"
+      ],
+      [
+        "calf",
+        "ACC.PL"
+      ],
+      [
+        "now"
+      ],
+      [
+        "autumn",
+        "INESS.SG"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Verb complex",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "VCex6",
+    "source": "dä iv lä åbå gullam dav",
+    "morpheme": "dä [i-v lä] åbå [gulla-m] d-a-v",
+    "gloss": "then NEG-1SG.PRS be at.all hear-PRF DEM-DIST-ACC.SG",
+    "translation": "'I haven’t heard that at all.'",
+    "gloss_tags": [
+      [
+        "then"
+      ],
+      [
+        "NEG",
+        "1SG.PRS"
+      ],
+      [
+        "be"
+      ],
+      [
+        "at.all"
+      ],
+      [
+        "hear",
+        "PRF"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Verb complex",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "VCex7",
+    "source": "ij vanj dä máhte ilá stuor dålåv adnet",
+    "morpheme": "[i-j] vanj dä [máhte] ilá stuor dålå-v [adne-t]",
+    "gloss": "NEG-3SG.PRS really then can too big fire-ACC.SG have-INF",
+    "translation": "'One cannot really have too big of a fire.'",
+    "gloss_tags": [
+      [
+        "NEG",
+        "3SG.PRS"
+      ],
+      [
+        "really"
+      ],
+      [
+        "then"
+      ],
+      [
+        "can"
+      ],
+      [
+        "too"
+      ],
+      [
+        "big"
+      ],
+      [
+        "fire",
+        "ACC.SG"
+      ],
+      [
+        "have",
+        "INF"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Verb complex",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "VCex8",
+    "source": "mån lev máhttam sámev ságastit",
+    "morpheme": "mån [le-v máhtta-m] sáme-v [ságasti-t]",
+    "gloss": "1SG.NOM be-1SG.PRS can-PRF Saami-ACC.SG speak-INF",
+    "translation": "'I have been able to speak Saami.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "be",
+        "1SG.PRS"
+      ],
+      [
+        "can",
+        "PRF"
+      ],
+      [
+        "Saami",
+        "ACC.SG"
+      ],
+      [
+        "speak",
+        "INF"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Verb complex",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "NPstructureEx6",
+    "source": "ja gålmát sjadda dä Stutjaj",
+    "morpheme": "ja [gålm-át] 1 sjadda dä [Stutja-j] 2",
+    "gloss": "and three-ORD become\\3SG.PRS then Stutja-ILL.SG",
+    "translation": "'And the third one is then placed at Stutja.' '(referring to ‘fishing net’)'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "three",
+        "ORD"
+      ],
+      [
+        "become\\3SG.PRS"
+      ],
+      [
+        "then"
+      ],
+      [
+        "Stutja",
+        "ILL.SG"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Nominal phrases",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "adjNPheadEx3repeat",
+    "source": "dat tjábba máhtta sáme gielav",
+    "morpheme": "[d-a-t tjábba] 1 máhtta [sáme giela-v] 2",
+    "gloss": "DEM-DIST-NOM.SG beautiful .SG can\\3SG.PRS Saami .SG language-ACC.SG",
+    "translation": "'That beautiful one can speak the Saami language.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "DIST",
+        "NOM.SG"
+      ],
+      [
+        "beautiful"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "can\\3SG.PRS"
+      ],
+      [
+        "Saami"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "language",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Nominal phrases",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "NPstructureEx8",
+    "source": "bårov rupsisav",
+    "morpheme": "båro-v [rupsisa-v]",
+    "gloss": "eat-1SG.PRS red-ACC.SG",
+    "translation": "'I eat the red one.'",
+    "gloss_tags": [
+      [
+        "eat",
+        "1SG.PRS"
+      ],
+      [
+        "red",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Nominal phrases",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "NPstructureProEx1",
+    "source": "bisij dajd såbe nanne",
+    "morpheme": "bisi-j [d-a-jd] 1 [såbe] 2 nanne",
+    "gloss": "fry-3SG.PST DEM-DIST-ACC.PL stick .SG on",
+    "translation": "'He fried those on a stick.'",
+    "gloss_tags": [
+      [
+        "fry",
+        "3SG.PST"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "ACC.PL"
+      ],
+      [
+        "stick"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "on"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Nominal phrases",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "NPstructureProEx2",
+    "source": "mån mähttiv ráhpat uksav",
+    "morpheme": "[mån] 1 mähtti-v ráhpa-t [uksa-v] 2",
+    "gloss": "1SG.NOM can-1SG.PST open-INF door-ACC.SG",
+    "translation": "'I could open the door.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "can",
+        "1SG.PST"
+      ],
+      [
+        "open",
+        "INF"
+      ],
+      [
+        "door",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Nominal phrases",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ADVnounsEx2",
+    "source": "ja Henning lij jou hiejman urrum vahkov",
+    "morpheme": "ja [Henning] 1 li-j jou [hiejma-n] 2 urru-m [vahko-v] 3",
+    "gloss": "and Henning .SG be-3SG.PST well home-INESS.SG be-PRF week-ACC.SG",
+    "translation": "'And Henning had been home for a week.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "Henning"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "be",
+        "3SG.PST"
+      ],
+      [
+        "well"
+      ],
+      [
+        "home",
+        "INESS.SG"
+      ],
+      [
+        "be",
+        "PRF"
+      ],
+      [
+        "week",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Nominal phrases",
+    "subsection": "NPs in adverbial function",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "AdvPex1",
+    "source": "dalloj dä lij, manaj buoragit",
+    "morpheme": "dalloj dä li-j mana-j [buoragi-t]",
+    "gloss": "at.that.time then be-3SG.PST go-3SG.PST good-ADVZ",
+    "translation": "'At that time it was, it went well.'",
+    "gloss_tags": [
+      [
+        "at.that.time"
+      ],
+      [
+        "then"
+      ],
+      [
+        "be",
+        "3SG.PST"
+      ],
+      [
+        "go",
+        "3SG.PST"
+      ],
+      [
+        "good",
+        "ADVZ"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Adverbial phrases",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "AdvPex2",
+    "source": "men åbbå vuoras lä del dát",
+    "morpheme": "men [åbbå] vuoras lä del d-á-t",
+    "gloss": "but quite old be\\3SG.PRS obviously DEM-PROX-NOM.SG",
+    "translation": "'But this one is obviously quite old.'",
+    "gloss_tags": [
+      [
+        "but"
+      ],
+      [
+        "quite"
+      ],
+      [
+        "old"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "obviously"
+      ],
+      [
+        "DEM",
+        "PROX",
+        "NOM.SG"
+      ]
+    ],
+    "chapter": "Phrase types",
+    "section": "Adverbial phrases",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "intrans1",
+    "source": "så mån tjielka sinne vällahiv",
+    "morpheme": "så mån tjielka sinne vällahi-v",
+    "gloss": "so 1SG.NOM sled .SG in lie-1SG.PST",
+    "translation": "'So I lay in the sled.'",
+    "gloss_tags": [
+      [
+        "so"
+      ],
+      [
+        "1SG.NOM"
+      ],
+      [
+        "sled"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "in"
+      ],
+      [
+        "lie",
+        "1SG.PST"
+      ]
+    ],
+    "chapter": "Overview of the syntax of sentences",
+    "section": "Grammatical relations",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "monotrans1",
+    "source": "dä almatj biejaj risev dále nåvte",
+    "morpheme": "dä almatj bieja-j rise-v dále nåvte",
+    "gloss": "then person .SG put-3SG.PRS stick-ACC.SG now so",
+    "translation": "'Then one places the stick like this.'",
+    "gloss_tags": [
+      [
+        "then"
+      ],
+      [
+        "person"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "put",
+        "3SG.PRS"
+      ],
+      [
+        "stick",
+        "ACC.SG"
+      ],
+      [
+        "now"
+      ],
+      [
+        "so"
+      ]
+    ],
+    "chapter": "Overview of the syntax of sentences",
+    "section": "Grammatical relations",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "ditrans1",
+    "source": "mån vaddav suhta buhtsujda biebmov",
+    "morpheme": "mån vadda-v suhta buhtsu-jda biebmo-v",
+    "gloss": "1SG.NOM give-1SG.PRS several reindeer-ILL.PL food-ACC.SG",
+    "translation": "'I give food to several reindeer.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "give",
+        "1SG.PRS"
+      ],
+      [
+        "several"
+      ],
+      [
+        "reindeer",
+        "ILL.PL"
+      ],
+      [
+        "food",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Overview of the syntax of sentences",
+    "section": "Grammatical relations",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "monotrans2",
+    "source": "ja dáv aj mån vuojnav vinndegest muv dåbest",
+    "morpheme": "ja d-á-v aj mån vuojna-v vindege-st muv dåbe-st",
+    "gloss": "and DEM-PROX-ACC.SG also 1SG.NOM see-1SG.PRS window-ELAT.SG 1SG.GEN house-ELAT.SG",
+    "translation": "'And I also see this from the window from my house.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "DEM",
+        "PROX",
+        "ACC.SG"
+      ],
+      [
+        "also"
+      ],
+      [
+        "1SG.NOM"
+      ],
+      [
+        "see",
+        "1SG.PRS"
+      ],
+      [
+        "window",
+        "ELAT.SG"
+      ],
+      [
+        "1SG.GEN"
+      ],
+      [
+        "house",
+        "ELAT.SG"
+      ]
+    ],
+    "chapter": "Overview of the syntax of sentences",
+    "section": "Grammatical relations",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "deviantConstituentOrder1",
+    "source": "mån vuostasj vierbmev biejav Áktjuotjålbmáj",
+    "morpheme": "sågi-jd mån ana-v",
+    "gloss": "1SG.NOM first net-ACC.SG put-1SG.PRS Áktjuotjålbme-ILL.SG",
+    "translation": "'First I’ll put out the net in Áktjuotjålbme.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "first"
+      ],
+      [
+        "net",
+        "ACC.SG"
+      ],
+      [
+        "put",
+        "1SG.PRS"
+      ],
+      [
+        "Áktjuotjålbme",
+        "ILL.SG"
+      ]
+    ],
+    "chapter": "Overview of the syntax of sentences",
+    "section": "Constituent order at clause level",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "missingNP1",
+    "source": "ber aktak tjårvev adna",
+    "morpheme": "gallga giesse-t ulgus",
+    "gloss": "only one antler-ACC.SG have\\3SG.PRS",
+    "translation": "'(The reindeer) only has one antler.'",
+    "gloss_tags": [
+      [
+        "only"
+      ],
+      [
+        "one"
+      ],
+      [
+        "antler",
+        "ACC.SG"
+      ],
+      [
+        "have\\3SG.PRS"
+      ]
+    ],
+    "chapter": "Overview of the syntax of sentences",
+    "section": "Constituent order at clause level",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "missingNP5",
+    "source": "A: ja tjábba dállke!",
+    "morpheme": "ja tjábba dállke",
+    "gloss": "and beautiful weather .SG",
+    "translation": "'And then a ptarmigan comes.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "beautiful"
+      ],
+      [
+        "weather"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Overview of the syntax of sentences",
+    "section": "Constituent order at clause level",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "basicIntransDeclaratives1",
+    "source": "almatj usjut ja...",
+    "morpheme": "almatj usjut ja",
+    "gloss": "",
+    "translation": "'One thinks, and...'",
+    "gloss_tags": [],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Basic intransitive declaratives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "basicIntransDeclaratives2",
+    "source": "mån tjájmav",
+    "morpheme": "mån tjájma-v",
+    "gloss": "1SG.NOM laugh-1SG.PRS",
+    "translation": "'I laugh.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "laugh",
+        "1SG.PRS"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Basic intransitive declaratives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "basicIntransDeclaratives3",
+    "source": "dáj Skaile ello såkoj",
+    "morpheme": "d-á-j Skaile ello såko-j",
+    "gloss": "DEM-PROX-GEN.PL Skaile .PL reindeer.herd .SG drown-3SG.PST",
+    "translation": "'The Skaile family’s reindeer herd drowned.'",
+    "gloss_tags": [
+      [
+        "DEM",
+        "PROX",
+        "GEN.PL"
+      ],
+      [
+        "Skaile"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "reindeer.herd"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "drown",
+        "3SG.PST"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Basic intransitive declaratives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "basicMonotransDeclaratives1",
+    "source": "ja mån vuojnav muähtagav danne",
+    "morpheme": "ja mån vuojna-v muähtaga-v danne",
+    "gloss": "and 1SG.NOM see-1SG.PRS snow-ACC.SG here",
+    "translation": "'And I see snow here.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "1SG.NOM"
+      ],
+      [
+        "see",
+        "1SG.PRS"
+      ],
+      [
+        "snow",
+        "ACC.SG"
+      ],
+      [
+        "here"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Basic transitive declaratives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "basicMonotransDeclaratives2",
+    "source": "danne sáme edne båhtsujd giesen",
+    "morpheme": "danne sáme edne båhtsu-jd giese-n",
+    "gloss": "there Saami .PL have\\3PL.PRS reindeer-ACC.PL summer-INESS.SG",
+    "translation": "'The Saami keep the reindeer there in the summer.'",
+    "gloss_tags": [
+      [
+        "there"
+      ],
+      [
+        "Saami"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "have\\3PL.PRS"
+      ],
+      [
+        "reindeer",
+        "ACC.PL"
+      ],
+      [
+        "summer",
+        "INESS.SG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Basic transitive declaratives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "basicMonotransDeclaratives3",
+    "source": "almatj bedja virbmijd ehket",
+    "morpheme": "almatj bedja virbmi-jd ehket",
+    "gloss": "",
+    "translation": "'One puts out fishing nets in the evening.'",
+    "gloss_tags": [],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Basic transitive declaratives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "basicDitransDeclaratives1",
+    "source": "mån vaddav gålbmå buhtsujda biebmov",
+    "morpheme": "mån vadda-v gålbmå buhtsu-jda biebmo-v",
+    "gloss": "1SG.NOM give-1SG.PRS three reindeer-ILL.PL food-ACC.SG",
+    "translation": "'I give food to three reindeer.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "give",
+        "1SG.PRS"
+      ],
+      [
+        "three"
+      ],
+      [
+        "reindeer",
+        "ILL.PL"
+      ],
+      [
+        "food",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Basic transitive declaratives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "existential1",
+    "source": "váren gävdnu aj juomo",
+    "morpheme": "váre-n gävdnu aj juomo",
+    "gloss": "mountain-INESS.SG exist\\3PL.PRS also sorrel .PL",
+    "translation": "'There is sorrel in the mountains, too.' '(lit.: there are sorrels…)'",
+    "gloss_tags": [
+      [
+        "mountain",
+        "INESS.SG"
+      ],
+      [
+        "exist\\3PL.PRS"
+      ],
+      [
+        "also"
+      ],
+      [
+        "sorrel"
+      ],
+      [
+        ".PL"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Existential clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "existential2",
+    "source": "dal itjij gävndoj aktak tjårvebielle",
+    "morpheme": "dal itji-j gävndoj aktak tjårve-bielle",
+    "gloss": "now NEG-3SG.PST exist any horn-half .SG",
+    "translation": "'There isn’t a single 'tjårvebielle' \\ now.'",
+    "gloss_tags": [
+      [
+        "now"
+      ],
+      [
+        "NEG",
+        "3SG.PST"
+      ],
+      [
+        "exist"
+      ],
+      [
+        "any"
+      ],
+      [
+        "horn",
+        "half"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Existential clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "existential3",
+    "source": "motora vadnasij. “motora” ij gävdnu sáme gielan",
+    "morpheme": "motora vadnasi-j motora ij gävdnu sáme giela-n",
+    "gloss": "motor .SG boat-COM.PL “motor” NEG\\3SG.PRS exist Saami .SG language-INESS.SG",
+    "translation": "'…with motor boats. There is no (word for) “motor” in the Saami language.'",
+    "gloss_tags": [
+      [
+        "motor"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "boat",
+        "COM.PL"
+      ],
+      [
+        "“motor”"
+      ],
+      [
+        "NEG\\3SG.PRS"
+      ],
+      [
+        "exist"
+      ],
+      [
+        "Saami"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "language",
+        "INESS.SG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Existential clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "copula1",
+    "source": "Mattijá lij morbror munje",
+    "morpheme": "Mattijá li-j morbror munje",
+    "gloss": "Matthias .SG be-3SG.PST maternal.uncle .SG 1SG.ILL",
+    "translation": "'Matthias was my maternal uncle.'",
+    "gloss_tags": [
+      [
+        "Matthias"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "be",
+        "3SG.PST"
+      ],
+      [
+        "maternal.uncle"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "1SG.ILL"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Copular clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "copula2",
+    "source": "mån lev sábme",
+    "morpheme": "mån le-v sábme",
+    "gloss": "1SG.NOM be-1SG.PRS Saami .SG",
+    "translation": "'I am a Saami.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "be",
+        "1SG.PRS"
+      ],
+      [
+        "Saami"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Copular clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "copula3",
+    "source": "buhtsoj lä nav buojde ja tjábbe",
+    "morpheme": "buhtsoj lä nav buojde ja tjábbe",
+    "gloss": "reindeer .PL be\\3PL.PRS so fat and beautiful",
+    "translation": "'The reindeer are so fat and beautiful.'",
+    "gloss_tags": [
+      [
+        "reindeer"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "be\\3PL.PRS"
+      ],
+      [
+        "so"
+      ],
+      [
+        "fat"
+      ],
+      [
+        "and"
+      ],
+      [
+        "beautiful"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Copular clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "copula4",
+    "source": "måj lijmen Fuordnagin",
+    "morpheme": "måj lij-men Fuordnagi-n",
+    "gloss": "1DU.NOM be-1DU.PST Fuordnak-INESS.SG",
+    "translation": "'We two were in Fuordnak.'",
+    "gloss_tags": [
+      [
+        "1DU.NOM"
+      ],
+      [
+        "be",
+        "1DU.PST"
+      ],
+      [
+        "Fuordnak",
+        "INESS.SG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Copular clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "copula5",
+    "source": "ja dát lä aj struvdast",
+    "morpheme": "ja d-á-t lä aj struvda-st",
+    "gloss": "and DEM-PROX-NOM.SG be\\3SG.PRS also cloth-ELAT.SG",
+    "translation": "'And this is also (made) of cloth.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "DEM",
+        "PROX",
+        "NOM.SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "also"
+      ],
+      [
+        "cloth",
+        "ELAT.SG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Copular clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "copulaNr",
+    "source": "ja dále'l káffa",
+    "morpheme": "ja dále=l káffa",
+    "gloss": "and now=be\\3SG.PRS coffee .SG",
+    "translation": "'And now it’s coffee (time).'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "now",
+        "be\\3SG.PRS"
+      ],
+      [
+        "coffee"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Copular clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "copula6",
+    "source": "muvne lä akta mánná",
+    "morpheme": "muvne lä akta mánná",
+    "gloss": "1SG.INESS be\\3SG.PRS one child .SG",
+    "translation": "'I have one child.'",
+    "gloss_tags": [
+      [
+        "1SG.INESS"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "one"
+      ],
+      [
+        "child"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Copular clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "copula7",
+    "source": "ja dä inijmä gusajd",
+    "morpheme": "tjátse-v ådtjo-bihtet juhga-t d-a-sste",
+    "gloss": "and then have-1PL.PST cow-ACC.PL",
+    "translation": "'And then we had cows.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "then"
+      ],
+      [
+        "have",
+        "1PL.PST"
+      ],
+      [
+        "cow",
+        "ACC.PL"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Copular clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "perfClause2",
+    "source": "lä dån mannam nagin bále ja tjuvvum Vistegij?",
+    "morpheme": "lä dån manna-m nagin bále ja tjuvvu-m Visteg-ij",
+    "gloss": "be\\2SG.PRS 2SG.NOM go-PRF some time .SG and accompany-PRF Vistek-ILL.SG",
+    "translation": "'Have you ever gone and accompanied (them) to Vistek?'",
+    "gloss_tags": [
+      [
+        "be\\2SG.PRS"
+      ],
+      [
+        "2SG.NOM"
+      ],
+      [
+        "go",
+        "PRF"
+      ],
+      [
+        "some"
+      ],
+      [
+        "time"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "and"
+      ],
+      [
+        "accompany",
+        "PRF"
+      ],
+      [
+        "Vistek",
+        "ILL.SG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Multi-verb declarative clauses",
+    "subsubsection": "The aspectual auxiliary verb årrot"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "progClause2",
+    "source": "nå, mav lä låhkåmin?",
+    "morpheme": "nå ma-v lä låhkå-min",
+    "gloss": "well what-ACC.SG be\\3SG.PRS read-PROG",
+    "translation": "'Well, what is he studying?' '(lit.: reading)'",
+    "gloss_tags": [
+      [
+        "well"
+      ],
+      [
+        "what",
+        "ACC.SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ],
+      [
+        "read",
+        "PROG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Declarative clauses",
+    "subsection": "Multi-verb declarative clauses",
+    "subsubsection": "The aspectual auxiliary verb årrot"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "polarQinversion6",
+    "source": "bårråm lä dån biergov danne?",
+    "morpheme": "bårrå-m lä dån biergo-v danne",
+    "gloss": "eat-PRF be\\2SG.PRS 2SG.NOM meat-ACC.SG there",
+    "translation": "'Have you eaten meat there?'",
+    "gloss_tags": [
+      [
+        "eat",
+        "PRF"
+      ],
+      [
+        "be\\2SG.PRS"
+      ],
+      [
+        "2SG.NOM"
+      ],
+      [
+        "meat",
+        "ACC.SG"
+      ],
+      [
+        "there"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Interrogative clauses",
+    "subsection": "Polar interrogative clauses",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "impClause3",
+    "source": "gijtov adnen",
+    "morpheme": "gijto-v adne-n",
+    "gloss": "thank-ACC.SG have-DU.IMP",
+    "translation": "'Thank you (two)!' '(lit.: have thanks!)'",
+    "gloss_tags": [
+      [
+        "thank",
+        "ACC.SG"
+      ],
+      [
+        "have",
+        "DU.IMP"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Clauses in the imperative mood",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "impClause5",
+    "source": "årren dál",
+    "morpheme": "årre-n dál",
+    "gloss": "sleep-DU.IMP now",
+    "translation": "'Go to sleep now!'",
+    "gloss_tags": [
+      [
+        "sleep",
+        "DU.IMP"
+      ],
+      [
+        "now"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Clauses in the imperative mood",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "potSyntaxEx2",
+    "source": "nå hålåv, vuolgetjip del",
+    "morpheme": "nå hålå-v vuolge-tji-p del",
+    "gloss": "well say-1SG.PRS go-POT-1PL obviously",
+    "translation": "'Well then I say we really should probably go.'",
+    "gloss_tags": [
+      [
+        "well"
+      ],
+      [
+        "say",
+        "1SG.PRS"
+      ],
+      [
+        "go",
+        "POT",
+        "1PL"
+      ],
+      [
+        "obviously"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Clauses in the potential mood",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "potSyntaxEx3",
+    "source": "nä, virtitjav nuollat",
+    "morpheme": "nä virti-tja-v nuolla-t",
+    "gloss": "no must-POT-1SG undress-INF",
+    "translation": "'Oh no, I’ll probably have to take off some clothes.'",
+    "gloss_tags": [
+      [
+        "no"
+      ],
+      [
+        "must",
+        "POT",
+        "1SG"
+      ],
+      [
+        "undress",
+        "INF"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Clauses in the potential mood",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "potSyntaxEx1",
+    "source": "jus sån vuosjatja káfav",
+    "morpheme": "jus sån vuosja-tj-a káfa-v",
+    "gloss": "if 3SG.NOM prepare.coffee-POT-3SG coffee-ACC.SG",
+    "translation": "'If he will perhaps make coffee.'",
+    "gloss_tags": [
+      [
+        "if"
+      ],
+      [
+        "3SG.NOM"
+      ],
+      [
+        "prepare.coffee",
+        "POT",
+        "3SG"
+      ],
+      [
+        "coffee",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Basic clauses",
+    "section": "Clauses in the potential mood",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "coordination1",
+    "source": "mån anav Árjepluove gaptev nanne, ja Ivan adna Arrvehavre gaptev",
+    "morpheme": "mån ana-v Árjepluove gapte-v nanne ja Ivan adna Arrvehavre gapte-v",
+    "gloss": "1SG.NOM have-1SG.PRS Arjeplog .SG frock-ACC.SG on and Ivan have-3SG.PRS Arvidsjaur .SG frock-ACC.SG",
+    "translation": "'I have an Arjeplog frock on, and Ivan has an Arvidsjaur frock.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "have",
+        "1SG.PRS"
+      ],
+      [
+        "Arjeplog"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "frock",
+        "ACC.SG"
+      ],
+      [
+        "on"
+      ],
+      [
+        "and"
+      ],
+      [
+        "Ivan"
+      ],
+      [
+        "have",
+        "3SG.PRS"
+      ],
+      [
+        "Arvidsjaur"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "frock",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Complex clauses",
+    "section": "Clausal coordination",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "coordination2",
+    "source": "men ijtjin del bårå dan siste, men ednen biebmojd biergojd ja dále návte deggara sinne",
+    "morpheme": "men ijtji-n del bårå d-a-n siste men edne-n biebmo-jd biergo-jd ja dále návte deggara sinne",
+    "gloss": "but NEG-3PL.PST obviously eat DEM-DIST-GEN.SG out but have-3PL.PST food-ACC.PL meat-ACC.PL and now like.this such .PL in",
+    "translation": "'But they obviously didn't eat out of that, but they had food, meat and so on in such things.'",
+    "gloss_tags": [
+      [
+        "but"
+      ],
+      [
+        "NEG",
+        "3PL.PST"
+      ],
+      [
+        "obviously"
+      ],
+      [
+        "eat"
+      ],
+      [
+        "DEM",
+        "DIST",
+        "GEN.SG"
+      ],
+      [
+        "out"
+      ],
+      [
+        "but"
+      ],
+      [
+        "have",
+        "3PL.PST"
+      ],
+      [
+        "food",
+        "ACC.PL"
+      ],
+      [
+        "meat",
+        "ACC.PL"
+      ],
+      [
+        "and"
+      ],
+      [
+        "now"
+      ],
+      [
+        "like.this"
+      ],
+      [
+        "such"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "in"
+      ]
+    ],
+    "chapter": "Complex clauses",
+    "section": "Clausal coordination",
+    "subsection": "",
+    "subsubsection": ""
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "complementizer1",
+    "source": "ja dä mån hålåv att sidav bajket",
+    "morpheme": "ja dä mån hålå-v att sida-v bajke-t",
+    "gloss": "and then 1SG.NOM say-1SG.PRS SUBORD want-1SG.PRS poop-INF",
+    "translation": "'And then I say that I want to poop.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "then"
+      ],
+      [
+        "1SG.NOM"
+      ],
+      [
+        "say",
+        "1SG.PRS"
+      ],
+      [
+        "SUBORD"
+      ],
+      [
+        "want",
+        "1SG.PRS"
+      ],
+      [
+        "poop",
+        "INF"
+      ]
+    ],
+    "chapter": "Complex clauses",
+    "section": "Clausal subordination",
+    "subsection": "Complement clauses",
+    "subsubsection": "Complement clauses with a finite predicate"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "complementizer2",
+    "source": "men mån diedav att háre lä jávren",
+    "morpheme": "men mån dieda-v att háre lä jávre-n",
+    "gloss": "but 1SG.NOM know-1SG.PRS SUBORD greyling .PL be\\3PL.PRS lake-INESS.SG",
+    "translation": "'But I know that there are greyling in the lake.'",
+    "gloss_tags": [
+      [
+        "but"
+      ],
+      [
+        "1SG.NOM"
+      ],
+      [
+        "know",
+        "1SG.PRS"
+      ],
+      [
+        "SUBORD"
+      ],
+      [
+        "greyling"
+      ],
+      [
+        ".PL"
+      ],
+      [
+        "be\\3PL.PRS"
+      ],
+      [
+        "lake",
+        "INESS.SG"
+      ]
+    ],
+    "chapter": "Complex clauses",
+    "section": "Clausal subordination",
+    "subsection": "Complement clauses",
+    "subsubsection": "Complement clauses with a finite predicate"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "complClauseJuxFin1",
+    "source": "mån jáhkav stuor tjuovtja lä danne",
+    "morpheme": "mån jáhka-v stuor tjuovtj-a lä danne",
+    "gloss": "1SG.NOM believe-1SG.PRS big whitefish-NOM.PL be\\3PL.PRS there",
+    "translation": "'I believe there are big whitefish there.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "believe",
+        "1SG.PRS"
+      ],
+      [
+        "big"
+      ],
+      [
+        "whitefish",
+        "NOM.PL"
+      ],
+      [
+        "be\\3PL.PRS"
+      ],
+      [
+        "there"
+      ]
+    ],
+    "chapter": "Complex clauses",
+    "section": "Clausal subordination",
+    "subsection": "Complement clauses",
+    "subsubsection": "Complement clauses with a finite predicate"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "Qsubordination1",
+    "source": "mån iv diede gåsse gillgin gávnadit maŋep bále",
+    "morpheme": "mån i-v diede gåsse gillgi-n gávnadi-t maŋe-p bále",
+    "gloss": "1SG.NOM NEG-1SG.PRS know when will-1DU.PRS meet-INF after-COMP time .SG",
+    "translation": "'I don’t know when we’ll meet next time.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "NEG",
+        "1SG.PRS"
+      ],
+      [
+        "know"
+      ],
+      [
+        "when"
+      ],
+      [
+        "will",
+        "1DU.PRS"
+      ],
+      [
+        "meet",
+        "INF"
+      ],
+      [
+        "after",
+        "COMP"
+      ],
+      [
+        "time"
+      ],
+      [
+        ".SG"
+      ]
+    ],
+    "chapter": "Complex clauses",
+    "section": "Clausal subordination",
+    "subsection": "Complement clauses",
+    "subsubsection": "Complement clauses with a finite predicate"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "Qsubordination2",
+    "source": "mån iv skene mav dån hålå",
+    "morpheme": "mån i-v skene ma-v dån hålå",
+    "gloss": "1SG.NOM NEG-1SG.PRS understand what-ACC.SG 2SG.NOM say\\2SG.PRS",
+    "translation": "'I don’t understand what you’re saying.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "NEG",
+        "1SG.PRS"
+      ],
+      [
+        "understand"
+      ],
+      [
+        "what",
+        "ACC.SG"
+      ],
+      [
+        "2SG.NOM"
+      ],
+      [
+        "say\\2SG.PRS"
+      ]
+    ],
+    "chapter": "Complex clauses",
+    "section": "Clausal subordination",
+    "subsection": "Complement clauses",
+    "subsubsection": "Complement clauses with a finite predicate"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "Qsubordination3",
+    "source": "mån diedav gie lä",
+    "morpheme": "mån dieda-v gie lä",
+    "gloss": "1SG.NOM know-1SG.PRS who .SG be\\3SG.PRS",
+    "translation": "'I know who she is.'",
+    "gloss_tags": [
+      [
+        "1SG.NOM"
+      ],
+      [
+        "know",
+        "1SG.PRS"
+      ],
+      [
+        "who"
+      ],
+      [
+        ".SG"
+      ],
+      [
+        "be\\3SG.PRS"
+      ]
+    ],
+    "chapter": "Complex clauses",
+    "section": "Clausal subordination",
+    "subsection": "Complement clauses",
+    "subsubsection": "Complement clauses with a finite predicate"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "Qsubordination4",
+    "source": "man mälgat lij gu lij hiejman, iv mån diede",
+    "morpheme": "man mälgat li-j gu li-j hiejma-n i-v mån diede",
+    "gloss": "how far be-3SG.PST when be-3SG.PST home-INESS.SG NEG-1SG.PRS 1SG.NOM know",
+    "translation": "'I don’t know how far it was to get home.'",
+    "gloss_tags": [
+      [
+        "how"
+      ],
+      [
+        "far"
+      ],
+      [
+        "be",
+        "3SG.PST"
+      ],
+      [
+        "when"
+      ],
+      [
+        "be",
+        "3SG.PST"
+      ],
+      [
+        "home",
+        "INESS.SG"
+      ],
+      [
+        "NEG",
+        "1SG.PRS"
+      ],
+      [
+        "1SG.NOM"
+      ],
+      [
+        "know"
+      ]
+    ],
+    "chapter": "Complex clauses",
+    "section": "Clausal subordination",
+    "subsection": "Complement clauses",
+    "subsubsection": "Complement clauses with a finite predicate"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "complClauseJuxInf1",
+    "source": "nå gosse dijá älgijdä Örnvikast vuodjet vadnásav?",
+    "morpheme": "nå gosse dijá älgi-jdä Örnvika-st vuodje-t vadnása-v",
+    "gloss": "well when 2PL.NOM begin-2PL.PST Örnvik-ELAT.SG drive-INF boat-ACC.SG",
+    "translation": "'Well when did you start to take the boat from Örnvik?'",
+    "gloss_tags": [
+      [
+        "well"
+      ],
+      [
+        "when"
+      ],
+      [
+        "2PL.NOM"
+      ],
+      [
+        "begin",
+        "2PL.PST"
+      ],
+      [
+        "Örnvik",
+        "ELAT.SG"
+      ],
+      [
+        "drive",
+        "INF"
+      ],
+      [
+        "boat",
+        "ACC.SG"
+      ]
+    ],
+    "chapter": "Complex clauses",
+    "section": "Clausal subordination",
+    "subsection": "Complement clauses",
+    "subsubsection": "Complement clauses with an infinitive predicate"
+  },
+  {
+    "language": "Pite Saami",
+    "example_id": "complClauseJuxInf2",
+    "source": "ja dä del virrtin allget biebmat, fodderijd vuodjet",
+    "morpheme": "ja dä del virrti-n allge-t biebma-t fodderi-jd vuodje-t",
+    "gloss": "and then obviously must-3PL.PST begin-INF feed-INF feed-ACC.PL drive-INF",
+    "translation": "'And so they obviously had to start to feed, to transport the feed.'",
+    "gloss_tags": [
+      [
+        "and"
+      ],
+      [
+        "then"
+      ],
+      [
+        "obviously"
+      ],
+      [
+        "must",
+        "3PL.PST"
+      ],
+      [
+        "begin",
+        "INF"
+      ],
+      [
+        "feed",
+        "INF"
+      ],
+      [
+        "feed",
+        "ACC.PL"
+      ],
+      [
+        "drive",
+        "INF"
+      ]
+    ],
+    "chapter": "Complex clauses",
+    "section": "Clausal subordination",
+    "subsection": "Complement clauses",
+    "subsubsection": "Complement clauses with an infinitive predicate"
+  }
+]

@@ -1,0 +1,72 @@
+1	1st person
+2	2nd person
+3	3rd person
+COND	conditional
+COP	copula
+DEP	dependent marker
+DETR	detransitivizer
+DIST	distal
+DU	dual
+EMPH	emphatic
+EXCL	exclusive
+HAB	habitual (in loans from Tok Pisin)
+IMP	imperative
+INCL	inclusive
+INDF	indefinite
+INTERJ	interjection
+INT	intensive
+IPFV	imperfective
+IRR	irrealis
+NEG	negative/negator
+NMLZ	nominalizer
+NSG	non-singular
+OBJ	object (or non-subject)
+OBL	oblique
+PART	partitive
+PFV	perfective
+PL	plural
+POSS	possessive/possessor
+PRED	predicate marker (in loans from Tok Pisin)
+PROH	prohibitive
+PROX	proximal
+PST	past
+REFL	reflexive
+SG	singular
+SPEC	speculative
+SUBJ	subject
+TOP	topic
+VOC	vocative
+A	the more agent-like argument of a transitive clause
+ADJ	adjective
+ADV	adverb
+CONJ	conjunction
+DEM	demonstrative
+LEI	Language Endangerment Index
+EGIDS	Expanded Graded Intergenerational Disruption Scale
+ELAR	Endangered Languages Archive
+INTERJ	interjection
+IPA	International Phonetic Alphabet
+ISO	International Organization for Standardization
+LLG	Local-Level Government area
+N	noun
+NP	noun phrase
+NUM	numeral
+O	object
+P	the more patient-like argument of a transitive clause
+P	postposition
+PARADISEC	Pacific and Regional Archive for Digital Sources in Endangered Cultures
+PNG	Papua New Guinea
+PP	postpositional phrase
+PRO	pronoun
+Q	question word/interrogative word
+QUANT	quantifier
+R	recipient
+S	subject (or, the single argument of an intransitive clause)
+SOAS	School of Oriental and African Studies
+T	theme
+TAM	tense-aspect-mood
+TP	Tok Pisin
+UNESCO	United Nations Educational, Scientific and Cultural Organization
+V	verb
+VP	verb phrase
+X	oblique

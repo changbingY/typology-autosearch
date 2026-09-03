@@ -1,0 +1,90 @@
+∅             zero form
+\.../         verb stem, e.g. y\fath/wr
+(.)           speech pause
+.             multi-item gloss, e.g. old.man, be.standing, 3SG.MASC
+|             used in cases of syncretism, e.g. 2|3 is second or third person
+1             first person
+2             second person
+3             third person
+α             alpha prefix series
+β             beta prefix series
+β1            beta 1 prefix series
+β2            beta 2 prefix series
+γ             gamma prefix series
+A             most agent-like argument
+ABS           absolutive case
+ABL           ablative case
+ADJZR         adjectivaliser
+ALL           allative case
+ALR           iamitive ('already')
+AND           andative
+ANIM          animate
+APPR          apprehensive
+ASSOC         associative case
+BG            backgrounded
+CHAR          characteristic case
+COP           copula
+DAT           dative case
+DEM           demonstrative
+DIM           diminutive
+DISTR         distributive
+DIST          distal demonstrative
+DU            dual
+DUR           durative
+EMPH          emphatic
+ERG           ergative case
+ETC           et cetera ('and all')
+EXT           extended verb stem
+FEM           feminine
+FUT           future
+FUTIMP        future imperative
+HAB           habitual
+IMM           immediate demonstrative
+IMN           imminent
+IMP           imperative
+INDF          indefinite
+INS           instrumental case
+IO            indirect object
+IPFV          imperfective
+IPST          immediate past
+IRR           irrealis
+ITER          iterative
+LK            linking consonant
+LOC           locative case
+LPL           large plural
+M             middle
+MASC          masculine
+MED           medial demonstrative
+ND            non-dual
+NEG           negator
+NMLZ          nominaliser
+NPL           non-plural
+NPST          non-past
+NSG           non-singular
+OBJ           object
+ONLY          exclusive marker ('only', 'just')
+P             most patient-like argument
+PFV           perfective
+PL            plural
+POS           positional verb stem
+POSS          possessive
+POT           potential
+PRIV          privative case
+PROP          proprietive case
+PROX          proximal demonstrative
+PST           past
+PURP          purposive case
+QUOT          quotative
+RECOG         recognitional pronoun
+REDUP         reduplication
+RPST          recent past
+RS            restricted verb stem
+S             single argument of an intransitive verb
+SBJ           subject
+SG            singular
+SIMIL         similative
+STAT          stative
+TEMP          temporal case
+U             undergoer
+VC            valency change
+VENT          venitive

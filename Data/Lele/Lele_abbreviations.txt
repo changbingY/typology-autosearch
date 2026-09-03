@@ -1,0 +1,54 @@
+#	word boundary (in phonology chapter)
+1	first person
+2	second person
+3	third person
+A	subject of a transitive clause
+APPR	apprehensive
+C	syllable coda (only in phonology chapter)
+CA	common argument
+CLF	classifier
+CMPL	complement
+COND	conditional
+COP	copula
+DEC	decade
+DEM	demonstrative
+DIST	distal
+DU	dual
+FOC	focus
+GN	geographical name
+HAB	habitual
+INT	intentional
+INTS	intensifier
+IRR	irrealis
+LEX	lexical verb
+LOC	locative, locational
+N	noun
+N	syllable nucleus (only in phonology chapter)
+NP	noun phrase
+NSG	non-singular
+O	object
+O	syllable onset (only in phonology chapter)
+PEAd	Proto Eastern Admiralties
+PN	personal name
+PL	plural
+POc	Proto Oceanic
+POSS	possessive
+PRAG	pragmatic particle
+PRF	perfect
+PROG	progressive
+PROP	property marker
+PROX	proximal
+PURP	purpose
+RC	relative clause
+RDP	reduplication
+RECIP	recipient
+S	subject of an intransitive clause
+SEQ	sequential
+SG	singular
+SVC	serial verb construction
+TAG	tag particle
+(TP)	a code-switched word from Tok Pisin
+TR	transitive
+V	verb
+V	vowel (only in phonology chapter)
+V(agr)	verbal subject agreement marker

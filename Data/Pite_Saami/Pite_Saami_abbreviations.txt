@@ -1,0 +1,73 @@
+-	segmentable morpheme boundary
+\	morpheme via stem alternation (not segmentable)
++	compound boundary
+=	clitic boundary
+.	syllable boundary
+σ	syllable
+∑	morphological stem
+*	ungrammatical form; reconstructed form
+?	uncertain form
+<	source language
+/ /	phonological representation
+[ ]	phonetic form
+< >	orthographic representation
+~	variation between forms
+ABESS	abessive
+ACC	accusative
+ADJZ	adjectivizer
+AdvP	adverbial phrase
+ADVZ	adverbializer
+agr.sx.	agreement suffix
+AP	adjectival phrase
+approx.	approximant
+ATTR	attributive
+C	consonant segment
+CC	two-segment consonant cluster
+CCC	three-segment consonant cluster
+C-grad	consonant gradation
+cl.sx.	inflectional class suffix
+COM	comitative
+COMP	comparative
+CONNEG	connegative
+DEM	demonstrative
+DIM	diminutive
+DIST	distal
+DU	dual
+ELAT	elative
+e	elicitation session
+ESS	essive
+GEN	genitive
+ILL	illative
+IMP	imperative
+INESS	inessive
+INF	infinitive
+n/a	not available
+NEG	negation verb
+NMLZ	nominalizer
+NOM	nominative
+NP	nominal phrase
+ORD	ordinal number
+PASS	passive
+PL	plural
+PP	postpositional phrase
+POSS	possessive
+POT	potential
+PRED	predicative
+PRF	perfective
+PROG	progressive
+PROX	proximal
+PRS	present
+PST	past
+Q	question marker
+REFL	reflexive
+REL	relative pronoun
+RMT	remote
+SG	singular
+str	strong grade
+SUBORD	subordinator
+SUPERL	superlative
+V	vowel segment
+VBLZ	verbalizer
+VC	verb complex
+VH	vowel harmony
+wk	weak grade

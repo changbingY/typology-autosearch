@@ -1,0 +1,47 @@
+1	first person
+2	second person
+3	third person
+adv	adverb
+advs	adversative
+art	article
+asp	aspect
+cled	classifier edible items
+clgen	classifier general items
+clliq	classifier liquids
+conj	conjunction
+dehort	dehortative
+dem	demonstrative
+dem:loc	local adverbial demonstrative
+dir	directional
+excl	exclusive
+exclam	exclamation
+genmod	general modifier
+hesit	hesitation marker
+incl	inclusive
+int	interrogative
+irr	irrealis
+loc	locational
+neg1	first element of negative discontinuous marker
+neg2	second element of negative discontinuous marker
+nom	nominalisation
+np	noun phrase
+Obj	object
+pers.pron	personal pronoun
+pl	plural
+poss	possessive
+pot	potential
+prep1	first prepositional form
+prep2	second prepositional form
+prohib	prohibitative
+purp1	first purposive form
+purp2	second purposive form
+real	realis
+redup	reduplication
+sg	singular
+sim	similitive
+sub	subordinator
+tam	tense aspect mood
+v1	verb 1 or the first verb in the sequence
+v2	verb 2 or the second verb in the sequence
+vc	verb complex
+vp	verb phrase

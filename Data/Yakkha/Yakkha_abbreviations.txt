@@ -1,0 +1,88 @@
+1,2,3	person (1>3: first acting on third person, etc.)
+A	most agent-like argument of a transitive verb
+ABL	ablative
+ADD	additive focus
+AFF	affirmative
+ALT	alternative
+AUX	auxiliary verb
+BEN	benefactive
+B.S.	Bikram Sambat calendar, as used in Nepal
+CAUS	causative
+CL	clause linkage marker
+COM	comitative
+COMP	complementizer
+COMPAR	comparative
+COMPL	completive
+COND	conditional
+CONT	continuative
+COP	copula
+CTMP	cotemporal (clause linkage)
+CTR	contrastive focus
+CVB	converb
+DU	dual
+EMPH	emphatic
+ERG	ergative
+EXCL	exclusive
+EXCLA	exclamative
+G	most goal-like argument of a three-argument verb
+GEN	genitive
+GSR	generalized semantic role
+HON	honorific
+HORT	hortative
+REP	reportative marker
+IGN	interjection expressing ignorance
+IMP	imperative
+INCL	inclusive
+INF	infinitive
+INIT	initiative
+INS	instrumental
+INSIST	insistive
+INT	interjection
+IRR	irrealis
+ITP	interruptive clause linkage
+LOC	locative
+MDDL	middle
+MIR	mirative
+NATIV	nativizer
+NSG	nonsingular
+NC	non-countable
+n.a.	not applicable
+n.d.	no data
+NEG	negation
+Nep.	Nepali
+NMLZ	nominalizer
+NPST	non-past
+OPT	optative
+P	most patient-like argument of a transitive verb
+POL	politeness
+PL	plural
+PLU.PST	plupast
+PRF	perfect tense
+POSS	possessive (prefix or pronoun)
+PROG	progressive
+PST	past tense
+PST.PRF	past perfect
+PTB	Proto-Tibeto-Burman
+PURP	purposive
+Q	question particle
+QUANT	quantifier
+QUOT	quotative
+RC	relative clause
+RECIP	reciprocal
+REDUP	reduplication
+REFL	reflexive
+REP	reportative
+RESTR	restrictive focus
+S	sole argument of an intransitive verb
+SBJV	subjunctive
+SEQ	sequential (clause linkage)
+SG	singular
+SIM	simultaneous
+SUP	supine
+T	most theme-like argument of a three-argument verb
+TAG	tag question
+TEMP	temporal
+TOP	topic particle
+TRIPL	triplication
+V2	function verb (in complex predication)
+VOC	vocative

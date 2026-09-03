@@ -1,0 +1,50 @@
+1	first person
+2	second person
+3	third person
+ADJ	adjectiviser
+ANIM	animate
+APPL	applicative
+CAUS	causative
+CLF	classifier
+CNTF	counterfactual
+COMP	complementiser
+COND	conditional
+CONT	continuative
+DEF	definiteness marker
+DEM	demonstrative
+DIST	distal
+du	dual
+EMP	emphatic marker
+EXCL	exclusive
+FREE	free pronoun
+FOC	focus marker
+HAB	habitual
+IMP	imperative
+INANIM	inanimate
+INCL	inclusive
+INT	intermediate
+INTJ	interjection
+INTF	intensifier
+IPFV	imperfective
+IRR	irrealis
+MOD	modal operator
+NEG	negation marker
+NOM	nominaliser
+NS	non-singular
+pc	paucal
+PFV	perfective
+pl	plural
+POSS	possessive
+PRF	perfect
+PROG	progressive
+PROX	proximate
+PERT	pertensive
+REDUP	reduplication
+REL	relative clause marker
+sg	singular
+SUB	subordinate clause marker
+TAG	tag question marker
+ZERO	unrealised pronoun
+-	affix boundary
+=	clitic boundary
+.	morpheme boundary

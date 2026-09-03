@@ -1,0 +1,56 @@
+1	1st person
+2	2nd person
+3	3rd person
+ADJ	adjectiviser
+adp.	adposition
+ADV	adverbiser
+adv.	adverb
+CL	verb class (/-j/ suffix)
+conj.	conjunction
+DAT	dative preposition
+dem.	demonstrative
+DEM	demonstrative
+DEP	dependent form of verb
+disc.	discourse marker
+DO	direct object pronominal
+EX	exclusive (first person plural)
+EXT	existential
+GEN	genitive particle
+HON	Honorific pronoun
+HOR	Hortative mood
+ID	ideophone
+IFV	Imperfective aspect
+IMP	imperative
+IN	inclusive (first person plural)
+interj.	interjection
+IO	indirect object pronominal
+ITR	habitual iterative aspect
+LOC	semantic location
+n.	noun
+nclitic	noun clitic
+NEG	negative
+n.pr.	proper noun
+nsfx.	noun suffix
+NOM	nominalised form of verb
+num.	numeral
+PL	plural
+PBL	Possible mood
+PFV	Perfective aspect
+Pl	plural noun clitic
+PLU	pluractional
+pn.	pronoun
+POSS	possessive pronoun
+POT	Potential mood
+PRF	Perfect
+PRG	progressive aspect
+PSP	presupposition marker
+quant.	quantifier
+Q	interrogative marker
+REAL	realis mood
+SG	singular
+SENTNUM #	sentence number from text
+spp.	species
+v.	verb
+vclitic	verb clitic
+vpfx.	verb prefix
+vsfx.	verb suffix

@@ -1,0 +1,104 @@
+1PL	first person plural
+1SG	first person singular
+2PL	second person plural
+2SG	second person singular
+3	third person
+3I	third person
+A	subject of transitive verb
+AC	adverbial clause
+ADD	additive
+ADJ	adjective
+ADM	admonitive
+AFM	affirmation
+AM	associated motion
+AM.CONC.CIS	concurrent cislocative motion
+AM.CONC.TR	concurrent translocative motion
+AM.PRIOR	prior motion
+AM.SUBS	subsequent motion
+AVERT	avertive
+ATTR	attributive
+BEN	benefactive
+BÉS.	Bésiro
+C	consonant
+CAUS	causative (1 & 2)
+CC	complement clause
+CLF	classifier
+COL	collective
+COM	comitative
+CONT	continuous
+DEC	deceased
+DEC.PN	deceased for proper name
+DED	deductive
+DEICT	deictic marker
+DEM	demonstrative (a, b & c)
+DER	derivational affix
+DIM	diminutive
+DISTR	distributive
+DLOC	dislocative
+DSC	discontinuous
+EMPH	emphatic (1 & 2)
+EXT	extension applicative
+FRUST	frustrative
+GRN	general relational noun
+HON	honorific
+HORT	hortative
+IAM	iamitive
+IDPH	ideophone
+IMP	imperative
+INCMP	incompletive
+INS	instrumental (or cause)
+INTJ	interjection
+INTS	intensifier
+INTSV	intensive
+IRR	irrealis
+IRR.NV	non-verbal irrealis
+LIM	limitative (1 & 2)
+LOC	locative
+MC	main clause
+MCPC	motion-cum-purpose construction
+MID	middle voice
+MIR	mirative
+N	noun
+NEG	negation
+NMLZ	nominaliser
+NP	noun phrase
+NPOSSD	non-possessed
+NUM	numeral
+O	object
+OBL	oblique
+OPT	optative (1 & 2)
+PDP	Paunaka Documentation Project
+PL	plural
+POSS	possessor
+POSSD	possessed
+PRED	predicate
+PRIV	privative
+PRN	pronoun
+PROH	prohibitive
+PRSP	prospective
+PUNCT	punctual
+Q	quantifier
+RC	relative clause
+RCPC	reciprocal
+RDPL	reduplication
+REAL	realis
+REG	regressive (or repetitive)
+REL	relativiser
+REM	remote (past or distance)
+REP	repetition
+RPRT	reportive
+RS	reality status
+S	subject
+S	subject of intransitive verb
+SAP	speech act participant
+SPAN.	Spanish
+SUBORD	subordinate
+SVC	serial verb construction
+TAME	tense, aspect, mood/modality, and evidentiality
+TH	thematic (1 & 2)
+TOP	topic
+UNCERT	uncertainty
+UNCERT.FUT	uncertain future
+V	verb
+V	vowel
+X	oblique

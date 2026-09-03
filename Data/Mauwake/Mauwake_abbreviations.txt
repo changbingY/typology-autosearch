@@ -1,0 +1,96 @@
+ACC	accusative
+ADD	additive connective
+ADJ	adjective
+ADV	adverb(ial)
+ADVP	adverbial phrase
+ANTNP	antecedent noun phrase
+AP	adjective phrase
+APP	apposition(al)
+ASP	aspect
+ASSOC	associative
+AUX	auxiliary
+BEN	benefactive
+BNFY1	beneficiary 1/2 singular
+BNFY2	beneficiary non-1/2 singular
+BP	bring-prefix
+CAUS	causative
+CC	complement clause
+CF	contrastive focus
+CL	clause
+CNJ	connective
+CNTF	counterfactual
+COM	comitative
+CMPL	completive aspect
+CONT	continuous aspect
+COORD	coordinate
+CTV	complement-taking verb
+DAT	dative
+DEM	demonstrative deictic
+DISTR/A	distributive: "all"
+DISTR/PL	distributive: "many"
+D	dual
+DS	different subject following
+FC	focal (pronoun)
+FU	future tense
+GEN	genitive
+HAB	habitual
+HN	head noun
+IMP	imperative
+INAL	inalienably possessed noun
+INC	inceptive
+INCH	inchoative
+INSTR	instrument
+INTJ	interjection
+ISOL	isolative
+LIM	limiter
+LOC	locative
+MAN	manner
+NEG	negation
+NF	neutral focus
+NMZ	nominaliser
+N	noun
+NP	noun phrase
+Np	non-past
+NVP	non-verbal predicate
+O	object
+P,PL	plural
+P	phrase
+PA	past tense
+PAT	patient
+POSS	possessive
+PR	present tense
+QM	question marker
+QP	quantifier phrase
+RC	relative clause
+RDP	reduplication
+REC	recipient
+REFL	reflexive
+RELNP	relative noun phrase
+S	singular
+S	subject
+SEQ	sequential action
+SIM	simultaneous action
+SPEC	specifier
+SR	switch-reference
+SS	same subject following
+TH	theme
+TNG	Trans-New Guinea
+TP	topic
+T.P.	Tok Pisin
+UNM	unmarked (pronoun)
+v,V	verb
+1	first person
+2	second person
+3	third person
+*	ungrammatical
+?	questionable
+/ / or ~	phonemic transcription
+[ ]	phonetic transcription
+< >	grapheme
+( )	variant; optional
+.	syllable break
+-	morpheme break
+=	clitic break
+Ø	zero morpheme
+ˈ	primary stress
+ˈˈ	secondary stress

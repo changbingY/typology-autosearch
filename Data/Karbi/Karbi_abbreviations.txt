@@ -1,0 +1,60 @@
+1	first person
+HORT	hortative
+2	second person
+IMP	imperative
+3	third person
+INCL	inclusive
+ADD	additive
+INDEF	indefinite
+ASSUM	assumption
+INTENS	intensifier
+AUG	augmentative
+INTER	interactive
+AUTO	autobenefactive
+IRR	irrealis
+BEN	benefactive
+LOC	locative
+CAUS	causative
+M	masculine
+CIS	cislocative
+MAL	malefactive
+CLF	classifier
+NEG	negation
+CONF.Q	confirmation question
+NF	non-final
+COP	copula
+NMLZ	nominalizer
+DCL	declarative
+NSUBJ	non-subject
+DEF	definite
+PL	plural
+DEM	demonstrative
+POL	polite
+DIM	diminutive
+PROH	prohibitive
+DIR	directive
+PST	past
+DIST	distal demonstrative
+Q	question
+EE	elaborate expression
+QUOT	quotative
+EMPH	emphatic
+RDPL	reduplication
+EQ	equative
+REP	reportative
+EX	existential
+REPL	reply
+EXCL	exclusive
+RL	realis
+F	feminine
+RR	reflexive-reciprocal
+FOC	focus
+SG	singular
+FUT	future
+SUPP	supposition
+GNR	generic
+TAG	tag question
+HAB	habitual
+TOP	topic
+HON	honorific
+UNCERT	uncertainty
