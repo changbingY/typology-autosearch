@@ -1,0 +1,93 @@
+ACQ	Acquiescence bé
+ADVR	Adversative ka‡h
+AGAIN	Repetitive aspect/topic-shift =b’ay
+ALT.INT	Alternative interrogative =ha/
+APPR	Apprehensive mood
+ASSOC.PL	Associative plural -and’ ́h
+CAUSE	Reason adverbial -keyó/
+CMP	Comparative dˆyˆ/
+COMPL	Completive -cˆ)p, -cˆ)w-
+COND	Conditional -tQ‡n
+COOP	Cooperative -nˆ‡N
+CNTR	Contrastive n’u‡h
+CNTRFCT	Counterfactual -tQ‚/-
+CNTRFCT2	Counterfactual 2 tíh
+DCSD	Deceased marker =cud
+DECL	Declarative -Vêh
+DEP	Dependent marker, Topic marker -Vp
+DIM	Diminutive intensifier =mQh
+DIR	Directional oblique -an
+DISJ	Disjunction /ó
+DIST	Distributive pˆ¤d
+DST.CNTR	Distant past contrast j’ám
+DYNM	Dynamic -Vêy
+EMPH1	Emphasis 1 -pog
+EMPH2	Emphasis 2 tíh
+EMPH.CO	Emphatic Coordinator =nih
+EMPH.INT	Interrogative emphasis ti‡
+EMPH.DEP	Dependent emphasis tí
+EMPH.TAG	Emphatic tag -(V)ti/
+EPIST	Epistemic modality /uê‚h
+EXCL	Exclusive -Vyˆk
+FACT	Factitive hi-
+FEM	Feminine (bound noun) =/ãêy
+FLR	Filler form -Vw-
+FLW	Following marker hu)Ùy
+FOC	Focus -ah
+FRUST	Frustrative yQ‚êh
+FUT	Future -teg, -te-
+FUT.CNTR	Future contrast tán
+HAB	Habitual bˆ¤g, -bˆ-
+IDEO	Ideophone
+IMP	Imperative
+IMP2	Imperative suffix -kQ‡m
+INCH	Inchoative, Inch. focus -ay
+INFR	Inferential evidential =cud
+INFR2	Inferential 2 evidential -ni-
+ITG	Intangible (dem.)
+INT	Interrogative -V/
+INTERJ	Interjection
+INTS1	Intensifier 1 -(V)cáp
+INTS2	Intensifier 2 mún/ muhún
+INTS3	Intensifier 3 -tubud-
+LOC	Locative có/
+MEAS	Measure -m’Q¤
+MEAS2	Measure 2 =tQn
+MSC	Masculine (bound noun), Emphasis =/i)h
+NEG	Negative (verbal) -nˆ¤h
+NEG:EX	Negative existence pãÙ
+NEG:ID	Negative identity /áp
+NEG:R	Reinforcing negative particle nQ¤
+NMZ	Nominalizer -n’ˆ‡h
+NONVIS	Nonvisual evidential =hç‚
+OBJ	Object (non-subject case) -a‡n
+OBL	Oblique -Vêt
+OPT	Optative -/uê‚h
+PERF	Perfective -/e/, -/e-
+PL	Plural/collective =d’ ́h
+POSS	Possessive nˆ‡h
+PROTST	Protest bá/
+PRX.CTNR	Proximate contrast páh
+PURP	Purpose -tég
+Q	Interrogative particle hˆ‚
+QTY	Quantity =/ap
+RECP	Reciprocal/pluractional /u‚h-
+RED	Reduplication
+REL.INST	Related instance tá/
+REP	Reportive evidential =mah
+RESP	Respect marker =w ́d
+RFLX	Reflexive hup-
+RFLX.INTS	Reflexive intensifier =hup
+SEQ	Sequential -yó/
+TAG1	Interactive tag 1 ya
+TAG2	Interactive tag 2 -(V)h ́/
+TEL	Telic, Contrastive emphasis =yˆ/
+UNDER	Locative adposition, Adverbial -mˆ‡/
+VDIM	Verbal diminutive -kodé
+VENT	Ventive -/ay-
+YET	Ongoing event tQ¤
+Cv.txt	Conversation text
+EL	Elicitation
+OS	Overheard speech
+RU	Reported utterance
+Song	Song

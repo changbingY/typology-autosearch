@@ -1,0 +1,127 @@
+1, 2, 3	first person etc.
+1>2 etc.	first person subject/second person object etc.
+A	subject of transitive verb
+A/S>O/E etc.	role in marked clause > role in controlling clause
+ABL	abative
+ACC	accusative
+ACTNR	action nominaliser
+ACU	Achuar-Shiwiar
+ADD	additive
+Adj	adjective
+ALL	allative
+ANA	anaphoric pronoun
+APPLIC	applicative
+APPR	apprehensive
+ATT	attenuative Aktionsart
+ATTRIB	attributive
+BRIDGE	bridging construction
+CA	current addressee
+CAAAP	Centro Amazónico de Antropología y Aplicación Práctica
+CAUS	causative
+CC	copula complement
+CNTR.EX	counter-expectation
+COMIT	comitative
+COMP	comparative
+COND	conditional
+COP	copula
+CS	copula subject (only in glosses)
+CS	current speaker (only in text and translations)
+DECL	declarative
+DEM	demonstrative pronoun
+DETRNS	detransitiviser
+DIM	diminutive
+DISTPAST	distant past
+DISTRIB	distributive
+DR	diphthong reduction
+DS	different subject
+DST	distal demonstrative
+DUR	durative
+E	indirect object
+EP	epenthetic glide
+EVEN	counter-expectational adverbialiser
+EXCL	exclamative
+EXPL	expletive
+FAM	familiar
+FIRST	‘first’ marker
+FOC	focus
+FRUST	frustrative
+FUT	future
+G	glide
+GEN	genitive
+HIAF	high affectedness Aktionsart
+HORT	hortative
+HUB	Huambisa
+IFUT	immediate future
+IMP	imperative
+IMPFV	imperfective
+INSTR	instrumental
+INT	interrogative
+INTENS	intensifier
+INTENT	intentional
+INTPAST	intermediate past
+INTS	intensive Aktionsart
+ITER	iterative
+JUSS	jussive
+LOAF	low affectedness Aktionsart
+LOC	locative
+LONG	long form
+M-AGR	Marañón Aguaruna
+MED	medial demonstrative
+N	noun (only in glosses)
+N	unspecified nasal (only in phonological transcription)
+N-AGR	Nieva Aguaruna
+NA	‘placeholding’ suffix -na
+NARR	narrative marker
+NARRNR	narrative past nominaliser
+NEG	negative
+NON.A/S:NR	non-subject nominaliser
+NONVIS	non-visual
+NORM	normative
+NP	noun phrase
+NR	subject nominaliser
+O	direct object
+OA	original addressee
+OBJ	object (O/E)
+OS	original speaker
+PAST	past tense
+PERT	pertensive
+PFV	perfective
+PJ	Proto-Jivaroan
+PL	plural
+PLU	pluractional Aktionsart
+POLINT	polar interrogative
+POSS	possessive
+POT	potential
+PROHIB	prohibitive
+PRX	proximal demonstrative
+Qu.	Quechua
+RECIP	reciprocal
+RECPAST	recent past
+REDUP	reduplicated material
+REFL	reflexive
+Rel	relativiser
+REL	subject relativiser
+REMPAST	remote past
+REPET	repetitive
+RESTR	restrictive
+S	subject of intransitive verb
+SAP	speech act participant
+SBD	non-temporal subordinator
+SEQ	sequential
+SG	singular
+SHU	Shuar
+SIM	simultaneous
+SIMIL	similative
+Sp.	Spanish
+SPEC1	speculative marker 1
+SPEC2	speculative marker 2
+SS	same subject
+SYM	sound-symbolic word
+TAG	tag question marker
+TERM	terminative
+TIME	time adverbial marker
+TRF	transferred action Aktionsart
+UNCERT	uncertainty
+V	vowel
+VOC	vocative
+VR	verbaliser

@@ -1,0 +1,59 @@
+-	Morpheme boundary
+***	Censored (in case of sensitive information in examples)
+.	Gloss boundary (but not morpheme boundary)
+:	Gloss boundary (morphemes are not segmented)
+\	Tonal morphology
+~	Partial reduplication
+◊	Pause
+1	First person
+2	Second person
+3	Third person
+ADJ	Adjectivizer
+ADVZ	Adverbializer
+APPL	Applicative
+C	Consonant
+CAUS	Causative
+COM	Comitative
+COND	Conditional
+DIST	Distal
+EMPH	Emphasis
+EXP	Experiencer
+EXPA	Experiential
+FOC	Focus
+FUT	Future
+FV	Final Vowel
+H	High tone
+ID	Independent
+INSTR	Instrumental
+INT	Intensive/Intensity
+IPFV	Imperfective
+IT	Iterative
+L	Low tone
+LOC	Locative
+LOG	Logophoric
+M	Mid tone
+N	Noun
+NEG	Negator
+NFUT	Non-future
+NMLZ	Nominalizer
+O	Object
+PFV	Perfective
+PL	Plural
+POSS	Possessive
+PRED	Predicative Adjective
+PROX	Proximal
+PRSTT	Presentative
+PURP	Purposive
+Q	Question marker
+QUOT	Quotative
+REL	Relativizer
+S	Subject
+SEQ	Sequential marker
+SG	Singular
+SIM	Similative
+STAT	Stative
+TEMP	Temporal
+UNM	Unmotivated
+V	Vowel/Verb
+VHIGH	High Vowel
+σ	Syllable

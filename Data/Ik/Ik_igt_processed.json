@@ -1,0 +1,2423 @@
+[
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:1",
+    "source": "",
+    "morpheme": "napei Kaaɓ\\'{ɔ}ŋʉɔ \\textbf{páka} awᵃ",
+    "gloss": "from Kaabong:ABL up.to home:OBL",
+    "translation": "from Kaabong up to home",
+    "gloss_tags": [
+      [
+        "from"
+      ],
+      [
+        "Kaabong:ABL"
+      ],
+      [
+        "up.to"
+      ],
+      [
+        "home:OBL"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Prepositions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:2",
+    "source": "",
+    "morpheme": "Gógese tufúlá \\textbf{ɗ{\\Í}tá} rié.",
+    "gloss": "peg:PASS field.rat:NOM like goat:GEN",
+    "translation": "And the field rat is pegged up like a goat.",
+    "gloss_tags": [
+      [
+        "peg:PASS"
+      ],
+      [
+        "field.rat:NOM"
+      ],
+      [
+        "like"
+      ],
+      [
+        "goat:GEN"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Prepositions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:3",
+    "source": "",
+    "morpheme": "Atsía \\textbf{n\\'{ɛ}\\'{ɛ}} Tímuaƙwɛɛ nɛ.",
+    "gloss": "come:1SG from Timu:inside:GEN that",
+    "translation": "I’m coming from within Timu there.",
+    "gloss_tags": [
+      [
+        "come:1SG"
+      ],
+      [
+        "from"
+      ],
+      [
+        "Timu:inside:GEN"
+      ],
+      [
+        "that"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Prepositions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:4",
+    "source": "",
+    "morpheme": "Hoɗuƙot{\\ᵉ}, \\textbf{akɨlɔ} cɛ\\'{ɛ}s\\'{ʉ}ƙɔt\\ᶤ.",
+    "gloss": "set.free:IMP instead.of killing:OBL",
+    "translation": "Set (him) free instead of killing (him).",
+    "gloss_tags": [
+      [
+        "set.free:IMP"
+      ],
+      [
+        "instead.of"
+      ],
+      [
+        "killing:OBL"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Prepositions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:5",
+    "source": "",
+    "morpheme": "Duƙotuo \\textbf{gone} hoo déé.",
+    "gloss": "take:SEQ up.to hut:OBL that",
+    "translation": "And she took (it) up to that hut.",
+    "gloss_tags": [
+      [
+        "take:SEQ"
+      ],
+      [
+        "up.to"
+      ],
+      [
+        "hut:OBL"
+      ],
+      [
+        "that"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Prepositions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:6",
+    "source": "",
+    "morpheme": "Ƙáátaa Tábayɛɛ \\textbf{ikóteré} ɲ\\`{ɛ}ƙ{\\ᵋ}.",
+    "gloss": "go:3PL:PRF West:DAT because.of hunger:OBL",
+    "translation": "They’ve gone west because of hunger.",
+    "gloss_tags": [
+      [
+        "go:3PL:PRF"
+      ],
+      [
+        "West:DAT"
+      ],
+      [
+        "because.of"
+      ],
+      [
+        "hunger:OBL"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Prepositions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:7",
+    "source": "",
+    "morpheme": "tɛwɛɛsa kɔlɨl{\\Í}\\'{ɛ} \\textbf{ńda} lomuƙeⁱ",
+    "gloss": "sow:INF:NOM cucumber:GEN and squash:OBL",
+    "translation": "the sowing of cucumber and squash",
+    "gloss_tags": [
+      [
+        "sow:INF:NOM"
+      ],
+      [
+        "cucumber:GEN"
+      ],
+      [
+        "and"
+      ],
+      [
+        "squash:OBL"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Prepositions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:8",
+    "source": "",
+    "morpheme": "\\textbf{toni} Pakóíce ʝɨk, góƙánɨk\\^{ɛ}d{\\ᵋ}",
+    "gloss": "even Turkanas:OBL also seated:IPS:SIM:DP",
+    "translation": "even the Turkanas as well, (were) staying there",
+    "gloss_tags": [
+      [
+        "even"
+      ],
+      [
+        "Turkanas:OBL"
+      ],
+      [
+        "also"
+      ],
+      [
+        "seated:IPS:SIM:DP"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Prepositions",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:9",
+    "source": "",
+    "morpheme": "Hyeíá \\textbf{toimɛna} mɨt{\\Í}da bɔnán.",
+    "gloss": "know:1SG that:NOM be:2SG orphan:OBL",
+    "translation": "I know that you are an orphan.",
+    "gloss_tags": [
+      [
+        "know:1SG"
+      ],
+      [
+        "that:NOM"
+      ],
+      [
+        "be:2SG"
+      ],
+      [
+        "orphan:OBL"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Complementizers",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:10",
+    "source": "",
+    "morpheme": "Kʉta \\'{ɲ}cie \\textbf{taa} ia ɲjíníkiʝa k\\'{ɔ}\\'{ɔ}kɛ.",
+    "gloss": "say:3SG I:DAT that be:3SG we:land:NOM there",
+    "translation": "He says to me that our land is over there.",
+    "gloss_tags": [
+      [
+        "say:3SG"
+      ],
+      [
+        "I:DAT"
+      ],
+      [
+        "that"
+      ],
+      [
+        "be:3SG"
+      ],
+      [
+        "we:land:NOM"
+      ],
+      [
+        "there"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Complementizers",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:11",
+    "source": "",
+    "morpheme": "Tábayɔɔ \\textbf{keɗe} Fetíékù?",
+    "gloss": "West:ABL or East:ABL",
+    "translation": "From the West or from the East?",
+    "gloss_tags": [
+      [
+        "West:ABL"
+      ],
+      [
+        "or"
+      ],
+      [
+        "East:ABL"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Connectives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:12",
+    "source": "",
+    "morpheme": "Ɨ\\'{ʉ}mʉƙɔtɨakôd{\\ᵉ}, moo \\textbf{koto} sáɓánɨ ínw{\\ᵃ}",
+    "gloss": "marry.forcibly:1SG:SEQ:DP not:SEQ but kill:IPS animal:NOM",
+    "translation": "And from there I took (her) away as my wife, but no animal was killed.",
+    "gloss_tags": [
+      [
+        "marry.forcibly:1SG:SEQ:DP"
+      ],
+      [
+        "not:SEQ"
+      ],
+      [
+        "but"
+      ],
+      [
+        "kill:IPS"
+      ],
+      [
+        "animal:NOM"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Connectives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:13",
+    "source": "",
+    "morpheme": "Sáɓese basaúr \\textbf{ńda} kotsana cue.",
+    "gloss": "kill:SPS eland:NOM and fetch:IPS water:NOM",
+    "translation": "Elands were killed, and water was fetched.",
+    "gloss_tags": [
+      [
+        "kill:SPS"
+      ],
+      [
+        "eland:NOM"
+      ],
+      [
+        "and"
+      ],
+      [
+        "fetch:IPS"
+      ],
+      [
+        "water:NOM"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Connectives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:15",
+    "source": "",
+    "morpheme": "\\textbf{M{\\Í}sɨ} ɨtáána basaúrék{\\ᵉ}, sáɓes.",
+    "gloss": "if reach:IPS eland:DAT kill:SPS",
+    "translation": "If they reach the eland, it is killed.",
+    "gloss_tags": [
+      [
+        "if"
+      ],
+      [
+        "reach:IPS"
+      ],
+      [
+        "eland:DAT"
+      ],
+      [
+        "kill:SPS"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Connectives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:morph:16",
+    "source": "",
+    "morpheme": "\\textbf{Na} átsik{\\ᵉ}, z\\'{ɛ}ƙw\\'{ɛ}tɔɔ nayéé na.",
+    "gloss": "when come:3SG:SIM sit:3SG:SEQ here this",
+    "translation": "When she came, she sat down here.",
+    "gloss_tags": [
+      [
+        "when"
+      ],
+      [
+        "come:3SG:SIM"
+      ],
+      [
+        "sit:3SG:SEQ"
+      ],
+      [
+        "here"
+      ],
+      [
+        "this"
+      ]
+    ],
+    "chapter": "Morphology",
+    "section": "",
+    "subsection": "Connectives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:pro:5",
+    "source": "",
+    "morpheme": "Kwatsítúƙoe \\textbf{as}.",
+    "gloss": "small:CAUS:COMP:IMP self:OBL",
+    "translation": "Humble yourself (lit: make yourself small).",
+    "gloss_tags": [
+      [
+        "small:CAUS:COMP:IMP"
+      ],
+      [
+        "self:OBL"
+      ]
+    ],
+    "chapter": "Pronouns",
+    "section": "",
+    "subsection": "Reflexive pronoun",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:pro:6",
+    "source": "",
+    "morpheme": "Ƙaio dzúíka ɨt{\\Í}ɗ{\\Í}ɗátie \\textbf{ás{\\Í}kàk\\ᵃ}.",
+    "gloss": "go:SEQ thieves:NOM sneak:3PL:SIM selves:ACC",
+    "translation": "And the thieves went slinking away (lit: sneaking themselves).",
+    "gloss_tags": [
+      [
+        "go:SEQ"
+      ],
+      [
+        "thieves:NOM"
+      ],
+      [
+        "sneak:3PL:SIM"
+      ],
+      [
+        "selves:ACC"
+      ]
+    ],
+    "chapter": "Pronouns",
+    "section": "",
+    "subsection": "Reflexive pronoun",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:dem:1",
+    "source": "",
+    "morpheme": "Eakwóó ɗa=\\textbf{n}.",
+    "gloss": "man:COP this.one:NOM=DEM.SG.PROX",
+    "translation": "This one is a man.",
+    "gloss_tags": [
+      [
+        "man:COP"
+      ],
+      [
+        "this.one:NOM",
+        "DEM.SG.PROX"
+      ]
+    ],
+    "chapter": "Demonstratives",
+    "section": "",
+    "subsection": "Spatial demonstratives (dem",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:dem:2",
+    "source": "",
+    "morpheme": "Káwese koto ríʝá=\\textbf{ke}.",
+    "gloss": "cut:SPS then forest=DEM.SG.DIST",
+    "translation": "And then that forest over there was cut down.",
+    "gloss_tags": [
+      [
+        "cut:SPS"
+      ],
+      [
+        "then"
+      ],
+      [
+        "forest",
+        "DEM.SG.DIST"
+      ]
+    ],
+    "chapter": "Demonstratives",
+    "section": "",
+    "subsection": "Spatial demonstratives (dem",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:dem:3",
+    "source": "",
+    "morpheme": "Ráʝéte ɗɨ=\\textbf{nák\\ᵃ}.\\\\",
+    "gloss": "return:VEN:IMP one:OBL=DEM.SG.REC\\\\",
+    "translation": "Give back the earlier one.",
+    "gloss_tags": [
+      [
+        "return:VEN:IMP"
+      ],
+      [
+        "one:OBL",
+        "DEM.SG.REC\\\\"
+      ]
+    ],
+    "chapter": "Demonstratives",
+    "section": "",
+    "subsection": "Temporal demonstratives (dem.pst",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:dem:4",
+    "source": "",
+    "morpheme": "Gaana kaɨna=\\textbf{nótso} Lopíar{\\Í}\\'{ɛ} zùkᵘ.",
+    "gloss": "bad:3SG year:NOM=DEM.SG.REM Lopiar.GEN very",
+    "translation": "That year (a while back) of Lopiar was very bad.",
+    "gloss_tags": [
+      [
+        "bad:3SG"
+      ],
+      [
+        "year:NOM",
+        "DEM.SG.REM"
+      ],
+      [
+        "Lopiar.GEN"
+      ],
+      [
+        "very"
+      ]
+    ],
+    "chapter": "Demonstratives",
+    "section": "",
+    "subsection": "Temporal demonstratives (dem.pst",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:dem:5",
+    "source": "",
+    "morpheme": "Itíóna ɲatala=\\textbf{déé}.",
+    "gloss": "be.important:3SG tradition:NOM=ANAPH.SG",
+    "translation": "That tradition (already discussed) is important.",
+    "gloss_tags": [
+      [
+        "be.important:3SG"
+      ],
+      [
+        "tradition:NOM",
+        "ANAPH.SG"
+      ]
+    ],
+    "chapter": "Demonstratives",
+    "section": "",
+    "subsection": "Anaphoric demonstratives (anaph",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:dem:6",
+    "source": "",
+    "morpheme": "Atsa=noo roɓa=\\textbf{díí} Sópìàᵒ.",
+    "gloss": "come:3SG=PST people:NOM=ANAPH.PL Ethiopia:ABL",
+    "translation": "Those people (already mentioned) came from Ethiopia.",
+    "gloss_tags": [
+      [
+        "come:3SG",
+        "PST"
+      ],
+      [
+        "people:NOM",
+        "ANAPH.PL"
+      ],
+      [
+        "Ethiopia:ABL"
+      ]
+    ],
+    "chapter": "Demonstratives",
+    "section": "",
+    "subsection": "Anaphoric demonstratives (anaph",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:dem:7",
+    "source": "",
+    "morpheme": "Ɨ{tá{\\Í}a=bee} k{\\Í}xánee=kᵉ.",
+    "gloss": "reach:1SG=PST there=DEM.SG.DIST",
+    "translation": "I reached there yesterday.",
+    "gloss_tags": [
+      [
+        "reach:1SG",
+        "PST"
+      ],
+      [
+        "there",
+        "DEM.SG.DIST"
+      ]
+    ],
+    "chapter": "Demonstratives",
+    "section": "",
+    "subsection": "Adverbial demonstratives",
+    "subsubsection": "Locative adverbial demonstratives"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:dem:8",
+    "source": "",
+    "morpheme": "Ƙ{aini} dzígwaa naíé=ne.",
+    "gloss": "go:SEQ trade:ACC there=DEM.SG.MED",
+    "translation": "And they went to do trade just right there.",
+    "gloss_tags": [
+      [
+        "go:SEQ"
+      ],
+      [
+        "trade:ACC"
+      ],
+      [
+        "there",
+        "DEM.SG.MED"
+      ]
+    ],
+    "chapter": "Demonstratives",
+    "section": "",
+    "subsection": "Adverbial demonstratives",
+    "subsubsection": "Locative adverbial demonstratives"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:dem:9",
+    "source": "",
+    "morpheme": "Ƙ{aa=noo} óŋora=ʝɨɨ tsʼ\\'{ɛ}d\\'{ɛ}\\'{ɛ}.",
+    "gloss": "go:3SG=PST elephant(s):NOM=also there:DAT",
+    "translation": "Even the elephants went there (place already mentioned).",
+    "gloss_tags": [
+      [
+        "go:3SG",
+        "PST"
+      ],
+      [
+        "elephant(s):NOM",
+        "also"
+      ],
+      [
+        "there:DAT"
+      ]
+    ],
+    "chapter": "Demonstratives",
+    "section": "",
+    "subsection": "Adverbial demonstratives",
+    "subsubsection": "Anaphoric locative demonstratives"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:dem:10",
+    "source": "",
+    "morpheme": "Pɛl\\'{ɛ}mʉɔ saa tʉmɛd\\'{ɔ}\\'{ɔ}.",
+    "gloss": "appear:SEQ others:NOM there:ABL",
+    "translation": "And others appeared from there (place already known).",
+    "gloss_tags": [
+      [
+        "appear:SEQ"
+      ],
+      [
+        "others:NOM"
+      ],
+      [
+        "there:ABL"
+      ]
+    ],
+    "chapter": "Demonstratives",
+    "section": "",
+    "subsection": "Adverbial demonstratives",
+    "subsubsection": "Anaphoric locative demonstratives"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:1",
+    "source": "",
+    "morpheme": "Atsa ŋókᵃ.",
+    "gloss": "come:3SG dog:NOM",
+    "translation": "The dog comes.",
+    "gloss_tags": [
+      [
+        "come:3SG"
+      ],
+      [
+        "dog:NOM"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Overview",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:2",
+    "source": "",
+    "morpheme": "Cɛa boroka ŋókíkᵃ.",
+    "gloss": "kill:3SG bushpig:NOM dog:ACC",
+    "translation": "The bushpig kills the dog.",
+    "gloss_tags": [
+      [
+        "kill:3SG"
+      ],
+      [
+        "bushpig:NOM"
+      ],
+      [
+        "dog:ACC"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Overview",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:3",
+    "source": "",
+    "morpheme": "Maa eméá ŋókíkᵉ.",
+    "gloss": "give:3SG meat:ACC dog:DAT",
+    "translation": "He gives meat to the dog.",
+    "gloss_tags": [
+      [
+        "give:3SG"
+      ],
+      [
+        "meat:ACC"
+      ],
+      [
+        "dog:DAT"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Overview",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:4",
+    "source": "",
+    "morpheme": "Mɨta ima ŋókí.",
+    "gloss": "be:3SG child:NOM dog:GEN",
+    "translation": "It is the child of the dog.",
+    "gloss_tags": [
+      [
+        "be:3SG"
+      ],
+      [
+        "child:NOM"
+      ],
+      [
+        "dog:GEN"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Overview",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:5",
+    "source": "",
+    "morpheme": "Xɛɓa ŋókú.",
+    "gloss": "fear:3SG dog:ABL",
+    "translation": "He fears the dog.",
+    "gloss_tags": [
+      [
+        "fear:3SG"
+      ],
+      [
+        "dog:ABL"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Overview",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:6",
+    "source": "",
+    "morpheme": "Ƙaa ŋókᵒ.",
+    "gloss": "go:3SG dog:INS",
+    "translation": "He goes with the dog.",
+    "gloss_tags": [
+      [
+        "go:3SG"
+      ],
+      [
+        "dog:INS"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Overview",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:7",
+    "source": "",
+    "morpheme": "Bɛna ŋókúkᵒ.",
+    "gloss": "not.be:3SG dog:COP",
+    "translation": "It is not a dog.",
+    "gloss_tags": [
+      [
+        "not.be:3SG"
+      ],
+      [
+        "dog:COP"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Overview",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:8",
+    "source": "",
+    "morpheme": "Mɨta ŋókⁱ.",
+    "gloss": "be:3SG dog:OBL",
+    "translation": "It is a dog.",
+    "gloss_tags": [
+      [
+        "be:3SG"
+      ],
+      [
+        "dog:OBL"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Overview",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:9",
+    "source": "",
+    "morpheme": "Atsáá lɔŋ\\'{ɔ}t-\\textbf{\\ᵃ}!",
+    "gloss": "come:PRF enemies-NOM",
+    "translation": "The enemies have come!",
+    "gloss_tags": [
+      [
+        "come:PRF"
+      ],
+      [
+        "enemies",
+        "NOM"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Nominative (nom",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:10",
+    "source": "",
+    "morpheme": "Toɓuo ƙaƙaam-\\textbf{a} kʉláɓákᵃ.",
+    "gloss": "spear:SEQ hunter-NOM bushbuck:ACC",
+    "translation": "And the hunter speared the bushbuck.",
+    "gloss_tags": [
+      [
+        "spear:SEQ"
+      ],
+      [
+        "hunter",
+        "NOM"
+      ],
+      [
+        "bushbuck:ACC"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Nominative (nom",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:11",
+    "source": "",
+    "morpheme": "Ŋƙ{\\Í}á tɔbɔŋ-\\textbf{a}=na.",
+    "gloss": "eat:1SG mush-NOM=this",
+    "translation": "I eat this meal mush.",
+    "gloss_tags": [
+      [
+        "eat:1SG"
+      ],
+      [
+        "mush",
+        "NOM",
+        "this"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Nominative (nom",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:12",
+    "source": "",
+    "morpheme": "Wetésátà m\\`{ɛ}s\\`{ɛ}-\\textbf{à} mùɲ.",
+    "gloss": "drink:FUT:3PL beer-ACC all",
+    "translation": "They will drink all the beer.",
+    "gloss_tags": [
+      [
+        "drink:FUT:3PL"
+      ],
+      [
+        "beer",
+        "ACC"
+      ],
+      [
+        "all"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Accusative case (acc",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:13",
+    "source": "",
+    "morpheme": "Wetésímà m\\`{ɛ}s-à mùɲ.",
+    "gloss": "drink:FUT:1PL.EXC beer-NOM all",
+    "translation": "We will drink all the beer.",
+    "gloss_tags": [
+      [
+        "drink:FUT:1PL.EXC"
+      ],
+      [
+        "beer",
+        "NOM"
+      ],
+      [
+        "all"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Accusative case (acc",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:14",
+    "source": "",
+    "morpheme": "Mee k\\'{ɔ}r\\'{ɔ}ɓ\\'{a}di=[náa ɲci-\\textbf{a} detí.]",
+    "gloss": "give:IMP thing:OBL=that I-ACC bring:1SG",
+    "translation": "Give me the thing that I brought earlier.",
+    "gloss_tags": [
+      [
+        "give:IMP"
+      ],
+      [
+        "thing:OBL",
+        "that"
+      ],
+      [
+        "I",
+        "ACC"
+      ],
+      [
+        "bring:1SG"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Accusative case (acc",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:16",
+    "source": "",
+    "morpheme": "Ƙeesíá awá-\\textbf{k\\ᵉ}.",
+    "gloss": "go:FUT:1SG home-DAT",
+    "translation": "I’m going home.",
+    "gloss_tags": [
+      [
+        "go:FUT:1SG"
+      ],
+      [
+        "home",
+        "DAT"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Dative (dat",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:17",
+    "source": "",
+    "morpheme": "Ia sédà-\\textbf{k\\ᵉ}.",
+    "gloss": "be:3SG garden-DAT",
+    "translation": "She’s in the garden.",
+    "gloss_tags": [
+      [
+        "be:3SG"
+      ],
+      [
+        "garden",
+        "DAT"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Dative (dat",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:18",
+    "source": "",
+    "morpheme": "Tɔkɔráta kabasáá ròɓà-\\textbf{k\\ᵉ}.",
+    "gloss": "divide:3PL flour:ACC people-DAT",
+    "translation": "They are dividing out flour to people.",
+    "gloss_tags": [
+      [
+        "divide:3PL"
+      ],
+      [
+        "flour:ACC"
+      ],
+      [
+        "people",
+        "DAT"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Dative (dat",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:19",
+    "source": "",
+    "morpheme": "Ɨɓálá ɲcì-\\textbf{è} zùkᵘ.",
+    "gloss": "appall:3SG I-DAT very",
+    "translation": "It really appalls me.’ (Lit: ‘It is very appalling to me.’)",
+    "gloss_tags": [
+      [
+        "appall:3SG"
+      ],
+      [
+        "I",
+        "DAT"
+      ],
+      [
+        "very"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Dative (dat",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:20",
+    "source": "",
+    "morpheme": "Ia ɦyɔa ntsí-\\textbf{k\\ᵉ}.",
+    "gloss": "be:3SG cattle:NOM he-DAT",
+    "translation": "He has cattle.’ (Lit: ‘There are cattle to him.’)",
+    "gloss_tags": [
+      [
+        "be:3SG"
+      ],
+      [
+        "cattle:NOM"
+      ],
+      [
+        "he",
+        "DAT"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Dative (dat",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:21",
+    "source": "",
+    "morpheme": "Ƙaa ɲera dakúáƙ\\`{ɔ}-\\textbf{k\\ᵋ}.",
+    "gloss": "go:3SG girls:NOM wood:inside-DAT",
+    "translation": "The girls go for firewood.",
+    "gloss_tags": [
+      [
+        "go:3SG"
+      ],
+      [
+        "girls:NOM"
+      ],
+      [
+        "wood:inside",
+        "DAT"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Dative (dat",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:22",
+    "source": "",
+    "morpheme": "H\\'{ɔ}nɨnɨ ɦyɔa ńtí-\\textbf{e} ɓórékᵉ.",
+    "gloss": "drive:SEQ cattle:ACC they-GEN corral:DAT",
+    "translation": "And they drove their cattle to the corral.",
+    "gloss_tags": [
+      [
+        "drive:SEQ"
+      ],
+      [
+        "cattle:ACC"
+      ],
+      [
+        "they",
+        "GEN"
+      ],
+      [
+        "corral:DAT"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Genitive (gen",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:23",
+    "source": "",
+    "morpheme": "Wasá dɛɛdɛɛ kwará-\\textbf{\\ᵉ}.",
+    "gloss": "stand:3SG foot:DAT mountain-GEN",
+    "translation": "He’s standing at the foot of the mountain.",
+    "gloss_tags": [
+      [
+        "stand:3SG"
+      ],
+      [
+        "foot:DAT"
+      ],
+      [
+        "mountain",
+        "GEN"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Genitive (gen",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:24",
+    "source": "",
+    "morpheme": "M{\\Í}ná cekíá ntsí-\\textbf{é} zùkᵘ.",
+    "gloss": "love:3SG wife:ACC he-GEN very",
+    "translation": "He loves his wife very much.",
+    "gloss_tags": [
+      [
+        "love:3SG"
+      ],
+      [
+        "wife:ACC"
+      ],
+      [
+        "he",
+        "GEN"
+      ],
+      [
+        "very"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Genitive (gen",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:25",
+    "source": "",
+    "morpheme": "Maráŋá muceá bì-\\textsuperscript{Ø}.",
+    "gloss": "good:3SG way:NOM you-GEN",
+    "translation": "Your luck is good.’ (lit: Your way is good.)",
+    "gloss_tags": [
+      [
+        "good:3SG"
+      ],
+      [
+        "way:NOM"
+      ],
+      [
+        "you",
+        "GEN"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Genitive (gen",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:26",
+    "source": "",
+    "morpheme": "Atsía awá-\\textbf{\\ᵒ}.",
+    "gloss": "come:1SG home-ABL",
+    "translation": "I come from home.",
+    "gloss_tags": [
+      [
+        "come:1SG"
+      ],
+      [
+        "home",
+        "ABL"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Ablative (abl",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:27",
+    "source": "",
+    "morpheme": "Baduƙota=noo ɲ\\'{ɛ}ƙ\\`{ɛ}{-}\\textbf{\\ᵓ}.",
+    "gloss": "die:3SG=PST hunger-ABL",
+    "translation": "He died from hunger.",
+    "gloss_tags": [
+      [
+        "die:3SG",
+        "PST"
+      ],
+      [
+        "hunger",
+        "ABL"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Ablative (abl",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:28",
+    "source": "",
+    "morpheme": "Xɛɓa ɲérà-\\textbf{\\ᵒ}.",
+    "gloss": "fear:3SG girls-ABL",
+    "translation": "He’s shy of girls.",
+    "gloss_tags": [
+      [
+        "fear:3SG"
+      ],
+      [
+        "girls",
+        "ABL"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Ablative (abl",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:29",
+    "source": "",
+    "morpheme": "Daa \\'{ɲ}cù-\\textsuperscript{Ø}.",
+    "gloss": "nice:3SG I-ABL",
+    "translation": "It’s nice to me.",
+    "gloss_tags": [
+      [
+        "nice:3SG"
+      ],
+      [
+        "I",
+        "ABL"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Ablative (abl",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:30",
+    "source": "",
+    "morpheme": "Cɛmáta sédìkà-\\textbf{\\ᵒ}.",
+    "gloss": "fight:3PL gardens-ABL",
+    "translation": "They are fighting in the gardens.",
+    "gloss_tags": [
+      [
+        "fight:3PL"
+      ],
+      [
+        "gardens",
+        "ABL"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Ablative (abl",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:31",
+    "source": "",
+    "morpheme": "Toɓíá=noo gasoa ɓɨs-\\textbf{\\ᵓ}.",
+    "gloss": "spear:1SG=PST warthog:NOM spear-INS",
+    "translation": "I speared a warthog with a spear.",
+    "gloss_tags": [
+      [
+        "spear:1SG",
+        "PST"
+      ],
+      [
+        "warthog:NOM"
+      ],
+      [
+        "spear",
+        "INS"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Instrumental (ins",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:32",
+    "source": "",
+    "morpheme": "Ƙaini fots-\\textbf{o} gígìròkᵉ.",
+    "gloss": "go:3PL ravine-INS downside:DAT",
+    "translation": "And they went down by way of the ravine.",
+    "gloss_tags": [
+      [
+        "go:3PL"
+      ],
+      [
+        "ravine",
+        "INS"
+      ],
+      [
+        "downside:DAT"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Instrumental (ins",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:33",
+    "source": "",
+    "morpheme": "Atsímá=naa kúrúɓád-\\textbf{o} ŋgóᵉ.",
+    "gloss": "come:1PL=PST things-INS we:GEN",
+    "translation": "We came with our things.",
+    "gloss_tags": [
+      [
+        "come:1PL",
+        "PST"
+      ],
+      [
+        "things",
+        "INS"
+      ],
+      [
+        "we:GEN"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Instrumental (ins",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:34",
+    "source": "",
+    "morpheme": "Ráʝétuo ɲcie gáánàs-\\textbf{\\ᵓ}.",
+    "gloss": "answer:3SG I:DAT badness-INS",
+    "translation": "And he answered me with hostility.",
+    "gloss_tags": [
+      [
+        "answer:3SG"
+      ],
+      [
+        "I:DAT"
+      ],
+      [
+        "badness",
+        "INS"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Instrumental (ins",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:35",
+    "source": "",
+    "morpheme": "Bɨraa ɲɛƙa ódoicik-\\textbf{ó}=ni.",
+    "gloss": "lack:3SG hunger:NOM days-INS=these",
+    "translation": "There is no hunger these days.",
+    "gloss_tags": [
+      [
+        "lack:3SG"
+      ],
+      [
+        "hunger:NOM"
+      ],
+      [
+        "days",
+        "INS",
+        "these"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Instrumental (ins",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:36",
+    "source": "",
+    "morpheme": "Cɛma fítés-\\textbf{o} ƙwázìkàᵉ.",
+    "gloss": "fight:3SG washing-INS clothes:GEN",
+    "translation": "She’s washing clothes.’ (lit: ‘She is fighting with the washing of clothes.’)",
+    "gloss_tags": [
+      [
+        "fight:3SG"
+      ],
+      [
+        "washing",
+        "INS"
+      ],
+      [
+        "clothes:GEN"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Instrumental (ins",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:37",
+    "source": "",
+    "morpheme": "Ŋ{gó-}\\textbf{ó}=naa wetím.",
+    "gloss": "we-COP=PST drink:1PL.EXC",
+    "translation": "It was we (who) drank (it).",
+    "gloss_tags": [
+      [
+        "we",
+        "COP",
+        "PST"
+      ],
+      [
+        "drink:1PL.EXC"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Copulative (cop",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:38",
+    "source": "",
+    "morpheme": "Emó-\\textbf{ó} b\\'{ɛ}ɗ{\\Í}.",
+    "gloss": "meat-COP want:1SG",
+    "translation": "It is meat (that) I want.",
+    "gloss_tags": [
+      [
+        "meat",
+        "COP"
+      ],
+      [
+        "want:1SG"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Copulative (cop",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:39",
+    "source": "",
+    "morpheme": "Ɲɛƙɔ{-}\\textbf{ɔ} ƙaiátèè ƙàƙààƙ\\`{ɔ}k\\ᵋ.",
+    "gloss": "hunger-COP go:PLUR:3PL hunt:inside:DAT",
+    "translation": "It is (due to) hunger (that) they keep going hunting.",
+    "gloss_tags": [
+      [
+        "hunger",
+        "COP"
+      ],
+      [
+        "go:PLUR:3PL"
+      ],
+      [
+        "hunt:inside:DAT"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Copulative (cop",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:41",
+    "source": "",
+    "morpheme": "Bɛna=náá \\'{ɲ}cù-\\textbf{k\\ᵒ}.",
+    "gloss": "not.be:3SG=PST I-COP",
+    "translation": "It was not me!",
+    "gloss_tags": [
+      [
+        "not.be:3SG",
+        "PST"
+      ],
+      [
+        "I",
+        "COP"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Copulative (cop",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:42",
+    "source": "",
+    "morpheme": "Deté bi cue=dííǃ",
+    "gloss": "bring:IMP you:OBL water:OBL=those",
+    "translation": "You bring that water!",
+    "gloss_tags": [
+      [
+        "bring:IMP"
+      ],
+      [
+        "you:OBL"
+      ],
+      [
+        "water:OBL",
+        "those"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Oblique (obl",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:43",
+    "source": "",
+    "morpheme": "\\'{Ɲ}ci nesíbine emuti ntsí.",
+    "gloss": "I:OBL listen:1SG:OPT story:OBL he:GEN",
+    "translation": "Let me listen to her story.",
+    "gloss_tags": [
+      [
+        "I:OBL"
+      ],
+      [
+        "listen:1SG:OPT"
+      ],
+      [
+        "story:OBL"
+      ],
+      [
+        "he:GEN"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Oblique (obl",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:44",
+    "source": "",
+    "morpheme": "Túbia ima \\'{ɲ}cia páka awᵃ.",
+    "gloss": "follow:3SG child:NOM I:ACC until home:OBL",
+    "translation": "The child follows me up to home.",
+    "gloss_tags": [
+      [
+        "follow:3SG"
+      ],
+      [
+        "child:NOM"
+      ],
+      [
+        "I:ACC"
+      ],
+      [
+        "until"
+      ],
+      [
+        "home:OBL"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Oblique (obl",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:45",
+    "source": "",
+    "morpheme": "Kirotánía kóteré ɦyekesí bì.",
+    "gloss": "sweat:1SG for life:OBL you:GEN",
+    "translation": "I sweat for your survival.",
+    "gloss_tags": [
+      [
+        "sweat:1SG"
+      ],
+      [
+        "for"
+      ],
+      [
+        "life:OBL"
+      ],
+      [
+        "you:GEN"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Oblique (obl",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:case:46",
+    "source": "",
+    "morpheme": "Éé wice, atsúǃ",
+    "gloss": "hey children:OBL come:IMP",
+    "translation": "Hey children, come!",
+    "gloss_tags": [
+      [
+        "hey"
+      ],
+      [
+        "children:OBL"
+      ],
+      [
+        "come:IMP"
+      ]
+    ],
+    "chapter": "Case",
+    "section": "",
+    "subsection": "Oblique (obl",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:verbs:1",
+    "source": "",
+    "morpheme": "B\\'{ɛ}ɗáta búd\\textbf{òsì}-kᵃ.",
+    "gloss": "want:3PL hidden:PASS-ACC",
+    "translation": "They want to be hidden.",
+    "gloss_tags": [
+      [
+        "want:3PL"
+      ],
+      [
+        "hidden:PASS",
+        "ACC"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "",
+    "subsection": "Voice and valence",
+    "subsubsection": "Passive (pass"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:verbs:2",
+    "source": "",
+    "morpheme": "Búd\\textbf{os}-átᵃ.",
+    "gloss": "hidden:PASS{}-3PL:REAL",
+    "translation": "They are hidden.",
+    "gloss_tags": [
+      [
+        "hidden:PASS{}",
+        "3PL:REAL"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "",
+    "subsection": "Voice and valence",
+    "subsubsection": "Passive (pass"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:verbs:3",
+    "source": "",
+    "morpheme": "Ɨn\\'{ɔ}m\\'{ɛ}s\\textbf{àn}{à} bì.",
+    "gloss": "beat:FUT:IPS you[SG]:NOM",
+    "translation": "You will be beaten.",
+    "gloss_tags": [
+      [
+        "beat:FUT:IPS"
+      ],
+      [
+        "you[SG]:NOM"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "",
+    "subsection": "Voice and valence",
+    "subsubsection": "Impersonal passive"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:verbs:4",
+    "source": "",
+    "morpheme": "Ƙaí\\textbf{án}{à} ƙàƙààƙ\\`{ɔ}k\\ᵋ.",
+    "gloss": "go:PLUR:IPS hunt:inside:DAT",
+    "translation": "People go hunting.’ (Lit. ‘It is gone for hunting.’)",
+    "gloss_tags": [
+      [
+        "go:PLUR:IPS"
+      ],
+      [
+        "hunt:inside:DAT"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "",
+    "subsection": "Voice and valence",
+    "subsubsection": "Impersonal passive"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:verbs:5",
+    "source": "",
+    "morpheme": "B\\'{ɛ}ɗáta ɨɓák\\textbf{{\\Í}n\\'{ɔ}s{\\Í}}-kᵃ.",
+    "gloss": "want:3PL:REAL next.to:RECIP-ACC",
+    "translation": "They want to be next to each other.",
+    "gloss_tags": [
+      [
+        "want:3PL:REAL"
+      ],
+      [
+        "next.to:RECIP",
+        "ACC"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "",
+    "subsection": "Voice and valence",
+    "subsubsection": "Reciprocal (recip"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:verbs:6",
+    "source": "",
+    "morpheme": "Ɨɓák\\textbf{{\\Í}n\\'{ɔ}s}-átᵃ.",
+    "gloss": "next.to:RECIP-3PL:REAL",
+    "translation": "They are next to each other.",
+    "gloss_tags": [
+      [
+        "next.to:RECIP",
+        "3PL:REAL"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "",
+    "subsection": "Voice and valence",
+    "subsubsection": "Reciprocal (recip"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:verbs:7",
+    "source": "",
+    "morpheme": "Ntsúó=noo Icéá ƙáátà-\\textbf{d\\ᵉ}.",
+    "gloss": "it:COP=PAST Ik:ACC go:3PL:REAL-DP",
+    "translation": "It’s where the Ik went (to).",
+    "gloss_tags": [
+      [
+        "it:COP",
+        "PAST"
+      ],
+      [
+        "Ik:ACC"
+      ],
+      [
+        "go:3PL:REAL",
+        "DP"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "",
+    "subsection": "Dummy pronoun (dp",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:verbs:8",
+    "source": "",
+    "morpheme": "Jʼɛʝʉk\\'{ɔ}-\\textbf{\\'{ɔ}} sàà ròɓàᵉ.",
+    "gloss": "stay:3SG:SEQ-DP other:NOM people:GEN",
+    "translation": "And other people stayed (there).",
+    "gloss_tags": [
+      [
+        "stay:3SG:SEQ",
+        "DP"
+      ],
+      [
+        "other:NOM"
+      ],
+      [
+        "people:GEN"
+      ]
+    ],
+    "chapter": "Verbs",
+    "section": "",
+    "subsection": "Dummy pronoun (dp",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:adv:1",
+    "source": "",
+    "morpheme": "Gaana mɛna=díí \\textbf{zuku} \\textbf{ʝ{\\Í}k\\ᶤ}.",
+    "gloss": "bad:3SG issues:NOM=those very completely",
+    "translation": "Those issues are really very bad!",
+    "gloss_tags": [
+      [
+        "bad:3SG"
+      ],
+      [
+        "issues:NOM",
+        "those"
+      ],
+      [
+        "very"
+      ],
+      [
+        "completely"
+      ]
+    ],
+    "chapter": "Adverbs",
+    "section": "",
+    "subsection": "Manner adverbs",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:adv:2",
+    "source": "",
+    "morpheme": "Zízaaƙótùò ròɓà \\textbf{m\\`{ʉ}kà}.",
+    "gloss": "fat:DIST:COMP:3SG:SEQ people:NOM completely",
+    "translation": "And the people fattened up completely!",
+    "gloss_tags": [
+      [
+        "fat:DIST:COMP:3SG:SEQ"
+      ],
+      [
+        "people:NOM"
+      ],
+      [
+        "completely"
+      ]
+    ],
+    "chapter": "Adverbs",
+    "section": "",
+    "subsection": "Manner adverbs",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:adv:3",
+    "source": "",
+    "morpheme": "Ƙ{\\'{a}á}=\\textbf{bee} abáŋa sáás\\`{ɔ}s{\\Ì}n.",
+    "gloss": "go:3SG=PST2 my.father:NOM yesterday",
+    "translation": "My father went yesterday.",
+    "gloss_tags": [
+      [
+        "go:3SG",
+        "PST2"
+      ],
+      [
+        "my.father:NOM"
+      ],
+      [
+        "yesterday"
+      ]
+    ],
+    "chapter": "Adverbs",
+    "section": "",
+    "subsection": "Temporal adverbs",
+    "subsubsection": "Past tense"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:adv:4",
+    "source": "",
+    "morpheme": "Maráŋa=\\textbf{noo} ɦyekesa Icé.",
+    "gloss": "good:3SG=PST4 life:NOM Ik:GEN",
+    "translation": "The life of the Ik was good (back then).",
+    "gloss_tags": [
+      [
+        "good:3SG",
+        "PST4"
+      ],
+      [
+        "life:NOM"
+      ],
+      [
+        "Ik:GEN"
+      ]
+    ],
+    "chapter": "Adverbs",
+    "section": "",
+    "subsection": "Temporal adverbs",
+    "subsubsection": "Past tense"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:adv:5",
+    "source": "",
+    "morpheme": "Náa atsíâdᵉ, ƙaa=\\textbf{nanák\\ᵃ}.",
+    "gloss": "when come:1SG:DP go:3SG=PST.PRF",
+    "translation": "When I came earlier, she had (already) gone.",
+    "gloss_tags": [
+      [
+        "when"
+      ],
+      [
+        "come:1SG:DP"
+      ],
+      [
+        "go:3SG",
+        "PST.PRF"
+      ]
+    ],
+    "chapter": "Adverbs",
+    "section": "",
+    "subsection": "Temporal adverbs",
+    "subsubsection": "Past perfect tense"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:adv:6",
+    "source": "",
+    "morpheme": "Tsʼ\\'{ɛ}d\\'{ɔ}\\'{ɔ}=nɛ, tsʼéíƙotátà=\\textbf{nànòk\\ᵒ}.",
+    "gloss": "then:INS=DEM die.3PL:COMP=PST.PRF",
+    "translation": "By that (time), they had died out a while ago.",
+    "gloss_tags": [
+      [
+        "then:INS",
+        "DEM"
+      ],
+      [
+        "die.3PL:COMP",
+        "PST.PRF"
+      ]
+    ],
+    "chapter": "Adverbs",
+    "section": "",
+    "subsection": "Temporal adverbs",
+    "subsubsection": "Past perfect tense"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:adv:8",
+    "source": "",
+    "morpheme": "Atsésíma \\textbf{táá} baratsᵒ.",
+    "gloss": "come:1PL.EXC next morning:INS",
+    "translation": "We will come tomorrow (i.e., next morning).",
+    "gloss_tags": [
+      [
+        "come:1PL.EXC"
+      ],
+      [
+        "next"
+      ],
+      [
+        "morning:INS"
+      ]
+    ],
+    "chapter": "Adverbs",
+    "section": "",
+    "subsection": "Temporal adverbs",
+    "subsubsection": "Non-past tense"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:adv:10",
+    "source": "",
+    "morpheme": "\\textbf{Nánoo} teremátᵃ.",
+    "gloss": "INFR separate:3PL",
+    "translation": "It looks like they separated.",
+    "gloss_tags": [
+      [
+        "INFR"
+      ],
+      [
+        "separate:3PL"
+      ]
+    ],
+    "chapter": "Adverbs",
+    "section": "",
+    "subsection": "Epistemic adverbs",
+    "subsubsection": "Inferential adverbs (infr"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:adv:13",
+    "source": "",
+    "morpheme": "Tóída=\\textbf{ƙánaa} \\'{ɲ}cìè?",
+    "gloss": "tell:2SG=HYPO I:DAT",
+    "translation": "You would tell me?",
+    "gloss_tags": [
+      [
+        "tell:2SG",
+        "HYPO"
+      ],
+      [
+        "I:DAT"
+      ]
+    ],
+    "chapter": "Adverbs",
+    "section": "",
+    "subsection": "Epistemic adverbs",
+    "subsubsection": "Conditional-hypothetical adverbs (cond"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:adv:14",
+    "source": "",
+    "morpheme": "Cɛm{\\Í}s{\\Í}na=\\textbf{ƙánòk\\ᵒ}.",
+    "gloss": "fight:1PL.INC=COND",
+    "translation": "We all would have fought.",
+    "gloss_tags": [
+      [
+        "fight:1PL.INC",
+        "COND"
+      ]
+    ],
+    "chapter": "Adverbs",
+    "section": "",
+    "subsection": "Epistemic adverbs",
+    "subsubsection": "Conditional-hypothetical adverbs (cond"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:7",
+    "source": "",
+    "morpheme": "HEAD ANAPH POSS REL",
+    "gloss": "\\gll HEAD ANAPH POSS REL",
+    "translation": "those (specific) children of mine, two in number",
+    "gloss_tags": [
+      [
+        "HEAD"
+      ],
+      [
+        "ANAPH"
+      ],
+      [
+        "POSS"
+      ],
+      [
+        "REL"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Noun phrases",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:9",
+    "source": "",
+    "morpheme": "HEAD ANAPH POSS NUM REL DEM",
+    "gloss": "\\gll HEAD ANAPH POSS NUM REL DEM",
+    "translation": "those two nice (specific) children of mine, these",
+    "gloss_tags": [
+      [
+        "HEAD"
+      ],
+      [
+        "ANAPH"
+      ],
+      [
+        "POSS"
+      ],
+      [
+        "NUM"
+      ],
+      [
+        "REL"
+      ],
+      [
+        "DEM"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Noun phrases",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:33",
+    "source": "",
+    "morpheme": "Mée eníí kaúdza=díí.",
+    "gloss": "not:PRF see:1SG money:NOM=ANAPH",
+    "translation": "I haven’t seen that money.",
+    "gloss_tags": [
+      [
+        "not:PRF"
+      ],
+      [
+        "see:1SG"
+      ],
+      [
+        "money:NOM",
+        "ANAPH"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Clause structure",
+    "subsubsection": "Fronted"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:34",
+    "source": "",
+    "morpheme": "Kaúdza=díí, mée ení.",
+    "gloss": "money:NOM=ANAPH not:PRF see:1SG",
+    "translation": "That money, I haven’t seen (it).",
+    "gloss_tags": [
+      [
+        "money:NOM",
+        "ANAPH"
+      ],
+      [
+        "not:PRF"
+      ],
+      [
+        "see:1SG"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Clause structure",
+    "subsubsection": "Fronted"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:46",
+    "source": "",
+    "morpheme": "Ƙeesída ndaíkᵉ?",
+    "gloss": "go:INT:2SG:REAL where:DAT",
+    "translation": "You are going where?",
+    "gloss_tags": [
+      [
+        "go:INT:2SG:REAL"
+      ],
+      [
+        "where:DAT"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Questions",
+    "subsubsection": "Content questions"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:47",
+    "source": "",
+    "morpheme": "B\\'{ɛ}ɗá ìsìkᵃ?",
+    "gloss": "want:3SG:REAL what:NOM",
+    "translation": "He wants what?",
+    "gloss_tags": [
+      [
+        "want:3SG:REAL"
+      ],
+      [
+        "what:NOM"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Questions",
+    "subsubsection": "Content questions"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:48",
+    "source": "",
+    "morpheme": "Ndaíó ƙeesídàdᵉ?",
+    "gloss": "where:COP go:2SG:REAL:DP",
+    "translation": "Where are you going?",
+    "gloss_tags": [
+      [
+        "where:COP"
+      ],
+      [
+        "go:2SG:REAL:DP"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Questions",
+    "subsubsection": "Content questions"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:49",
+    "source": "",
+    "morpheme": "Isio b\\'{ɛ}ɗᵃ?",
+    "gloss": "what:COP want:3SG:REAL",
+    "translation": "What does he want?",
+    "gloss_tags": [
+      [
+        "what:COP"
+      ],
+      [
+        "want:3SG:REAL"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Questions",
+    "subsubsection": "Content questions"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:50",
+    "source": "",
+    "morpheme": "Ndoo óá \\'{ɲ}cìkᵃ?",
+    "gloss": "who:COP call:3SG:REAL I:ACC",
+    "translation": "Who calls me?",
+    "gloss_tags": [
+      [
+        "who:COP"
+      ],
+      [
+        "call:3SG:REAL"
+      ],
+      [
+        "I:ACC"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Questions",
+    "subsubsection": "Content questions"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:51",
+    "source": "",
+    "morpheme": "{\\'{N}t\\'{ɛ}\\'{ɛ}n\\'{ɔ}\\'{ɔ} tákîdᵃ?}",
+    "gloss": "which:COP mean:2SG:REAL",
+    "translation": "Which (one) do you mean?",
+    "gloss_tags": [
+      [
+        "which:COP"
+      ],
+      [
+        "mean:2SG:REAL"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Questions",
+    "subsubsection": "Content questions"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:57",
+    "source": "",
+    "morpheme": "Zeíá \\'{ŋ}kà bù.",
+    "gloss": "big:1SG I:NOM you:ABL",
+    "translation": "I am bigger than you.",
+    "gloss_tags": [
+      [
+        "big:1SG"
+      ],
+      [
+        "I:NOM"
+      ],
+      [
+        "you:ABL"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Comparatives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:58",
+    "source": "",
+    "morpheme": "Daa ɗa=na kɨɗ\\'{ɔ}\\'{ɔ}",
+    "gloss": "nice:3SG this.one:NOM=this that.one:ABL",
+    "translation": "This one is nicer than that one.",
+    "gloss_tags": [
+      [
+        "nice:3SG"
+      ],
+      [
+        "this.one:NOM",
+        "this"
+      ],
+      [
+        "that.one:ABL"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Comparatives",
+    "subsubsection": ""
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:61",
+    "source": "",
+    "morpheme": "M{\\Í}n{\\Í}a ɲécáyᵃ. M{\\Í}ná ntsa m\\'{ɛ}s\\`{ɛ}kᵃ.",
+    "gloss": "love:1SG tea:NOM love:3SG she:NOM beer:ACC",
+    "translation": "I love tea. She loves beer.",
+    "gloss_tags": [
+      [
+        "love:1SG"
+      ],
+      [
+        "tea:NOM"
+      ],
+      [
+        "love:3SG"
+      ],
+      [
+        "she:NOM"
+      ],
+      [
+        "beer:ACC"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Clause combining",
+    "subsubsection": "Clause coordination"
+  },
+  {
+    "language": "Ik",
+    "example_id": "ex:syn:64",
+    "source": "",
+    "morpheme": "Bɛna \\'{ɲ}cùkᵒ. Bùkᵒ.",
+    "gloss": "not:3SG I:COP you:COP",
+    "translation": "It’s not me. It’s you.",
+    "gloss_tags": [
+      [
+        "not:3SG"
+      ],
+      [
+        "I:COP"
+      ],
+      [
+        "you:COP"
+      ]
+    ],
+    "chapter": "Basic syntax",
+    "section": "",
+    "subsection": "Clause combining",
+    "subsubsection": "Clause coordination"
+  }
+]

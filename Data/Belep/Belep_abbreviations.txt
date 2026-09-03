@@ -1,0 +1,81 @@
+1	first person
+2	second person
+3	third person
+A	anaphoric
+ABS	absolutive case
+AC	associative plural
+ACT	actual
+ADD	additive
+ADU	associative dual
+AGT	agentive
+CAUS	causative
+CL	numeral classifier
+COMPL	completive
+CONT	continuative
+CTF	centrifugal (away from the speaker)
+CTP	centripetal (toward the speaker)
+D	deictic
+DA	differential absolutive
+DAT	dative case
+DC	deictic center
+DEM	demonstrative pronoun
+DET	determiner
+DETR	detransitive
+DH	downhill
+DIM	diminished
+DIR	directional
+DST	distal
+DU	dual number
+DUB	dubitative
+DYAD	dyadic
+EX	existential
+EXCL	exclusive
+GE	general extender
+GEN	genitive case
+GNO	gnomic
+GNR	generic
+HAB	habitual
+IA	inanimate
+IDF	identifiable
+IMPER	imperative
+INCL	inclusive
+INDEP	independent pronoun
+INSTR	instrumental
+IRR	irrealis
+ITER	iterative
+LK	linker
+LN	loanword
+LOC	locative
+MAN	manner
+MDS	medial-distal
+MPX	medial-proximal
+NDR	unmarked for direction
+NEC	necessative
+NEG	negative
+NEW	new
+NOM	nominative case
+NSG	nonsingular
+NTR	intransitive
+ORD	ordinal
+PA	paucal number
+PL	plural number
+POSS	possessive
+PRES	presentative
+PRF	perfect
+PROG	progressive
+PRX	proximal
+PUNCT	punctual
+Q	interrogative
+RA	reduced agentive
+REAL	realis
+RECP	reciprocal
+REL	relativizer
+RESULT	resultative
+SBJ	subjunctive
+SG	singular number
+SPC	specific
+SUBJ	subject agreement
+TR	transitive
+TV	transverse
+UH	uphill
+VBLZ	verbalizer

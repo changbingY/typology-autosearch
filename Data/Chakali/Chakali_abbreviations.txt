@@ -1,0 +1,110 @@
+A	subject of transitive clause
+ABI	ability (modality)
+ABST	abstract (semantic feature)
+ADV	adverbial
+AJC	adjunct
+ART	article
+BH	Gurumbele history narrative
+C0	0 or more consonants
+CB	Clever Boy story
+CLF	classifier
+cli	ISO 639-3 code for Chakali
+CONC	concrete, animate, non-human (semantic feature)
+COND	conditional particle
+CONN	connective
+CPS	Containment Picture Series
+CRAS	crastinal tense (future tomorrow)
+DEM	demonstrative
+DISTR	distributive
+DXL	locative deictic
+DXM	manner deictic
+E	extended argument
+EXCL	exclamatory particle
+EGR	egressive particle
+Eng.	English
+etym	etymology
+EVC	extended verb complex
+EXST	existential verb
+FOC	focus
+from	borrowed from
+FUT	future
+Ga	non-human gender
+Gb	human gender
+Gh. Eng.	Ghanaian English
+GILLBT	Ghana Institute of Linguistics, Literacy and Bible Translation
+gl	glossed as
+HAB	habitual
+HEAD	head of phrase
+HEST	hesternal tense (past yesterday)
+HUM	human (semantic feature)
+IDENT	identificational verb
+IMP	imperative
+IMPS	impersonal
+INGR	ingressive particle
+interj	interjection
+IPFV	imperfective aspect
+ITR	iterative
+LB	Law Breaker story
+lit.	literal meaning
+MOD	modality
+NMLZ	nominaliser
+NUM	numeral
+O or OBJ	object of transitive clause
+ONO	onomatopoeia
+P	predicate
+PFV	perfective aspect
+PL or pl	plural
+PoS	Part of Speech
+POSTP	postposition
+PRO	pronoun
+PROP	property
+propn	proper noun
+PROX	proximal
+PSED	possessed
+PSOR	possessor
+PSPV	Picture Series for Positional Verbs
+PST	past
+pv	preverb particle
+PV	Pluractional verb
+PY	Python story
+Q	question word, phrase or intonation
+QUAL	qualifier
+QUANT	quantifier
+R	recipient
+RECP	reciprocal
+REL	relativiser
+RELN	relational noun
+S or SUBJ	subject of intransitive clause
+SG or sg	singular
+SPS	Support Picture Series
+ST	strong pronoun
+SWG	Southwestern Grusi
+TAM	tense, aspect and mood
+T	theme
+TRM	topological relation marker
+TRPS	Topological Relations Picture Series
+t.z.	staple food. From Hausa tuo zaafi (see kʊʊ in dictionary)
+ultm.	ultimately
+UNESCO	United Nations Educational, Scientific and Cultural Organization
+v	verb
+WK	weak pronoun
+*	ungrammatical expression (grammaticality)
+*	Proto-form (reconstruction)
+x́	high tone
+x̀	low tone
+x̄	mid tone
+x̏	extra-low tone
+x̆	extra-short vowel
+→, ←	synchronic derivation
+- or ]	morpheme boundary
+[ ]	phonetic representation
+[ ]_X	structure of type X
+# or ]_wb	word boundary
+##	utterance-final boundary
+σ	syllable type
+μ	mora
+]_σ	syllable boundary
+X|Y	either X or Y
+(Y)	optional Y
+(Y)	covert Y
+< x	diachronic change

@@ -1,0 +1,103 @@
+1	1st person
+2	2nd person
+3	3rd person
+A	transitive subject
+ABIL	abilitative
+ACC	accusative
+ADJVLZ	adjectivalizer
+ADMON	admonitive
+ANTERIOR	anterior, relative past
+ANTIPASS	antipassive
+ANX	anxietive
+APPL	applicative
+APPROX	approximative
+ASS	assertive
+ASSOC	associative
+AUG	augmentative
+AUX	auxiliary
+AUTH	authoritative
+BENEF	benefactive
+CAUS	causative
+CERT	certitudinal
+CMPL	completive
+CNTRDIR	counter directional
+CNTRFCT	counterfactual
+COM	comitative
+COMP	comparative
+CONCESS	concessive
+CONCUR	subordinate clause temporally concurrent with main clause
+COND	conditional
+CONJ	conjunction
+COOR	coordinator
+CRAS	crasternal, tomorrow
+D{A,S}	different subject {A,S}
+DAT	dative
+DEC	declarative
+DEM1	proximal demonstrative
+DEM2	distal demonstrative
+DEM3	out of view demonstrative
+DES	desiderative
+DIR	directive
+DIST	distal source
+DISTP	distant past
+DISTR	distributive
+EMPH	emphatic
+EPEN	epenthetic formative
+EPIS1	epistemic, speaker belief
+EPIS2	epistemic, speaker speculation
+EPIS3	epistemic, speaker inference
+ERG	ergative
+EXPL	expletive
+FUT	future
+GEN	genitive
+HAB	habitual
+HORT	hortative
+IDEO	ideophone
+IMM	immediative
+IMP	imperative
+INESS	inessive
+INT	intentional
+ITR	intransitive
+INTER	interrogative
+INTRC	interactional
+IPV	imperfective
+IRR	irrealis
+MID	middle
+MIR	mirative
+N/ADJ	nominalizer/adjectivalizer
+NECES	necessitative
+NEG	negative
+NMLZ	nominalizer
+NMLZ:P	past tense nominalizer
+OBLIG	obligative
+P	object of monotransitive predicate
+P5	position 5 formative
+PART	partitive
+PASS	passive
+PAUC	paucal (two or more)
+PERF	perfect
+PFV	perfective
+PL	plural
+PNCT	punctual
+POSS	possessive
+PSBL	speaker internal possibility, declarative positive
+PSBL2	speaker internal possibility, interrogative/negative
+PRIOR	subordinate clause temporally prior to main clause
+PURP	purposive
+R	recipient of ditransitive
+RECP	recent past
+REGRET	regretative
+REL	relative
+REMF	remote future
+REP	reportative
+RFLX	reflexive
+S	intransitive subject
+SG	singular
+SIMIL	similative
+SPAT	spatial
+SUBSEQ	subordinate clause temporally subsequent to main clause
+SYMP	sympathetic
+T	theme of ditransitive
+V	verbalizer
+VERID	veridative
+VOC	vocative

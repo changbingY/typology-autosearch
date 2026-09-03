@@ -1,0 +1,91 @@
+1	first person
+2	second person
+3	third person
+A	ambitransitive (in morpheme glosses)
+A	most “agent-like” argument of a transitive clause (primitive grammatical relation).
+ABS	absolutive case
+ACT	action (nominalizer -- NR.ACT)
+ADJ	adjective
+ADJR	adjectivizer
+ADV	adverb
+APL	applicative
+ATT	speaker’s attitude
+ATN	attention getter
+BEN	beneficiary
+CAUS	causative
+CL	clause
+CM	completive particle -- “already”
+CONT	continuous
+CTR	contrast
+D1	deictic near speaker
+D2	deictic near addressee
+D3	deictic near both speaker and addressee
+D4	deictic far away, out of sight
+DEF	definite demonstrative
+DEON	deontic
+DET	determiner
+DIST	distributive
+EMPH	emphatic (prefix for demonstrative pronoun)
+ERG	ergative case
+EXCL	exclusive
+EXT	existential
+F	far distance in demonstrative determiners
+FEM	feminine
+G	given (existential -- EXT.G)
+GEN	genitive case
+HAP	happenstantial
+HSY	hearsay
+I	intransitive (verbal inflection)
+IN	indefinite (existential -- EXT.IN)
+INC	incompletive aspect
+INCL	inclusive
+INJ	interjection
+INST	instrument
+INT	intensifier
+IR	irrealis modality
+IRN	irony
+LK	linker
+LOC	locative
+M	medial distance for the demonstrative determiners
+MASC	masculine
+MP	modifier phrase
+N	near distance for the demonstrative determiners
+NABS	non-absolutive case
+NEG	negative
+NR	nominalizer
+NUM	numeral
+O	other argument of a transitive clause (primitive grammatical relation)
+OBL	oblique
+OCC	occupation
+ORD	ordinal number
+ORIG	origin
+OPT	optative
+P	personal name/pronoun, annotation for prenominal case markers
+P	plural in pronoun glosses (e.g., 3P.ABS) = Third person plural absolutive.
+PL	plural marker, pluraction verbal affix
+POSS	possessive
+PP	prepositional phrase
+PR	precise
+PURP	purpose
+R	realis
+RE	referring expression
+REC	recipient
+RED	reduplication
+REL	people in a human relationship
+RES	resultative
+RC	relative clause
+RP	referring phrase
+RQ	rhetorical question
+S	singular (in pronoun glosses)
+S	single argument (primitive grammatical relation)
+SP	specific
+SPAT	spatial marker
+SUPL	superlative
+SURP	surprise
+T	transitive
+V	volitional
+VR	verbalizer
+.	two word gloss for one Kagayanen word in gloss line of examples
+--	separates morphemes in morphological analyses gloss line of examples
+-	glottal stop in the Kagayanen orthography line of examples. Also it is placed between two parts of a root that has reduplication as in sipit-sipit ‘scorpion’.
+...	In analysis line represents conversationally dropped material, usually an inflectional affix.

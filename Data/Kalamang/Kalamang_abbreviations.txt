@@ -1,0 +1,51 @@
+AN.LAT	animate lative
+AN.LOC	animate locative
+ANA	anaphoric demonstrative
+APPRH	apprehensive
+AT	attributive
+ATTEN	attenuative
+DOWN	elevational 'down'
+EMPH	emphatic
+ENC	interjection of (annoyed) encouragement
+EXIST	existential
+FDIST	far distal
+FIL	filler
+HES	hesitation
+IAM	iamitive ('already')
+INT	interjection
+INT.E	interjection of the form e
+INT.PEJ	interjection expressing contempt or dissatisfaction
+INTS	intensive
+ITER	iterative
+LAT	lative (combined ablative and allative)
+N	unanalysed phoneme -n
+NEG_EXIST	negative existential
+NFIN	non-final
+OBJQNT	object quantifier (quantifier modifying an object)
+PAIN	interjection expressing pain
+PH	placeholder
+PLNK	predicate linker
+Q	question word root tama
+RED	reduplication
+SIM	similative
+SURPR	interjection of surprise
+T	unanalysed phoneme -t
+TAG	confirmation-seeking interjection
+TEN	unanalysed morpheme =ten
+VOL	volitional
+UP	elevational 'up'
+H	high tonal target
+L	low tonal target
+*	pitch accent
+|	division between breath groups
+%	boundary tone
+A	agent-like argument of a transitive predicate
+k.o.	kind of
+NP	noun phrase
+O/Obj	object
+P	patient-like argument of a transitive predicate
+Pred	Predicate
+R/Recp	recipient
+S/Subj	subject
+T	theme
+V	verb

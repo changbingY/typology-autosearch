@@ -1,0 +1,101 @@
+A	transitive subject
+ABST	abstractive
+ACC	accusative
+ADJ.PL	adjectival plural
+adv.	adverb
+AND	andative
+ANAPH	anaphoric
+ANTICIP	anticipative
+ATR	advanced tongue root
+AUX	auxiliary
+BHVR	behaviorative
+C	consonant
+CAUS	causative
+CC	copula complement
+COMP	completive
+compl.	complementizer
+COND	conditional
+CONF	confirmational
+coordconn.	coordinating connective
+COP	copulative
+CS	copula subject
+DAT	dative
+dem.	demonstrative
+DIST	distal
+DISTR	distributive
+DP	dummy pronoun
+DUR	durative
+E	extended object
+EXC	exclusive
+FF	final form (pre-pause)
+GEN	genitive
+H	high tone
+HYPO	hypothetical
+ideo.	ideophone
+IMP	imperative
+INC	inclusive
+INCH	inchoative
+INF	infinitive
+INFR	inferential
+INS	instrumental
+INT	intentional
+interj.	interjection
+IPFV	imperfective
+IPS	impersonal passive
+IRR	irrealis
+L	low tone
+lit.	literal
+M	mid tone
+MED	medial
+MID	middle
+n.	noun
+NF	non-final form
+NOM	nominative
+num.	numeral
+nurs.	nursery word
+O	object
+OBL	oblique
+OPT	optative
+PASS	passive
+PAT	patientive
+PHYS	physical property adverb
+pl.	plural
+PLUR	pluractional
+prep.	preposition
+PRF	present perfect
+pro.	pronoun
+PROX	proximal
+PSSM	impersonal possessum
+PST1	recent past tense
+PST2	removed past tense
+PST3	remote past tense
+PST4	remotest past tense
+quant.	quantifier
+REAL	realis
+RECENT	recentive
+RECIP	reciprocal
+REFL	reflexive
+rel.	relativizer
+S	intransitive subject
+SEQ	sequential
+sg.	singular
+SIM	simultaneous
+STAT	stative
+SUBJ	subjunctive
+subordconn.	subordinating connective
+v.	verb
+VEN	venitive
+1	first person
+2	second person
+3	third person
+Ø	zero realization
+-	morpheme boundary
+=	clitic boundary
+[...]	phonetic form
+/.../	phonemic form
+...	morphemic form
+[ˊ]	high tone
+[ˋ]	low tone
+[ˆ]	high-falling tone
+†	deceased
+§	section

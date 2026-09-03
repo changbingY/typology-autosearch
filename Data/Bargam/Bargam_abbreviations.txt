@@ -1,0 +1,100 @@
+*	ill-formed
+~	allomorphs
+ø	zero phoneme or morpheme
+-	morpheme break (in interlinearized texts)
+.	joins words glossing a single morpheme
+#	word break
++	morpheme break (in phonological rules)
+$	syllable break
+α	same feature
+β	same feature
+01	tense or mood place holder
+02	person/number place holder
+1	1st person
+2	2nd person
+3	3rd person
+ACC	accompaniment
+APS	associative possession marker
+ASSOC	associative marker
+BEN	benefactive
+C	consonant
+CFT	contrafactual
+Co	Comment
+COH	cohortative
+COM	comitative
+COMP	complement
+con	consonantal
+COND	conditional
+CONJ	conjunction
+COP	copula
+DD	different subject, durative aspect
+DES	desiderative
+DESIG	designative
+DIST	distributive
+DP	different subject, punctiliar aspect
+DS	different subject
+DUB	dubitative
+DUM	dummy
+EMP	emphatic
+EXCL	exclusive
+EXH	exhaustive
+ft	front
+FUT	future
+HAB	habitual
+HES	hesitational
+HYPO	hypothetical
+IMP	imperative
+IMPRS	impersonal
+INDTR	indeterminate pluralizer suffix
+IP	inalienable possessor prefix
+INSTR	instrumental
+INTER	interrogative
+INTNS	intensifier
+IPF	past imperfect
+IR	irrealis
+ISOL	isolater
+ITS	immediate temporal succession
+JUS	jussive
+lab	labial
+LOC	locative/location
+MAN	manner
+MM	manner morpheme
+MNP	modified noun phrase
+MOD	modifier
+MVP	modified verb phrase
+n/o	not observed
+N	noun
+N1	non-1st person
+NEG	negative
+NP	noun phrase
+O	object prefix
+Obj	object
+P	plural
+PA	past
+PC	pronoun copy
+PFT	perfective aspect
+PLOC	present location
+POS	possessive
+PP	postpositional phrase
+PR	present
+QV	quote verb
+REACT	reactive
+REAL	realis marker
+REC	recipient
+REDUP	reduplication
+REF	referential
+rd	round
+Sbj	subject
+SD	same subject, durative aspect
+S	singular
+SIM	similarity
+sp.	species
+SP	same subject, punctiliar aspect
+SS	same subject
+To	topic
+TM	time
+UNCER	uncertainty
+UNSPC	unspecified
+V	vowel
+VD	voiced
+VL	voiceless

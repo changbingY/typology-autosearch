@@ -1,0 +1,86 @@
+1	first person
+2	second person
+3	third person
+[II], [III]	stem II, stem III
+ABIL	abilitative
+ACAUS	anticausative
+ADD	additive
+AFF	affirmative
+ANTHR	anthroponym
+AOR	aorist
+APASS	antipassive
+APPL	applicative
+APPR	apprehensive
+AUTO	autive
+AUX	auxiliary
+BARE.INF	bare infinitive
+CATAPH	cataphoric
+CAUS	causative
+CISL	cislocative
+COLL	collective
+COMIT	comitative
+COMP	standard of comparison
+COND	conditional
+CONV	converb
+DAT	dative
+DEG	degree
+DEM	demonstrative
+DU	dual
+DUB	dubitative
+EMPH	emphatic
+ERG	ergative
+FACIL	facilitative
+FACT	factual non-past
+GEN	genitive
+GENR	generic
+GER	gerund
+HORT	hortative
+HUM	human
+IDPH:X	pattern X ideophone
+IFR	inferential
+IMM	immediate
+IMP	imperative
+INDEF	indefinite
+INF	infinitive
+INF:II	dental infinitive
+INTERJ	interjection
+INV	inverse
+IPFV	imperfective
+IRR	irrealis
+LNK	linker
+NEG	negative
+NMLZ	nominalization
+OBJ	object
+OBL	oblique
+PASS	passive
+PCP	participle
+PEG	peg circumfix
+PL	plural
+POSS	possessive
+PROB	probabilitative
+PROG	progressive
+PROP	proprietive
+PROX	proximal
+PROXM	proximative
+PRS	egophoric present
+PST	past
+PURP	purposive
+QU	question
+RECIP	reciprocal
+REFL	reflexive
+RH.Q	rhetorical interrogative
+ROG	rogative
+SENS	sensory
+SFP	sentence final particle
+SG	singular
+STAT	stative
+SUBJ	subject
+TOTAL	totalitative reduplication
+TOPO	toponym
+TR	transitive
+TRAL	translocative
+TROP	tropative
+UNEXP.DEG	unexpected degree
+†XXX	incorrect form
+*XXX	reconstructed form
+X*	Kleene star

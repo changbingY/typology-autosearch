@@ -1,0 +1,162 @@
+1	first person
+2	second person
+3	third person
+AB	autobenefactive
+ABS	absolutive
+ACC	accusative
+ACT	action (in action nominalisation)
+ADE	adessive
+ADJZ	adjectiviser
+ADV	adverbialiser
+ANAPH	anaphoric
+ANTICAUS	anticausative
+APPL	applicative
+APPR	apprehensive
+APPR.LOC	approximative locative
+APUD	apudessive
+ARCH.IMP	archaic imperative
+ASP.NEG	aspectual negator
+ASS	associative
+AUX	auxiliary
+C	contrastive
+CAUS	causative
+CLF	classifier
+CNT	continuative
+COLL	collective
+COM	comitative
+CMPR	comparative
+CONC	universal concessive
+CONJ	conjunction
+COP	copula
+CS	compound stem
+DAT	dative
+DEM	demonstrative
+DIR	orientation prefix
+DISTR	distributive
+DM	discourse marker
+DU	dual
+ERG	ergative
+EP	epistemic suffix
+EVID	evidentiality
+EXP.PERF	experiential perfect
+EXV	existential verb
+FOC	focus
+FOC.C	contrastive focus
+GEN	genitive
+HES	hesitation
+HPREF	historical prefix
+HSUF	historical suffix
+HYPO	hypocoristic suffix
+IFR	inferential
+IMP	imperative
+INDEF	indefinite
+INF	infinitive
+INST	instrumental
+INTR	intransitiviser
+INV	inverse
+IPFV	imperfective
+IRR.NEG	irrealis negation
+LNK	linker
+LOC	locative
+LV	light verb
+MOD	modal discourse enclitic
+MOD.NEG	modal non-controllable negator
+NACT	non-actual
+NAT	nativity and source suffix
+NEG	negation, negator
+NEG.COP	negative copula
+NMLZ	nominaliser
+NMLZ:CAP	capacitative nominaliser
+NMLZ:PREP	preparative nominaliser
+NOM	nominative
+NON.SG	non-singular
+NPST	non-past
+NSI	non-shared information
+NUM	numeral
+OPT	optative
+PARAL	paralinguistic utterance
+PART	partitive
+PFV	perfective
+PL	plural
+PN	personal name
+POST	postposition
+POT	potential
+PREES	present tense
+PREF	prefix
+PROG	progressive
+PROH	prohibitive
+PROSP	prospective
+PST	past
+Q	question
+RED	reduplication
+RED.ADJZ	reduplicative adjectivisation
+RED.NMLZ	reduplicative nominalisation
+REFL	reflexive
+REP	reportative
+REPE	repetitive
+RES	resultative
+SENS	sensory evidential
+SUFF	suffix
+SG	singular
+SUPE	superessive
+SUPL	superlative
+TAM	tense–aspect–mood
+TERM	terminative
+TOP	topic
+TOP.C	contrastive topic
+TOPN	toponym
+UNCERT	uncertainty
+VBLZ	verbaliser
+~	reduplication
+-	morpheme boundary
+=	clitic boundary
+?	unclear or unidentified meaning
+*	ungrammatical form (followed by italic)
+.	end of a main clause
+[...]	segment that has been omitted
+<...>	Chinese loanword; see §1.3.2
+(...)	element absent in the recording and supplied by the consultant later on
+>	direction of action
+*A	1. proto-form in historical reconstructions (followed by roman); 2. ungrammatical form in the contemporary language (followed by italic)
+?A	A is marginally acceptable to native speakers
+†A	1. A is an obsolete term; 2. A is an abandoned community
+A < B	A is derived or borrowed from B
+A > B	A changes into B
+A⪤B	A and B are members of the same word family
+ADV	adverb
+A	most agent-like participant of a transitive clause
+BLT	Basic Linguistic Theory
+Cf	final consonant
+Ci	initial consonant
+Cm	medial consonant
+Cp	preinitial consonant
+CC	copular complement
+Ch.	Chinese
+CL	Chinese loanword
+CS	copular subject
+DOM	differential object marking
+E	extension
+Ge.	Geshiza
+N	noun
+NP	noun phrase
+P	non-agentive participant of a transitive clause
+R	recipient
+PTH	Proto-Trans-Himalayan
+S	single participant of an intransitive clause
+SAP	speech-act-participant
+T	theme
+Tib.	Tibetan
+TL	Tibetan loanword
+V	vowel, verb
+WT	Written Tibetan
+Σ	root
+[ ]	phonetic transcription
+/ /	phonemic transcription
+§	section or subsection in the grammar
+MEE	monolingually elicited example
+RN	recorded narrations
+UA	utterance primarily addressing the author
+OU	overheard utterance primarily addressing another person besides the author
+RC	recorded conversation
+ACC	accepted modification
+REJ	rejected modification (also accompanied by the asterisk * in the example)
